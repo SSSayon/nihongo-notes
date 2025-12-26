@@ -1,0 +1,110 @@
+/* 自定义样式 */
+
+/* Ruby 注音样式 */
+ruby {
+    ruby-position: over;
+}
+
+rt {
+    font-size: 0.65em;
+    color: var(--md-default-fg-color--light);
+    font-weight: normal;
+}
+
+/* 词汇卡片 */
+.vocab-card {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    background: var(--md-code-bg-color);
+}
+
+.vocab-card h2 {
+    margin-top: 0;
+    border-bottom: none;
+    font-size: 1.5rem;
+}
+
+/* 例句样式 */
+blockquote {
+    border-left-color: var(--md-primary-fg-color) !important;
+    background-color: var(--md-code-bg-color);
+    padding: 0.8rem 1rem;
+    margin: 1rem 0;
+}
+
+blockquote p {
+    margin: 0.3rem 0;
+}
+
+/* 词性标签 */
+.word-type {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    font-size: 0.75em;
+    border-radius: 4px;
+    background: var(--md-primary-fg-color);
+    color: white;
+    margin-left: 0.5em;
+}
+
+/* 分隔线 */
+hr {
+    border: none;
+    border-top: 1px dashed var(--md-default-fg-color--lightest);
+    margin: 2rem 0;
+}
+
+/* 日文字体优化 */
+.md-content {
+    font-family: "Noto Sans SC", "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Hiragino Sans", sans-serif;
+}
+
+/* 搜索框优化 */
+.md-search__input {
+    font-family: "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+/* 备注样式 */
+.note-box {
+    background: #fff8e1;
+    border-left: 4px solid #ffc107;
+    padding: 0.8rem 1rem;
+    margin: 1rem 0;
+    border-radius: 0 4px 4px 0;
+}
+
+[data-md-color-scheme="slate"] .note-box {
+    background: rgba(255, 193, 7, 0.1);
+}
+
+/* 动词变形表格 */
+.conjugation-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+
+.conjugation-table th,
+.conjugation-table td {
+    padding: 0.5rem;
+    border: 1px solid var(--md-default-fg-color--lightest);
+    text-align: left;
+}
+
+.conjugation-table th {
+    background: var(--md-primary-fg-color);
+    color: white;
+}
+
+/* 响应式优化 */
+@media screen and (max-width: 600px) {
+    ruby {
+        font-size: 1.1em;
+    }
+
+    rt {
+        font-size: 0.55em;
+    }
+}

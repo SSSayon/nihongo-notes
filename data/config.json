@@ -1,0 +1,26 @@
+{
+  "api_settings": {
+    "DeepSeek": {
+      "deepseek-chat": {
+        "enabled": false,
+        "priority": 1
+      }
+    },
+    "Google": {
+      "gemini-3-flash-preview": {
+        "enabled": true,
+        "priority": 2
+      },
+      "gemini-2.5-flash": {
+        "enabled": true,
+        "priority": 3
+      }
+    },
+    "OpenAI": {
+      "gpt-5-mini": {
+        "enabled": false,
+        "priority": 4
+      }
+    }
+  }
+}

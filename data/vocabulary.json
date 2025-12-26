@@ -1,0 +1,70 @@
+[
+  {
+    "id": "soto_1766729483",
+    "word": "外",
+    "reading": "そと",
+    "display_html": "<ruby>外<rt>そと</rt></ruby>",
+    "type": "名词",
+    "meaning": "外面，外部",
+    "examples": [
+      {
+        "jp": "外は寒いです。",
+        "reading": "そとはさむいです。",
+        "html": "<ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
+        "cn": "外面很冷。"
+      }
+    ],
+    "created_at": 1766729483
+  },
+  {
+    "id": "musuko_1766729483",
+    "word": "息子",
+    "reading": "むすこ",
+    "display_html": "<ruby>息子<rt>むすこ</rt></ruby>",
+    "type": "名词",
+    "meaning": "儿子",
+    "examples": [
+      {
+        "jp": "私の息子は大学生です。",
+        "reading": "わたしのむすこはだいがくせいです。",
+        "html": "<ruby>私<rt>わたし</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。",
+        "cn": "我的儿子是大学生。"
+      }
+    ],
+    "created_at": 1766729483
+  },
+  {
+    "id": "karui_1766744557",
+    "word": "軽い",
+    "reading": "かるい",
+    "display_html": "<ruby>軽<rt>かる</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "轻的；轻便的；轻微的",
+    "examples": [
+      {
+        "jp": "この鞄はとても軽いです。",
+        "reading": "このかばんはとてもかるいです。",
+        "html": "この<ruby>鞄<rt>かばん</rt></ruby>はとても<ruby>軽<rt>かる</rt></ruby>いです。",
+        "cn": "这个包很轻。"
+      }
+    ],
+    "created_at": 1766744557
+  },
+  {
+    "id": "omoi_1766744557",
+    "word": "重い",
+    "reading": "おもい",
+    "display_html": "<ruby>重<rt>おも</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "重的；沉重的；严重的",
+    "examples": [
+      {
+        "jp": "荷物が重くて持てません。",
+        "reading": "にもつがおもくてもてません。",
+        "html": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くて<ruby>持<rt>も</rt></ruby>てません。",
+        "cn": "行李太重了，拿不动。"
+      }
+    ],
+    "created_at": 1766744557
+  }
+]

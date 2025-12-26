@@ -1,0 +1,84 @@
+[
+  {
+    "id": "tsukeru",
+    "word": "着ける",
+    "reading": "つける",
+    "display_html": "<ruby>着<rt>つ</rt></ruby>ける",
+    "type": "一段动词",
+    "meaning": "穿戴（衣服、饰品等）；使靠近；安装",
+    "examples": [
+      {
+        "jp": "ネクタイを着けて出かけます。",
+        "reading": "ネクタイをつけてでかけます。",
+        "html": "ネクタイを<ruby>着<rt>つ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>かけます。",
+        "cn": "系上领带出门。"
+      },
+      {
+        "jp": "車を壁に着けて停めました。",
+        "reading": "くるまをかべにつけてとめました。",
+        "html": "<ruby>車<rt>くるま</rt></ruby>を<ruby>壁<rt>かべ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けて<ruby>停<rt>と</rt></ruby>めました。",
+        "cn": "把车贴着墙停下了。"
+      },
+      {
+        "jp": "新しいカーテンを窓に着けました。",
+        "reading": "あたらしいカーテンをまどにつけました。",
+        "html": "<ruby>新<rt>あたら</rt></ruby>しいカーテンを<ruby>窓<rt>まど</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けました。",
+        "cn": "把新窗帘装在了窗户上。"
+      }
+    ],
+    "created_at": 1766679912,
+    "notes": ""
+  },
+  {
+    "id": "tsukareru_1766728657",
+    "word": "疲れる",
+    "reading": "つかれる",
+    "display_html": "<ruby>疲<rt>つか</rt></ruby>れる",
+    "type": "一段动词",
+    "meaning": "疲惫，疲劳",
+    "examples": [
+      {
+        "jp": "一日中歩いて疲れました。",
+        "reading": "いちにちじゅうあるいてつかれました。",
+        "html": "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れました。",
+        "cn": "走了一整天，累了。"
+      }
+    ],
+    "created_at": 1766728657,
+    "notes": ""
+  },
+  {
+    "id": "mitsukeru_1766744485",
+    "word": "見つける",
+    "reading": "みつける",
+    "display_html": "<ruby>見<rt>み</rt></ruby>つける",
+    "type": "一段动词",
+    "meaning": "找到，发现",
+    "examples": [
+      {
+        "jp": "公園で鍵を見つけました。",
+        "reading": "こうえんでかぎをみつけました。",
+        "html": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。",
+        "cn": "在公园里找到了钥匙。"
+      }
+    ],
+    "created_at": 1766744485
+  },
+  {
+    "id": "suku_1766744485",
+    "word": "空く",
+    "reading": "すく",
+    "display_html": "<ruby>空<rt>す</rt></ruby>く",
+    "type": "五段动词",
+    "meaning": "（肚子）饿，空",
+    "examples": [
+      {
+        "jp": "お腹が空きました。",
+        "reading": "おなかがすきました。",
+        "html": "お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>きました。",
+        "cn": "肚子饿了。"
+      }
+    ],
+    "created_at": 1766744485
+  }
+]

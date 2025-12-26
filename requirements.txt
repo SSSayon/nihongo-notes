@@ -1,0 +1,5 @@
+streamlit
+mkdocs
+mkdocs-material
+requests
+pykakasi
