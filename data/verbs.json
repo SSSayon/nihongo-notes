@@ -1,51 +1,78 @@
 [
   {
-    "id": "tsukeru",
-    "word": "着ける",
-    "reading": "つける",
-    "display_html": "<ruby>着<rt>つ</rt></ruby>ける",
-    "type": "一段动词",
-    "meaning": "穿戴（衣服、饰品等）；使靠近；安装",
+    "id": "kakaru_1766846438",
+    "word": "かかる",
+    "reading": "かかる",
+    "display_html": "<ruby>掛<rt>か</rt></ruby>かる",
+    "type": "五段动词",
+    "meaning": "花费（时间、金钱）；挂着；覆盖；患病",
     "examples": [
       {
-        "jp": "ネクタイを着けて出かけます。",
-        "reading": "ネクタイをつけてでかけます。",
-        "html": "ネクタイを<ruby>着<rt>つ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>かけます。",
-        "cn": "系上领带出门。"
+        "jp": "家から大学まで一時間かかります。",
+        "html": "<ruby>家<rt>いえ</rt></ruby>から<ruby>大<rt>だい</rt></ruby><ruby>学<rt>がく</rt></ruby>まで<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>かかります。",
+        "cn": "从家里到大学需要花费一个小时。"
       },
       {
-        "jp": "車を壁に着けて停めました。",
-        "reading": "くるまをかべにつけてとめました。",
-        "html": "<ruby>車<rt>くるま</rt></ruby>を<ruby>壁<rt>かべ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けて<ruby>停<rt>と</rt></ruby>めました。",
-        "cn": "把车贴着墙停下了。"
+        "jp": "この修理にはお金がかかります。",
+        "html": "この<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>にはお<ruby>金<rt>かね</rt></ruby>がかかります。",
+        "cn": "这项修理需要花钱。"
       },
       {
-        "jp": "新しいカーテンを窓に着けました。",
-        "reading": "あたらしいカーテンをまどにつけました。",
-        "html": "<ruby>新<rt>あたら</rt></ruby>しいカーテンを<ruby>窓<rt>まど</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けました。",
-        "cn": "把新窗帘装在了窗户上。"
+        "jp": "壁にきれいな絵が掛かっています。",
+        "html": "<ruby>壁<rt>かべ</rt></ruby>にきれいな<ruby>絵<rt>え</rt></ruby>が<ruby>掛<rt>か</rt></ruby>っています。",
+        "cn": "墙上挂着一幅漂亮的画。"
       }
     ],
-    "created_at": 1766679912,
-    "notes": ""
+    "created_at": 1766846438
   },
   {
-    "id": "tsukareru_1766728657",
-    "word": "疲れる",
-    "reading": "つかれる",
-    "display_html": "<ruby>疲<rt>つか</rt></ruby>れる",
-    "type": "一段动词",
-    "meaning": "疲惫，疲劳",
+    "id": "au_1766845537",
+    "word": "会う",
+    "reading": "あう",
+    "display_html": "<ruby>会<rt>あ</rt></ruby>う",
+    "type": "五段动词",
+    "meaning": "见面；遇见",
     "examples": [
       {
-        "jp": "一日中歩いて疲れました。",
-        "reading": "いちにちじゅうあるいてつかれました。",
-        "html": "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れました。",
-        "cn": "走了一整天，累了。"
+        "jp": "駅で友達に会います。",
+        "html": "<ruby>駅<rt>えき</rt></ruby>で<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>に<ruby>会<rt>あ</rt></ruby>います。",
+        "cn": "在车站和朋友见面。"
       }
     ],
-    "created_at": 1766728657,
-    "notes": ""
+    "created_at": 1766845537
+  },
+  {
+    "id": "hikkosu_1766845537",
+    "word": "引っ越す",
+    "reading": "ひっこす",
+    "display_html": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す",
+    "type": "五段动词",
+    "meaning": "搬家",
+    "examples": [
+      {
+        "jp": "来週、新しいアパートに引っ越します。",
+        "html": "<ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいアパートに<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
+        "cn": "下周要搬到新的公寓去。"
+      }
+    ],
+    "created_at": 1766845537
+  },
+  {
+    "id": "mitsukaru_1766845537",
+    "word": "見つかる",
+    "reading": "みつかる",
+    "display_html": "<ruby>見<rt>み</rt></ruby>つかる",
+    "type": "五段动词",
+    "meaning": "被发现；被找到",
+    "examples": [
+      {
+        "jp": "なくした鍵が見つかりました。",
+        "html": "なくした<ruby>鍵<rt>かぎ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。",
+        "cn": "丢了的钥匙找到了。"
+      }
+    ],
+    "created_at": 1766845537,
+    "notes": "注意区别：\n- 見つかる 是**自动词**，“被找到”，前面用 が\n- 見つける 是**他动词**，“找到某物”，前面用 を"
   },
   {
     "id": "mitsukeru_1766744485",
@@ -57,7 +84,6 @@
     "examples": [
       {
         "jp": "公園で鍵を見つけました。",
-        "reading": "こうえんでかぎをみつけました。",
         "html": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。",
         "cn": "在公园里找到了钥匙。"
       }
@@ -74,11 +100,54 @@
     "examples": [
       {
         "jp": "お腹が空きました。",
-        "reading": "おなかがすきました。",
         "html": "お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>きました。",
         "cn": "肚子饿了。"
       }
     ],
     "created_at": 1766744485
+  },
+  {
+    "id": "tsukareru_1766728657",
+    "word": "疲れる",
+    "reading": "つかれる",
+    "display_html": "<ruby>疲<rt>つか</rt></ruby>れる",
+    "type": "一段动词",
+    "meaning": "疲惫，疲劳",
+    "examples": [
+      {
+        "jp": "一日中歩いて疲れました。",
+        "html": "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れました。",
+        "cn": "走了一整天，累了。"
+      }
+    ],
+    "created_at": 1766728657,
+    "notes": ""
+  },
+  {
+    "id": "tsukeru",
+    "word": "着ける",
+    "reading": "つける",
+    "display_html": "<ruby>着<rt>つ</rt></ruby>ける",
+    "type": "一段动词",
+    "meaning": "穿戴（衣服、饰品等）；使靠近；安装",
+    "examples": [
+      {
+        "jp": "ネクタイを着けて出かけます。",
+        "html": "ネクタイを<ruby>着<rt>つ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>かけます。",
+        "cn": "系上领带出门。"
+      },
+      {
+        "jp": "車を壁に着けて停めました。",
+        "html": "<ruby>車<rt>くるま</rt></ruby>を<ruby>壁<rt>かべ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けて<ruby>停<rt>と</rt></ruby>めました。",
+        "cn": "把车贴着墙停下了。"
+      },
+      {
+        "jp": "新しいカーテンを窓に着けました。",
+        "html": "<ruby>新<rt>あたら</rt></ruby>しいカーテンを<ruby>窓<rt>まど</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けました。",
+        "cn": "把新窗帘装在了窗户上。"
+      }
+    ],
+    "created_at": 1766679912,
+    "notes": ""
   }
 ]

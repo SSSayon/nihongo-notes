@@ -1,37 +1,99 @@
 [
   {
-    "id": "soto_1766729483",
-    "word": "外",
-    "reading": "そと",
-    "display_html": "<ruby>外<rt>そと</rt></ruby>",
+    "id": "hokkaido_1766845615",
+    "word": "北海道",
+    "reading": "ほっかいどう",
+    "display_html": "<ruby>北<rt>ほっ</rt>海<rt>かい</rt>道<rt>どう</rt></ruby>",
     "type": "名词",
-    "meaning": "外面，外部",
+    "meaning": "北海道（地名）",
     "examples": [
       {
-        "jp": "外は寒いです。",
-        "reading": "そとはさむいです。",
-        "html": "<ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
-        "cn": "外面很冷。"
+        "jp": "私は冬に北海道へ旅行に行きたいです。",
+        "html": "<ruby>私<rt>わたし</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>に<ruby>北<rt>ほっ</rt>海<rt>かい</rt>道<rt>どう</rt></ruby>へ<ruby>旅<rt>りょ</rt>行<rt>こう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。",
+        "cn": "我想在冬天去北海道旅行。"
       }
     ],
-    "created_at": 1766729483
+    "created_at": 1766845615
   },
   {
-    "id": "musuko_1766729483",
-    "word": "息子",
-    "reading": "むすこ",
-    "display_html": "<ruby>息子<rt>むすこ</rt></ruby>",
-    "type": "名词",
-    "meaning": "儿子",
+    "id": "kurai_1766845615",
+    "word": "暗い",
+    "reading": "くらい",
+    "display_html": "<ruby>暗<rt>くら</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "昏暗的；阴郁的",
     "examples": [
       {
-        "jp": "私の息子は大学生です。",
-        "reading": "わたしのむすこはだいがくせいです。",
-        "html": "<ruby>私<rt>わたし</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。",
-        "cn": "我的儿子是大学生。"
+        "jp": "部屋が暗いので、電気をつけましょう。",
+        "html": "<ruby>部<rt>へ</rt>屋<rt>や</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>いので、<ruby>電<rt>でん</rt>気<rt>き</rt></ruby>をつけましょう。",
+        "cn": "房间很暗，开灯吧。"
       }
     ],
-    "created_at": 1766729483
+    "created_at": 1766845615
+  },
+  {
+    "id": "nabe_1766845615",
+    "word": "鍋",
+    "reading": "なべ",
+    "display_html": "<ruby>鍋<rt>なべ</rt></ruby>",
+    "type": "名词",
+    "meaning": "锅；火锅",
+    "examples": [
+      {
+        "jp": "今夜はみんなで鍋を食べましょう。",
+        "html": "<ruby>今<rt>こん</rt>夜<rt>や</rt></ruby>はみんなで<ruby>鍋<rt>なべ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べましょう。",
+        "cn": "今晚大家一起吃火锅吧。"
+      }
+    ],
+    "created_at": 1766845615
+  },
+  {
+    "id": "danbou_1766845615",
+    "word": "暖房",
+    "reading": "だんぼう",
+    "display_html": "<ruby>暖<rt>だん</rt>房<rt>ぼう</rt></ruby>",
+    "type": "名词",
+    "meaning": "暖气；取暖设备",
+    "examples": [
+      {
+        "jp": "寒いので暖房をつけてください。",
+        "html": "<ruby>寒<rt>さむ</rt></ruby>いので<ruby>暖<rt>だん</rt>房<rt>ぼう</rt></ruby>をつけてください。",
+        "cn": "天气冷，请开一下暖气。"
+      }
+    ],
+    "created_at": 1766845615
+  },
+  {
+    "id": "urusai_1766845615",
+    "word": "うるさい",
+    "reading": "うるさい",
+    "display_html": "うるさい",
+    "type": "形容词",
+    "meaning": "吵闹的；烦人的",
+    "examples": [
+      {
+        "jp": "外がうるさくて、よく眠れませんでした。",
+        "html": "<ruby>外<rt>そと</rt></ruby>がうるさくて、よく<ruby>眠<rt>ねむ</rt></ruby>れませんでした。",
+        "cn": "外面太吵了，没怎么睡好。"
+      }
+    ],
+    "created_at": 1766845615
+  },
+  {
+    "id": "kitanai_1766845615",
+    "word": "汚い",
+    "reading": "きたない",
+    "display_html": "<ruby>汚<rt>きたな</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "脏的；不整洁的",
+    "examples": [
+      {
+        "jp": "靴が汚いので、洗わなければなりません。",
+        "html": "<ruby>靴<rt>くつ</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>いので、<ruby>洗<rt>あら</rt></ruby>わなければなりません。",
+        "cn": "鞋子脏了，必须得洗一下。"
+      }
+    ],
+    "created_at": 1766845615
   },
   {
     "id": "karui_1766744557",
@@ -66,5 +128,39 @@
       }
     ],
     "created_at": 1766744557
+  },
+  {
+    "id": "soto_1766729483",
+    "word": "外",
+    "reading": "そと",
+    "display_html": "<ruby>外<rt>そと</rt></ruby>",
+    "type": "名词",
+    "meaning": "外面，外部",
+    "examples": [
+      {
+        "jp": "外は寒いです。",
+        "reading": "そとはさむいです。",
+        "html": "<ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
+        "cn": "外面很冷。"
+      }
+    ],
+    "created_at": 1766729483
+  },
+  {
+    "id": "musuko_1766729483",
+    "word": "息子",
+    "reading": "むすこ",
+    "display_html": "<ruby>息子<rt>むすこ</rt></ruby>",
+    "type": "名词",
+    "meaning": "儿子",
+    "examples": [
+      {
+        "jp": "私の息子は大学生です。",
+        "reading": "わたしのむすこはだいがくせいです。",
+        "html": "<ruby>私<rt>わたし</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。",
+        "cn": "我的儿子是大学生。"
+      }
+    ],
+    "created_at": 1766729483
   }
 ]
