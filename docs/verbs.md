@@ -2,7 +2,7 @@
 
 记录动词。
 
-共 **8** 个动词
+共 **7** 个动词
 
 ---
 
@@ -27,21 +27,6 @@
     > <div class="example-box">
     > <ruby>壁<rt>かべ</rt></ruby>にきれいな<ruby>絵<rt>え</rt></ruby>が<ruby>掛<rt>か</rt></ruby>っています。
     > <br><small>墙上挂着一幅漂亮的画。</small>
-    > </div>
-
----
-
-## 会う
-
-- **读音**：<ruby>会<rt>あ</rt></ruby>う（あう）
-- **类型**：五段动词
-- **释义**：见面；遇见
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>駅<rt>えき</rt></ruby>で<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>に<ruby>会<rt>あ</rt></ruby>います。
-    > <br><small>在车站和朋友见面。</small>
     > </div>
 
 ---

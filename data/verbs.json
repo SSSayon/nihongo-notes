@@ -26,22 +26,6 @@
     "created_at": 1766846438
   },
   {
-    "id": "au_1766845537",
-    "word": "会う",
-    "reading": "あう",
-    "display_html": "<ruby>会<rt>あ</rt></ruby>う",
-    "type": "五段动词",
-    "meaning": "见面；遇见",
-    "examples": [
-      {
-        "jp": "駅で友達に会います。",
-        "html": "<ruby>駅<rt>えき</rt></ruby>で<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>に<ruby>会<rt>あ</rt></ruby>います。",
-        "cn": "在车站和朋友见面。"
-      }
-    ],
-    "created_at": 1766845537
-  },
-  {
     "id": "hikkosu_1766845537",
     "word": "引っ越す",
     "reading": "ひっこす",

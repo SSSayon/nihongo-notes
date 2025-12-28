@@ -6,30 +6,42 @@
 
 ---
 
-## あまり
+## ので
 
-- **类别**：副词
-- **含义**：表示“不太…”, “不怎么…”的程度。常与否定形式连用。
+- **类别**：助词
+- **含义**：表示客观的原因、理由。语气比“から”更委婉、礼貌，常用于陈述事实、解释原因、请求或拒绝。
 
 - **用法**：
 
-    - あまり + 否定形：表示程度不高，或不经常做某事。
+    - 动词/い形容词普通形 + ので
+    - な形容词词干/名词 + な + ので
+    - 强调客观因果关系，多用于正式场合或向长辈、上级说明情况。
 
 - **例句**：
 
     > <div class="example-box">
-    > あまり<ruby>食<rt>た</rt></ruby>べません。
-    > <br><small>不太吃。</small>
+    > <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っているので、<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていきます。
+    > <br><small>因为正在下雨，所以我要带伞去。</small>
     > </div>
 
     > <div class="example-box">
-    > この<ruby>映画<rt>えいが</rt></ruby>はあまり<ruby>面白<rt>おもしろ</rt></ruby>くありません。
-    > <br><small>这部电影不太有趣。</small>
+    > <ruby>用事<rt>ようじ</rt></ruby>があるので、お<ruby>先<rt>さき</rt></ruby>に<ruby>失礼<rt>しつれい</rt></ruby>します。
+    > <br><small>因为有点事，所以我先告辞了。</small>
     > </div>
 
     > <div class="example-box">
-    > <ruby>最近<rt>さいきん</rt></ruby>、あまり<ruby>運動<rt>うんどう</rt></ruby>していません。
-    > <br><small>最近不怎么运动。</small>
+    > この<ruby>部屋<rt>へや</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かなので、よく<ruby>勉強<rt>べんきょう</rt></ruby>ができます。
+    > <br><small>因为这个房间很安静，所以能好好学习。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>今日<rt>きょう</rt></ruby>は<ruby>日曜日<rt>にちようび</rt></ruby>なので、<ruby>道<rt>みち</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでいます。
+    > <br><small>因为今天是周日，所以路上很拥堵。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いので、<ruby>早<rt>はや</rt></ruby>く<ruby>帰<rt>かえ</rt></ruby>ってもいいですか。
+    > <br><small>因为感觉身体不太舒服，可以早点回去吗？</small>
     > </div>
 
 ---

@@ -1,5 +1,110 @@
 [
   {
+    "id": "anzen_1766931677",
+    "word": "安全",
+    "reading": "あんぜん",
+    "display_html": "<ruby>安全<rt>あんぜん</rt></ruby>",
+    "type": "名词/形容动词",
+    "meaning": "安全",
+    "examples": [
+      {
+        "jp": "この町は夜一人で歩いても安全です。",
+        "html": "この<ruby>町<rt>まち</rt></ruby>は<ruby>夜<rt>よる</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>いても<ruby>安全<rt>あんぜん</rt></ruby>です。",
+        "cn": "这个小镇晚上一个人走也很安全。"
+      },
+      {
+        "jp": "安全な場所へ避難してください。",
+        "html": "<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>場所<rt>ばしょ</rt></ruby>へ<ruby>避難<rt>ひなん</rt></ruby>してください。",
+        "cn": "请去安全的地方避难。"
+      }
+    ],
+    "created_at": 1766931677
+  },
+  {
+    "id": "higashi-nishi-minami-kita_1766931677",
+    "word": "東・西・南・北",
+    "reading": "ひがし・にし・みなみ・きた",
+    "display_html": "<ruby>東<rt>ひがし</rt></ruby>・<ruby>西<rt>にし</rt></ruby>・<ruby>南<rt>みなみ</rt></ruby>・<ruby>北<rt>きた</rt></ruby>",
+    "type": "名词",
+    "meaning": "东·西·南·北",
+    "examples": [
+      {
+        "jp": "太陽は東から昇って、西に沈みます。",
+        "html": "<ruby>太陽<rt>たいよう</rt></ruby>は<ruby>東<rt>ひがし</rt></ruby>から<ruby>昇<rt>のぼ</rt></ruby>って、<ruby>西<rt>にし</rt></ruby>に<ruby>沈<rt>しず</rt></ruby>みます。",
+        "cn": "太阳从东边升起，从西边落下。"
+      },
+      {
+        "jp": "日本の南には沖縄があります。",
+        "html": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>には<ruby>沖縄<rt>おきなわ</rt></ruby>があります。",
+        "cn": "日本的南边有冲绳。"
+      }
+    ],
+    "created_at": 1766931677
+  },
+  {
+    "id": "atari_1766931677",
+    "word": "辺り",
+    "reading": "あたり",
+    "display_html": "<ruby>辺<rt>あた</rt></ruby>り",
+    "type": "名词",
+    "meaning": "附近，周围；大约，左右",
+    "examples": [
+      {
+        "jp": "この辺りにコンビニはありますか。",
+        "html": "この<ruby>辺<rt>あた</rt></ruby>りにコンビニはありますか。",
+        "cn": "这附近有便利店吗？"
+      },
+      {
+        "jp": "来週の火曜日辺りに会いましょう。",
+        "html": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby><ruby>辺<rt>あた</rt></ruby>りに<ruby>会<rt>あ</rt></ruby>いましょう。",
+        "cn": "下周二左右见个面吧。"
+      }
+    ],
+    "created_at": 1766931677
+  },
+  {
+    "id": "musuko-musume_1766931677",
+    "word": "息子・娘",
+    "reading": "むすこ・むすめ",
+    "display_html": "<ruby>息子<rt>むすこ</rt></ruby>・<ruby>娘<rt>むすめ</rt></ruby>",
+    "type": "名词",
+    "meaning": "儿子·女儿",
+    "examples": [
+      {
+        "jp": "私の息子は今年から大学生になります。",
+        "html": "<ruby>私<rt>わたし</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>は<ruby>今年<rt>ことし</rt></ruby>から<ruby>大学生<rt>だいがくせい</rt></ruby>になります。",
+        "cn": "我的儿子从今年起要成为大学生了。"
+      },
+      {
+        "jp": "娘はピアノを習っています。",
+        "html": "<ruby>娘<rt>むすめ</rt></ruby>はピアノを<ruby>習<rt>なら</rt></ruby>っています。",
+        "cn": "女儿正在学习钢琴。"
+      }
+    ],
+    "created_at": 1766931677
+  },
+  {
+    "id": "mado_1766931677",
+    "word": "窓",
+    "reading": "まど",
+    "display_html": "<ruby>窓<rt>まど</rt></ruby>",
+    "type": "名词",
+    "meaning": "窗户",
+    "examples": [
+      {
+        "jp": "窓を開けて、空気を入れ替えましょう。",
+        "html": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて、<ruby>空気<rt>くうき</rt></ruby>を<ruby>入<rt>い</rt></ruby>れ<ruby>替<rt>か</rt></ruby>えましょう。",
+        "cn": "打开窗户换换空气吧。"
+      },
+      {
+        "jp": "新幹線の窓側の席を予約しました。",
+        "html": "<ruby>新幹線<rt>しんかんせん</rt></ruby>の<ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>しました。",
+        "cn": "预订了新干线靠窗的座位。"
+      }
+    ],
+    "created_at": 1766931677
+  },
+  {
     "id": "hokkaido_1766845615",
     "word": "北海道",
     "reading": "ほっかいどう",
@@ -142,23 +247,6 @@
         "reading": "そとはさむいです。",
         "html": "<ruby>外<rt>そと</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。",
         "cn": "外面很冷。"
-      }
-    ],
-    "created_at": 1766729483
-  },
-  {
-    "id": "musuko_1766729483",
-    "word": "息子",
-    "reading": "むすこ",
-    "display_html": "<ruby>息子<rt>むすこ</rt></ruby>",
-    "type": "名词",
-    "meaning": "儿子",
-    "examples": [
-      {
-        "jp": "私の息子は大学生です。",
-        "reading": "わたしのむすこはだいがくせいです。",
-        "html": "<ruby>私<rt>わたし</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。",
-        "cn": "我的儿子是大学生。"
       }
     ],
     "created_at": 1766729483
