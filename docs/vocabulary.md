@@ -2,7 +2,47 @@
 
 记录名词、形容词等词汇。
 
-共 **14** 个词汇
+共 **16** 个词汇
+
+---
+
+## 親切
+
+- **读音**：<ruby>親切<rt>しんせつ</rt></ruby>（しんせつ）
+- **词性**：形容动词
+- **释义**：亲切；热心；友善
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>田中<rt>たなか</rt></ruby>さんはとても<ruby>親切<rt>しんせつ</rt></ruby>です。
+    > <br><small>田中先生非常亲切。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>親切<rt>しんせつ</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてくれました。
+    > <br><small>他好心地为我指了路。</small>
+    > </div>
+
+---
+
+## 家賃
+
+- **读音**：<ruby>家賃<rt>やちん</rt></ruby>（やちん）
+- **词性**：名词
+- **释义**：房租
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>毎月<rt>まいつき</rt></ruby>、<ruby>家賃<rt>やちん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。
+    > <br><small>每个月交房租。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>東京<rt>とうきょう</rt></ruby>は<ruby>家賃<rt>やちん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。
+    > <br><small>东京的房租很贵。</small>
+    > </div>
 
 ---
 
@@ -63,6 +103,15 @@
     > <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby><ruby>辺<rt>あた</rt></ruby>りに<ruby>会<rt>あ</rt></ruby>いましょう。
     > <br><small>下周二左右见个面吧。</small>
     > </div>
+
+> 📝 **备注**：
+
+> 辺り 和 隣（となり）的区别：
+> 
+> - 辺り 范围模糊（周围、一带），不一定紧挨着
+> 
+> - 隣 范围非常精确（紧贴、隔壁），且要求是同类事物
+> 
 
 ---
 
