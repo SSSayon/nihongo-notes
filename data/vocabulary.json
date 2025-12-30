@@ -1,5 +1,68 @@
 [
   {
+    "id": "iriguchi_1767100727",
+    "word": "入口",
+    "reading": "いりぐち",
+    "display_html": "<ruby>入口<rt>いりぐち</rt></ruby>",
+    "type": "名词",
+    "meaning": "入口；门口",
+    "examples": [
+      {
+        "jp": "入口はどこですか？",
+        "html": "<ruby>入口<rt>いりぐち</rt></ruby>はどこですか？",
+        "cn": "入口在哪里？"
+      },
+      {
+        "jp": "入口のそばで待っています。",
+        "html": "<ruby>入口<rt>いりぐち</rt></ruby>のそばで<ruby>待<rt>ま</rt></ruby>っています。",
+        "cn": "我在入口旁边等着。"
+      }
+    ],
+    "created_at": 1767100727
+  },
+  {
+    "id": "mousugu_1767100727",
+    "word": "もうすぐ",
+    "reading": "もうすぐ",
+    "display_html": "もうすぐ",
+    "type": "副词",
+    "meaning": "马上；很快",
+    "examples": [
+      {
+        "jp": "もうすぐ春が来ます。",
+        "html": "もうすぐ<ruby>春<rt>はる</rt></ruby>が<ruby>来<rt>き</rt></ruby>ます。",
+        "cn": "春天快要到了。"
+      },
+      {
+        "jp": "もうすぐ映画が始まります。",
+        "html": "もうすぐ<ruby>映画<rt>えいが</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。",
+        "cn": "电影马上就要开始了。"
+      }
+    ],
+    "created_at": 1767100727
+  },
+  {
+    "id": "akachan_1767100727",
+    "word": "赤ちゃん",
+    "reading": "あかちゃん",
+    "display_html": "<ruby>赤<rt>あか</rt></ruby>ちゃん",
+    "type": "名词",
+    "meaning": "婴儿；宝宝",
+    "examples": [
+      {
+        "jp": "赤ちゃんが泣いています。",
+        "html": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>泣<rt>な</rt></ruby>いています。",
+        "cn": "小宝宝正在哭。"
+      },
+      {
+        "jp": "かわいい赤ちゃんですね。",
+        "html": "かわいい<ruby>赤<rt>あか</rt></ruby>ちゃんですね。",
+        "cn": "真是个可爱的宝宝啊。"
+      }
+    ],
+    "created_at": 1767100727
+  },
+  {
     "id": "shinsetsu_1767022008",
     "word": "親切",
     "reading": "しんせつ",

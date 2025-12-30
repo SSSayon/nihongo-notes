@@ -2,7 +2,67 @@
 
 记录名词、形容词等词汇。
 
-共 **16** 个词汇
+共 **19** 个词汇
+
+---
+
+## 入口
+
+- **读音**：<ruby>入口<rt>いりぐち</rt></ruby>（いりぐち）
+- **词性**：名词
+- **释义**：入口；门口
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>入口<rt>いりぐち</rt></ruby>はどこですか？
+    > <br><small>入口在哪里？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>入口<rt>いりぐち</rt></ruby>のそばで<ruby>待<rt>ま</rt></ruby>っています。
+    > <br><small>我在入口旁边等着。</small>
+    > </div>
+
+---
+
+## もうすぐ
+
+- **读音**：もうすぐ（もうすぐ）
+- **词性**：副词
+- **释义**：马上；很快
+
+- **例句**：
+
+    > <div class="example-box">
+    > もうすぐ<ruby>春<rt>はる</rt></ruby>が<ruby>来<rt>き</rt></ruby>ます。
+    > <br><small>春天快要到了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > もうすぐ<ruby>映画<rt>えいが</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。
+    > <br><small>电影马上就要开始了。</small>
+    > </div>
+
+---
+
+## 赤ちゃん
+
+- **读音**：<ruby>赤<rt>あか</rt></ruby>ちゃん（あかちゃん）
+- **词性**：名词
+- **释义**：婴儿；宝宝
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>泣<rt>な</rt></ruby>いています。
+    > <br><small>小宝宝正在哭。</small>
+    > </div>
+
+    > <div class="example-box">
+    > かわいい<ruby>赤<rt>あか</rt></ruby>ちゃんですね。
+    > <br><small>真是个可爱的宝宝啊。</small>
+    > </div>
 
 ---
 

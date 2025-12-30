@@ -2,7 +2,67 @@
 
 记录助词、句型和语法要点。
 
-共 **2** 条语法
+共 **4** 条语法
+
+---
+
+## て形（活用）
+
+- **类别**：活用
+- **含义**：动词的一种活用形式，主要用于连接句子、表示动作先后顺序，或作为多种句型的基础。
+
+- **用法**：
+
+    - 一类动词（五段）：词尾为「う、つ、る」变为「って」；「む、ぶ、ぬ」变为「nde」；「く」变为「いて」（例外：行く→行って）；「ぐ」变为「いで」；「す」变为「して」
+    - 二类动词（一段）：去掉词尾的「る」直接加「て」
+    - 三类动词（不规则）：する→して；来る→来て（きて）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>写<rt>しゃ</rt></ruby><ruby>真<rt>しん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>って、メールを<ruby>送<rt>おく</rt></ruby>りました。
+    > <br><small>拍了照片，然后发了邮件。</small>
+    > </div>
+
+    > <div class="example-box">
+    > ちょっと<ruby>待<rt>ま</rt></ruby>ってください。
+    > <br><small>请稍等一下。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>急<rt>いそ</rt></ruby>いで<ruby>駅<rt>えき</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
+    > <br><small>急匆匆地去了车站。</small>
+    > </div>
+
+---
+
+## ～ている
+
+- **类别**：句型
+- **含义**：接在动词て形后，表示动作正在进行、结果状态的持续或习惯性动作。
+
+- **用法**：
+
+    - 正在进行：表示说话时某个动作正在发生（如：正在吃饭）
+    - 结果持续：表示动作完成后留下的状态（如：结婚了、住在某地、坏了）
+    - 习惯/反复：表示长期重复的习惯或职业（如：在银行工作、每天慢跑）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>今<rt>いま</rt></ruby>、<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>しています。
+    > <br><small>现在正在学习日语。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>私<rt>わたし</rt></ruby>は<ruby>東<rt>とう</rt></ruby><ruby>京<rt>きょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    > <br><small>我住在东京。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>田<rt>た</rt></ruby><ruby>中<rt>なか</rt></ruby>さんを<ruby>知<rt>し</rt></ruby>っていますか。
+    > <br><small>你认识田中先生吗？</small>
+    > </div>
 
 ---
 

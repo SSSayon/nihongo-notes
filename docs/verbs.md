@@ -2,7 +2,107 @@
 
 记录动词。
 
-共 **7** 个动词
+共 **12** 个动词
+
+---
+
+## 戻る
+
+- **读音**：<ruby>戻<rt>もど</rt></ruby>る（もどる）
+- **类型**：五段动词
+- **释义**：返回；回到；恢复
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>を<ruby>取<rt>と</rt></ruby>りに<ruby>家<rt>いえ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ります。
+    > <br><small>回家取忘带的东西。</small>
+    > </div>
+
+    > <div class="example-box">
+    > すぐに<ruby>席<rt>せき</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってください。
+    > <br><small>请立即回到座位上。</small>
+    > </div>
+
+---
+
+## 並ぶ
+
+- **读音**：<ruby>並<rt>なら</rt></ruby>ぶ（ならぶ）
+- **类型**：五段动词
+- **释义**：排队；并列；列举
+
+- **例句**：
+
+    > <div class="example-box">
+    > ラーメン<ruby>屋<rt>や</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。
+    > <br><small>拉面店前排着很多人。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>店<rt>みせ</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。
+    > <br><small>店里陈列着新商品。</small>
+    > </div>
+
+---
+
+## 探す
+
+- **读音**：<ruby>探<rt>さが</rt></ruby>す（さがす）
+- **类型**：五段动词
+- **释义**：寻找（想要的人或物）；查找
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>失<rt>な</rt></ruby>くした<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。
+    > <br><small>正在找丢失的钥匙。</small>
+    > </div>
+
+    > <div class="example-box">
+    > インターネットでいいホテルを<ruby>探<rt>さが</rt></ruby>します。
+    > <br><small>在网上找好的酒店。</small>
+    > </div>
+
+---
+
+## 着く
+
+- **读音**：<ruby>着<rt>つ</rt></ruby>く（つく）
+- **类型**：五段动词
+- **释义**：到达；抵达
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。
+    > <br><small>电车到达车站了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。
+    > <br><small>预定明天早上到达东京。</small>
+    > </div>
+
+---
+
+## 住む
+
+- **读音**：<ruby>住<rt>す</rt></ruby>む（すむ）
+- **类型**：五段动词
+- **释义**：居住；住
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    > <br><small>我住在东京。</small>
+    > </div>
+
+    > <div class="example-box">
+    > いつか<ruby>静<rt>しず</rt></ruby>かな<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。
+    > <br><small>想总有一天能住在安静的地方。</small>
+    > </div>
 
 ---
 

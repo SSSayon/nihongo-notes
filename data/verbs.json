@@ -1,5 +1,110 @@
 [
   {
+    "id": "modoru_1767100155",
+    "word": "戻る",
+    "reading": "もどる",
+    "display_html": "<ruby>戻<rt>もど</rt></ruby>る",
+    "type": "五段动词",
+    "meaning": "返回；回到；恢复",
+    "examples": [
+      {
+        "jp": "忘れ物を取りに家に戻ります。",
+        "html": "<ruby>忘<rt>わす</rt></ruby>れ<ruby>物<rt>もの</rt></ruby>を<ruby>取<rt>と</rt></ruby>りに<ruby>家<rt>いえ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ります。",
+        "cn": "回家取忘带的东西。"
+      },
+      {
+        "jp": "すぐに席に戻ってください。",
+        "html": "すぐに<ruby>席<rt>せき</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ってください。",
+        "cn": "请立即回到座位上。"
+      }
+    ],
+    "created_at": 1767100155
+  },
+  {
+    "id": "narabu_1767100155",
+    "word": "並ぶ",
+    "reading": "ならぶ",
+    "display_html": "<ruby>並<rt>なら</rt></ruby>ぶ",
+    "type": "五段动词",
+    "meaning": "排队；并列；列举",
+    "examples": [
+      {
+        "jp": "ラーメン屋の前にたくさんの人が並んでいます。",
+        "html": "ラーメン<ruby>屋<rt>や</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にたくさんの<ruby>人<rt>ひと</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。",
+        "cn": "拉面店前排着很多人。"
+      },
+      {
+        "jp": "店には新しい商品が並んでいます。",
+        "html": "<ruby>店<rt>みせ</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。",
+        "cn": "店里陈列着新商品。"
+      }
+    ],
+    "created_at": 1767100155
+  },
+  {
+    "id": "sagasu_1767100155",
+    "word": "探す",
+    "reading": "さがす",
+    "display_html": "<ruby>探<rt>さが</rt></ruby>す",
+    "type": "五段动词",
+    "meaning": "寻找（想要的人或物）；查找",
+    "examples": [
+      {
+        "jp": "失くした鍵を探しています。",
+        "html": "<ruby>失<rt>な</rt></ruby>くした<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。",
+        "cn": "正在找丢失的钥匙。"
+      },
+      {
+        "jp": "インターネットでいいホテルを探します。",
+        "html": "インターネットでいいホテルを<ruby>探<rt>さが</rt></ruby>します。",
+        "cn": "在网上找好的酒店。"
+      }
+    ],
+    "created_at": 1767100155
+  },
+  {
+    "id": "tsuku_1767100155",
+    "word": "着く",
+    "reading": "つく",
+    "display_html": "<ruby>着<rt>つ</rt></ruby>く",
+    "type": "五段动词",
+    "meaning": "到达；抵达",
+    "examples": [
+      {
+        "jp": "電車が駅に着きました。",
+        "html": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
+        "cn": "电车到达车站了。"
+      },
+      {
+        "jp": "明日の朝、東京に着く予定です。",
+        "html": "<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
+        "cn": "预定明天早上到达东京。"
+      }
+    ],
+    "created_at": 1767100155
+  },
+  {
+    "id": "sumu_1767100155",
+    "word": "住む",
+    "reading": "すむ",
+    "display_html": "<ruby>住<rt>す</rt></ruby>む",
+    "type": "五段动词",
+    "meaning": "居住；住",
+    "examples": [
+      {
+        "jp": "私は東京に住んでいます。",
+        "html": "<ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。",
+        "cn": "我住在东京。"
+      },
+      {
+        "jp": "いつか静かな場所に住みたいです。",
+        "html": "いつか<ruby>静<rt>しず</rt></ruby>かな<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。",
+        "cn": "想总有一天能住在安静的地方。"
+      }
+    ],
+    "created_at": 1767100155
+  },
+  {
     "id": "kakaru_1766846438",
     "word": "かかる",
     "reading": "かかる",
