@@ -2,7 +2,32 @@
 
 记录名词、形容词等词汇。
 
-共 **19** 个词汇
+共 **20** 个词汇
+
+---
+
+## 仕事
+
+- **读音**：<ruby>仕事<rt>しごと</rt></ruby>（しごと）
+- **词性**：名词
+- **释义**：工作；职业；任务
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>毎日<rt>まいにち</rt></ruby>、8<ruby>時<rt>じ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。
+    > <br><small>每天8点开始工作。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>父<rt>ちち</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしています。
+    > <br><small>父亲在银行工作。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>までに<ruby>終<rt>お</rt></ruby>わらせてください。
+    > <br><small>这项任务请在明天之前完成。</small>
+    > </div>
 
 ---
 

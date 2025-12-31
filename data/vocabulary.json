@@ -1,5 +1,31 @@
 [
   {
+    "id": "shigoto_1767192209",
+    "word": "仕事",
+    "reading": "しごと",
+    "display_html": "<ruby>仕事<rt>しごと</rt></ruby>",
+    "type": "名词",
+    "meaning": "工作；职业；任务",
+    "examples": [
+      {
+        "jp": "毎日、8時に仕事が始まります。",
+        "html": "<ruby>毎日<rt>まいにち</rt></ruby>、8<ruby>時<rt>じ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。",
+        "cn": "每天8点开始工作。"
+      },
+      {
+        "jp": "父は銀行で仕事をしています。",
+        "html": "<ruby>父<rt>ちち</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしています。",
+        "cn": "父亲在银行工作。"
+      },
+      {
+        "jp": "この仕事は明日までに終わらせてください。",
+        "html": "この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>までに<ruby>終<rt>お</rt></ruby>わらせてください。",
+        "cn": "这项任务请在明天之前完成。"
+      }
+    ],
+    "created_at": 1767192209
+  },
+  {
     "id": "iriguchi_1767100727",
     "word": "入口",
     "reading": "いりぐち",

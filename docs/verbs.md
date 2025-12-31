@@ -2,7 +2,47 @@
 
 记录动词。
 
-共 **12** 个动词
+共 **14** 个动词
+
+---
+
+## 辞める
+
+- **读音**：<ruby>辞<rt>や</rt></ruby>める（やめる）
+- **类型**：一段动词
+- **释义**：辞去；辞职
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めることにしました。
+    > <br><small>我决定辞职了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>先<rt>せん</rt></ruby><ruby>月<rt>げつ</rt></ruby>、<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めました。
+    > <br><small>他上个月辞掉了工作。</small>
+    > </div>
+
+---
+
+## 壊れる
+
+- **读音**：<ruby>壊<rt>こわ</rt></ruby>れる（こわれる）
+- **类型**：一段动词
+- **释义**：坏；出故障；破碎
+
+- **例句**：
+
+    > <div class="example-box">
+    > スマホが<ruby>壊<rt>こわ</rt></ruby>れてしまいました。
+    > <br><small>手机弄坏了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>椅<rt>い</rt></ruby><ruby>子<rt>す</rt></ruby>は<ruby>壊<rt>こわ</rt></ruby>れやすいです。
+    > <br><small>这把椅子容易坏。</small>
+    > </div>
 
 ---
 
