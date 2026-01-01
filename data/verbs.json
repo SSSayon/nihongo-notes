@@ -1,5 +1,31 @@
 [
   {
+    "id": "okoru_1767273287",
+    "word": "怒る",
+    "reading": "おこる",
+    "display_html": "<ruby>怒<rt>おこ</rt></ruby>る",
+    "type": "五段动词",
+    "meaning": "生气；训斥，责备",
+    "examples": [
+      {
+        "jp": "そんなに怒らないでください。",
+        "html": "そんなに<ruby>怒<rt>おこ</rt></ruby>らないでください。",
+        "cn": "请不要那么生气。"
+      },
+      {
+        "jp": "約束を破って、彼女を怒らせてしまった。",
+        "html": "<ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>って、<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>を<ruby>怒<rt>おこ</rt></ruby>らせてしまった。",
+        "cn": "因为违背了约定，惹女朋友生气了。"
+      },
+      {
+        "jp": "テストの点数が悪くて、父に怒られた。",
+        "html": "テストの<ruby>点<rt>てん</rt></ruby><ruby>数<rt>すう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、<ruby>父<rt>ちち</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>られた。",
+        "cn": "因为考试分数太低，被父亲训斥了。"
+      }
+    ],
+    "created_at": 1767273287
+  },
+  {
     "id": "yameru_1767191397",
     "word": "辞める",
     "reading": "やめる",

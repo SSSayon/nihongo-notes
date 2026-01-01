@@ -2,7 +2,32 @@
 
 记录动词。
 
-共 **14** 个动词
+共 **15** 个动词
+
+---
+
+## 怒る
+
+- **读音**：<ruby>怒<rt>おこ</rt></ruby>る（おこる）
+- **类型**：五段动词
+- **释义**：生气；训斥，责备
+
+- **例句**：
+
+    > <div class="example-box">
+    > そんなに<ruby>怒<rt>おこ</rt></ruby>らないでください。
+    > <br><small>请不要那么生气。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>って、<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>を<ruby>怒<rt>おこ</rt></ruby>らせてしまった。
+    > <br><small>因为违背了约定，惹女朋友生气了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > テストの<ruby>点<rt>てん</rt></ruby><ruby>数<rt>すう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、<ruby>父<rt>ちち</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>られた。
+    > <br><small>因为考试分数太低，被父亲训斥了。</small>
+    > </div>
 
 ---
 

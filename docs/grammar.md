@@ -2,14 +2,74 @@
 
 记录助词、句型和语法要点。
 
-共 **5** 条语法
+共 **7** 条语法
+
+---
+
+## ～ことにする
+
+- **类别**：句型
+- **含义**：表示说话人主观决定做某事。常用于表达个人的决心、计划或习惯。
+
+- **用法**：
+
+    - 动词辞书形 + ことにする（决定做...）
+    - 动词否定形（ない形） + ことにする（决定不做...）
+    - ～ことにしている（表示习惯或一直坚持的决定）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>健<rt>けん</rt></ruby><ruby>康<rt>こう</rt></ruby>のために、<ruby>明<rt>あした</rt></ruby>から<ruby>毎<rt>まい</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>走<rt>はし</rt></ruby>ることにしました。
+    > <br><small>为了健康，我决定从明天开始每天跑步。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>夜<rt>よる</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くには、<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べないことにしています。
+    > <br><small>我坚持深夜不吃任何东西。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>今<rt>こと</rt></ruby><ruby>年<rt>し</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby><ruby>休<rt>やす</rt></ruby>みは、どこへも<ruby>行<rt>い</rt></ruby>かないことにしました。
+    > <br><small>我决定今年暑假哪儿也不去。</small>
+    > </div>
+
+---
+
+## ～ことになる
+
+- **类别**：句型
+- **含义**：表示由于外部原因、他人决定、法律规定或自然趋势而形成的结果。强调非本人主观意愿的客观决定。
+
+- **用法**：
+
+    - 动词辞书形 + ことになる（决定了.../结果是...）
+    - 动词否定形（ない形） + ことになる（决定了不...）
+    - ～ことになっている（表示规定、计划或预定）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>来<rt>らい</rt></ruby><ruby>月<rt>げつ</rt></ruby>、<ruby>日<rt>に</rt></ruby><ruby>本<rt>ほん</rt></ruby>へ<ruby>出<rt>しゅっ</rt></ruby><ruby>張<rt>ちょう</rt></ruby>することになりました。
+    > <br><small>（公司）决定下个月让我去日本出差。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>部<rt>へ</rt></ruby><ruby>屋<rt>や</rt></ruby>では、タバコを<ruby>吸<rt>す</rt></ruby>ってはいけないことになっています。
+    > <br><small>规定这个房间里不准吸烟。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>急<rt>きゅう</rt></ruby>な<ruby>用<rt>よう</rt></ruby><ruby>事<rt>じ</rt></ruby>で、<ruby>明日<rt>あした</rt></ruby>の<ruby>会<rt>かい</rt></ruby><ruby>議<rt>ぎ</rt></ruby>は<ruby>欠<rt>けっ</rt></ruby><ruby>席<rt>せき</rt></ruby>することになりました。
+    > <br><small>因为突发急事，明天的会议我不参加了（已成既定事实）。</small>
+    > </div>
 
 ---
 
 ## ～てしまう
 
 - **类别**：补助动词
-- **含义**：表示动作的彻底完成，或者表达遗憾、后悔、意外的心情。
+- **含义**：接在动词て形后，表示动作的彻底完成，或者表达遗憾、后悔、意外的心情。
 
 - **用法**：
 
