@@ -1,5 +1,52 @@
 [
   {
+    "id": "shoukai_1767363208",
+    "word": "紹介",
+    "reading": "しょうかい",
+    "display_html": "<ruby>紹介<rt>しょうかい</rt></ruby>",
+    "type": "名词/サ变动词",
+    "meaning": "介绍",
+    "examples": [
+      {
+        "jp": "自己紹介をしてください。",
+        "html": "<ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をしてください。",
+        "cn": "请做一下自我介绍。"
+      },
+      {
+        "jp": "新しい友達を紹介します。",
+        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。",
+        "cn": "我来介绍一下新朋友。"
+      },
+      {
+        "jp": "いい仕事を紹介してもらいました。",
+        "html": "いい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してもらいました。",
+        "cn": "别人给我介绍了一份好工作。"
+      }
+    ],
+    "created_at": 1767363171
+  },
+  {
+    "id": "iriguchi-deguchi_1767363171",
+    "word": "入口・出口",
+    "reading": "いりぐち・でぐち",
+    "display_html": "<ruby>入口<rt>いりぐち</rt></ruby>・<ruby>出口<rt>でぐち</rt></ruby>",
+    "type": "名词",
+    "meaning": "入口和出口；出入口",
+    "examples": [
+      {
+        "jp": "入口はどこですか。",
+        "html": "<ruby>入口<rt>いりぐち</rt></ruby>はどこですか。",
+        "cn": "入口在哪里？"
+      },
+      {
+        "jp": "出口はあちらです。",
+        "html": "<ruby>出口<rt>でぐち</rt></ruby>はあちらです。",
+        "cn": "出口在那边。"
+      }
+    ],
+    "created_at": 1767363171
+  },
+  {
     "id": "majime_1767272590",
     "word": "真面目",
     "reading": "まじめ",

@@ -2,7 +2,52 @@
 
 记录名词、形容词等词汇。
 
-共 **17** 个词汇
+共 **19** 个词汇
+
+---
+
+## 紹介
+
+- **读音**：<ruby>紹介<rt>しょうかい</rt></ruby>（しょうかい）
+- **词性**：名词/サ变动词
+- **释义**：介绍
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をしてください。
+    > <br><small>请做一下自我介绍。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。
+    > <br><small>我来介绍一下新朋友。</small>
+    > </div>
+
+    > <div class="example-box">
+    > いい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してもらいました。
+    > <br><small>别人给我介绍了一份好工作。</small>
+    > </div>
+
+---
+
+## 入口・出口
+
+- **读音**：<ruby>入口<rt>いりぐち</rt></ruby>・<ruby>出口<rt>でぐち</rt></ruby>（いりぐち・でぐち）
+- **词性**：名词
+- **释义**：入口和出口；出入口
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>入口<rt>いりぐち</rt></ruby>はどこですか。
+    > <br><small>入口在哪里？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>出口<rt>でぐち</rt></ruby>はあちらです。
+    > <br><small>出口在那边。</small>
+    > </div>
 
 ---
 

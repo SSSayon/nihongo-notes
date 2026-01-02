@@ -2,7 +2,87 @@
 
 记录动词。
 
-共 **15** 个动词
+共 **19** 个动词
+
+---
+
+## 座る
+
+- **读音**：<ruby>座<rt>すわ</rt></ruby>る（すわる）
+- **类型**：五段动词
+- **释义**：坐；就座
+
+- **例句**：
+
+    > <div class="example-box">
+    > ここに<ruby>座<rt>すわ</rt></ruby>ってもいいですか？
+    > <br><small>我可以坐在这里吗？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>椅<rt>い</rt></ruby><ruby>子<rt>し</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って<ruby>待<rt>ま</rt></ruby>ってください。
+    > <br><small>请坐在椅子上稍等。</small>
+    > </div>
+
+---
+
+## 点ける
+
+- **读音**：<ruby>点<rt>つ</rt></ruby>ける（つける）
+- **类型**：一段动词
+- **释义**：点燃；开启（电器、灯光等）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>暗<rt>くら</rt></ruby>いので、<ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby>を<ruby>点<rt>つ</rt></ruby>けてください。
+    > <br><small>太暗了，请把灯打开。</small>
+    > </div>
+
+    > <div class="example-box">
+    > マッチで<ruby>火<rt>ひ</rt></ruby>を<ruby>点<rt>つ</rt></ruby>ける。
+    > <br><small>用火柴点火。</small>
+    > </div>
+
+---
+
+## 吸う
+
+- **读音**：<ruby>吸<rt>す</rt></ruby>う（すう）
+- **类型**：五段动词
+- **释义**：吸；抽（烟）；呼吸
+
+- **例句**：
+
+    > <div class="example-box">
+    > ここでタバコを<ruby>吸<rt>す</rt></ruby>わないでください。
+    > <br><small>请不要在这里抽烟。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>深<rt>ふか</rt></ruby>く<ruby>息<rt>いき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>います。
+    > <br><small>深呼吸。</small>
+    > </div>
+
+---
+
+## 入れる
+
+- **读音**：<ruby>入<rt>い</rt></ruby>れる（いれる）
+- **类型**：一段动词
+- **释义**：放入；加入；安排（计划、日程）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby>の<ruby>月<rt>げつ</rt></ruby><ruby>曜<rt>よう</rt></ruby><ruby>日<rt>び</rt></ruby>に<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>を<ruby>入<rt>い</rt></ruby>れました。
+    > <br><small>下周一安排了计划。</small>
+    > </div>
+
+    > <div class="example-box">
+    > コーヒーに<ruby>砂<rt>さ</rt></ruby><ruby>糖<rt>とう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れますか？
+    > <br><small>咖啡里要加糖吗？</small>
+    > </div>
 
 ---
 
