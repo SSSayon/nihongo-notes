@@ -1,5 +1,36 @@
 [
   {
+    "id": "betsu_1767437879",
+    "word": "別",
+    "reading": "べつ",
+    "display_html": "<ruby>別<rt>べつ</rt></ruby>",
+    "type": "名词/形容动词",
+    "meaning": "另外，其他；区别，不同；例外；分开",
+    "examples": [
+      {
+        "jp": "別の方法を考えましょう。",
+        "html": "<ruby>別<rt>べつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えましょう。",
+        "cn": "让我们考虑一下另外的方法吧。"
+      },
+      {
+        "jp": "支払いは別々にお願いします。",
+        "html": "<ruby>支払<rt>しはら</rt></ruby>いは<ruby>別々<rt>べつべつ</rt></ruby>にお<ruby>願<rt>ねが</rt></ruby>いします。",
+        "cn": "请分开支付。"
+      },
+      {
+        "jp": "それは別の話です。",
+        "html": "それは<ruby>別<rt>べつ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。",
+        "cn": "那是另外一回事。"
+      },
+      {
+        "jp": "費用は別にかかります。",
+        "html": "<ruby>費用<rt>ひよう</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>にかかります。",
+        "cn": "费用另计。"
+      }
+    ],
+    "created_at": 1767437879
+  },
+  {
     "id": "shoukai_1767363208",
     "word": "紹介",
     "reading": "しょうかい",

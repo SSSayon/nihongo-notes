@@ -2,7 +2,37 @@
 
 记录名词、形容词等词汇。
 
-共 **19** 个词汇
+共 **20** 个词汇
+
+---
+
+## 別
+
+- **读音**：<ruby>別<rt>べつ</rt></ruby>（べつ）
+- **词性**：名词/形容动词
+- **释义**：另外，其他；区别，不同；例外；分开
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>別<rt>べつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えましょう。
+    > <br><small>让我们考虑一下另外的方法吧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>支払<rt>しはら</rt></ruby>いは<ruby>別々<rt>べつべつ</rt></ruby>にお<ruby>願<rt>ねが</rt></ruby>いします。
+    > <br><small>请分开支付。</small>
+    > </div>
+
+    > <div class="example-box">
+    > それは<ruby>別<rt>べつ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。
+    > <br><small>那是另外一回事。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>費用<rt>ひよう</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>にかかります。
+    > <br><small>费用另计。</small>
+    > </div>
 
 ---
 
