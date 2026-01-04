@@ -2,7 +2,7 @@
 
 记录动词。
 
-共 **19** 个动词
+共 **18** 个动词
 
 ---
 
@@ -227,26 +227,6 @@
     > <div class="example-box">
     > <ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。
     > <br><small>预定明天早上到达东京。</small>
-    > </div>
-
----
-
-## 住む
-
-- **读音**：<ruby>住<rt>す</rt></ruby>む（すむ）
-- **类型**：五段动词
-- **释义**：居住；住
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
-    > <br><small>我住在东京。</small>
-    > </div>
-
-    > <div class="example-box">
-    > いつか<ruby>静<rt>しず</rt></ruby>かな<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。
-    > <br><small>想总有一天能住在安静的地方。</small>
     > </div>
 
 ---

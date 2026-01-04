@@ -57,27 +57,6 @@
     "created_at": 1767363171
   },
   {
-    "id": "iriguchi-deguchi_1767363171",
-    "word": "入口・出口",
-    "reading": "いりぐち・でぐち",
-    "display_html": "<ruby>入口<rt>いりぐち</rt></ruby>・<ruby>出口<rt>でぐち</rt></ruby>",
-    "type": "名词",
-    "meaning": "入口和出口；出入口",
-    "examples": [
-      {
-        "jp": "入口はどこですか。",
-        "html": "<ruby>入口<rt>いりぐち</rt></ruby>はどこですか。",
-        "cn": "入口在哪里？"
-      },
-      {
-        "jp": "出口はあちらです。",
-        "html": "<ruby>出口<rt>でぐち</rt></ruby>はあちらです。",
-        "cn": "出口在那边。"
-      }
-    ],
-    "created_at": 1767363171
-  },
-  {
     "id": "majime_1767272590",
     "word": "真面目",
     "reading": "まじめ",
@@ -230,27 +209,6 @@
     "created_at": 1767100727
   },
   {
-    "id": "akachan_1767100727",
-    "word": "赤ちゃん",
-    "reading": "あかちゃん",
-    "display_html": "<ruby>赤<rt>あか</rt></ruby>ちゃん",
-    "type": "名词",
-    "meaning": "婴儿；宝宝",
-    "examples": [
-      {
-        "jp": "赤ちゃんが泣いています。",
-        "html": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>泣<rt>な</rt></ruby>いています。",
-        "cn": "小宝宝正在哭。"
-      },
-      {
-        "jp": "かわいい赤ちゃんですね。",
-        "html": "かわいい<ruby>赤<rt>あか</rt></ruby>ちゃんですね。",
-        "cn": "真是个可爱的宝宝啊。"
-      }
-    ],
-    "created_at": 1767100727
-  },
-  {
     "id": "shinsetsu_1767022008",
     "word": "親切",
     "reading": "しんせつ",
@@ -382,39 +340,5 @@
       }
     ],
     "created_at": 1766845615
-  },
-  {
-    "id": "karui_1766744557",
-    "word": "軽い",
-    "reading": "かるい",
-    "display_html": "<ruby>軽<rt>かる</rt></ruby>い",
-    "type": "形容词",
-    "meaning": "轻的；轻便的；轻微的",
-    "examples": [
-      {
-        "jp": "この鞄はとても軽いです。",
-        "reading": "このかばんはとてもかるいです。",
-        "html": "この<ruby>鞄<rt>かばん</rt></ruby>はとても<ruby>軽<rt>かる</rt></ruby>いです。",
-        "cn": "这个包很轻。"
-      }
-    ],
-    "created_at": 1766744557
-  },
-  {
-    "id": "omoi_1766744557",
-    "word": "重い",
-    "reading": "おもい",
-    "display_html": "<ruby>重<rt>おも</rt></ruby>い",
-    "type": "形容词",
-    "meaning": "重的；沉重的；严重的",
-    "examples": [
-      {
-        "jp": "荷物が重くて持てません。",
-        "reading": "にもつがおもくてもてません。",
-        "html": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くて<ruby>持<rt>も</rt></ruby>てません。",
-        "cn": "行李太重了，拿不动。"
-      }
-    ],
-    "created_at": 1766744557
   }
 ]

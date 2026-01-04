@@ -236,27 +236,6 @@
     "created_at": 1767100155
   },
   {
-    "id": "sumu_1767100155",
-    "word": "住む",
-    "reading": "すむ",
-    "display_html": "<ruby>住<rt>す</rt></ruby>む",
-    "type": "五段动词",
-    "meaning": "居住；住",
-    "examples": [
-      {
-        "jp": "私は東京に住んでいます。",
-        "html": "<ruby>私<rt>わたし</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。",
-        "cn": "我住在东京。"
-      },
-      {
-        "jp": "いつか静かな場所に住みたいです。",
-        "html": "いつか<ruby>静<rt>しず</rt></ruby>かな<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。",
-        "cn": "想总有一天能住在安静的地方。"
-      }
-    ],
-    "created_at": 1767100155
-  },
-  {
     "id": "kakaru_1766846438",
     "word": "かかる",
     "reading": "かかる",

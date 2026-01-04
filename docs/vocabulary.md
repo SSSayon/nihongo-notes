@@ -2,7 +2,7 @@
 
 记录名词、形容词等词汇。
 
-共 **20** 个词汇
+共 **16** 个词汇
 
 ---
 
@@ -57,26 +57,6 @@
     > <div class="example-box">
     > いい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してもらいました。
     > <br><small>别人给我介绍了一份好工作。</small>
-    > </div>
-
----
-
-## 入口・出口
-
-- **读音**：<ruby>入口<rt>いりぐち</rt></ruby>・<ruby>出口<rt>でぐち</rt></ruby>（いりぐち・でぐち）
-- **词性**：名词
-- **释义**：入口和出口；出入口
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>入口<rt>いりぐち</rt></ruby>はどこですか。
-    > <br><small>入口在哪里？</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>出口<rt>でぐち</rt></ruby>はあちらです。
-    > <br><small>出口在那边。</small>
     > </div>
 
 ---
@@ -226,26 +206,6 @@
 
 ---
 
-## 赤ちゃん
-
-- **读音**：<ruby>赤<rt>あか</rt></ruby>ちゃん（あかちゃん）
-- **词性**：名词
-- **释义**：婴儿；宝宝
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>泣<rt>な</rt></ruby>いています。
-    > <br><small>小宝宝正在哭。</small>
-    > </div>
-
-    > <div class="example-box">
-    > かわいい<ruby>赤<rt>あか</rt></ruby>ちゃんですね。
-    > <br><small>真是个可爱的宝宝啊。</small>
-    > </div>
-
----
-
 ## 親切
 
 - **读音**：<ruby>親切<rt>しんせつ</rt></ruby>（しんせつ）
@@ -376,36 +336,6 @@
     > <div class="example-box">
     > <ruby>靴<rt>くつ</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>いので、<ruby>洗<rt>あら</rt></ruby>わなければなりません。
     > <br><small>鞋子脏了，必须得洗一下。</small>
-    > </div>
-
----
-
-## 軽い
-
-- **读音**：<ruby>軽<rt>かる</rt></ruby>い（かるい）
-- **词性**：形容词
-- **释义**：轻的；轻便的；轻微的
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>鞄<rt>かばん</rt></ruby>はとても<ruby>軽<rt>かる</rt></ruby>いです。
-    > <br><small>这个包很轻。</small>
-    > </div>
-
----
-
-## 重い
-
-- **读音**：<ruby>重<rt>おも</rt></ruby>い（おもい）
-- **词性**：形容词
-- **释义**：重的；沉重的；严重的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>荷物<rt>にもつ</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くて<ruby>持<rt>も</rt></ruby>てません。
-    > <br><small>行李太重了，拿不动。</small>
     > </div>
 
 ---
