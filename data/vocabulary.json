@@ -1,5 +1,68 @@
 [
   {
+    "id": "yukkuri_1767624689",
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "display_html": "ゆっくり",
+    "type": "副词",
+    "meaning": "慢慢地；悠闲地；充裕地",
+    "examples": [
+      {
+        "jp": "もう少しゆっくり話してください。",
+        "html": "もう<ruby>少<rt>すこ</rt></ruby>しゆっくり<ruby>話<rt>はな</rt></ruby>してください。",
+        "cn": "请再稍微说慢一点。"
+      },
+      {
+        "jp": "週末は家でゆっくり休みたいです。",
+        "html": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいです。",
+        "cn": "周末我想在家里好好休息。"
+      }
+    ],
+    "created_at": 1767624689
+  },
+  {
+    "id": "nebou_1767624689",
+    "word": "寝坊",
+    "reading": "ねぼう",
+    "display_html": "<ruby>寝坊<rt>ねぼう</rt></ruby>",
+    "type": "名词/自サ",
+    "meaning": "睡懒觉；起晚",
+    "examples": [
+      {
+        "jp": "今朝は寝坊して、会議に遅れました。",
+        "html": "<ruby>今朝<rt>けさ</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>して、<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れました。",
+        "cn": "今天早上起晚了，开会迟到了。"
+      },
+      {
+        "jp": "休みの日はいつも寝坊します。",
+        "html": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>はいつも<ruby>寝坊<rt>ねぼう</rt></ruby>します。",
+        "cn": "休息日我总是睡懒觉。"
+      }
+    ],
+    "created_at": 1767624689
+  },
+  {
+    "id": "uchi_1767624689",
+    "word": "うち",
+    "reading": "うち",
+    "display_html": "うち",
+    "type": "名词",
+    "meaning": "家；内部；在……期间",
+    "examples": [
+      {
+        "jp": "私のうちへ遊びに来ませんか。",
+        "html": "<ruby>私<rt>わたし</rt></ruby>のうちへ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>ませんか。",
+        "cn": "要不要来我家玩？"
+      },
+      {
+        "jp": "忘れないうちに、メモしておきます。",
+        "html": "<ruby>忘<rt>わす</rt></ruby>れないうちに、メモしておきます。",
+        "cn": "趁着还没忘记，先记个笔记。"
+      }
+    ],
+    "created_at": 1767624689
+  },
+  {
     "id": "betsu_1767437879",
     "word": "別",
     "reading": "べつ",

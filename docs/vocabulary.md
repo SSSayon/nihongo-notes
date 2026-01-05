@@ -2,7 +2,67 @@
 
 记录名词、形容词等词汇。
 
-共 **16** 个词汇
+共 **19** 个词汇
+
+---
+
+## ゆっくり
+
+- **读音**：ゆっくり（ゆっくり）
+- **词性**：副词
+- **释义**：慢慢地；悠闲地；充裕地
+
+- **例句**：
+
+    > <div class="example-box">
+    > もう<ruby>少<rt>すこ</rt></ruby>しゆっくり<ruby>話<rt>はな</rt></ruby>してください。
+    > <br><small>请再稍微说慢一点。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいです。
+    > <br><small>周末我想在家里好好休息。</small>
+    > </div>
+
+---
+
+## 寝坊
+
+- **读音**：<ruby>寝坊<rt>ねぼう</rt></ruby>（ねぼう）
+- **词性**：名词/自サ
+- **释义**：睡懒觉；起晚
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>今朝<rt>けさ</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>して、<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れました。
+    > <br><small>今天早上起晚了，开会迟到了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>はいつも<ruby>寝坊<rt>ねぼう</rt></ruby>します。
+    > <br><small>休息日我总是睡懒觉。</small>
+    > </div>
+
+---
+
+## うち
+
+- **读音**：うち（うち）
+- **词性**：名词
+- **释义**：家；内部；在……期间
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>私<rt>わたし</rt></ruby>のうちへ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>ませんか。
+    > <br><small>要不要来我家玩？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>忘<rt>わす</rt></ruby>れないうちに、メモしておきます。
+    > <br><small>趁着还没忘记，先记个笔记。</small>
+    > </div>
 
 ---
 
