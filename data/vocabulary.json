@@ -1,5 +1,26 @@
 [
   {
+    "id": "usagi_1767698363",
+    "word": "兎",
+    "reading": "うさぎ",
+    "display_html": "<ruby>兎<rt>うさぎ</rt></ruby>",
+    "type": "名词",
+    "meaning": "兔子",
+    "examples": [
+      {
+        "jp": "兎は耳が長いです。",
+        "html": "<ruby>兎<rt>うさぎ</rt></ruby>は<ruby>耳<rt>みみ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。",
+        "cn": "兔子的耳朵很长。"
+      },
+      {
+        "jp": "庭で白いうさぎを飼っています。",
+        "html": "<ruby>庭<rt>にわ</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>い<ruby>兎<rt>うさぎ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っています。",
+        "cn": "在院子里养着一只白色的兔子。"
+      }
+    ],
+    "created_at": 1767698363
+  },
+  {
     "id": "yukkuri_1767624689",
     "word": "ゆっくり",
     "reading": "ゆっくり",
@@ -204,53 +225,6 @@
     "created_at": 1767272590
   },
   {
-    "id": "teishoku_1767272590",
-    "word": "定食",
-    "reading": "ていしょく",
-    "display_html": "<ruby>定食<rt>ていしょく</rt></ruby>",
-    "type": "名词",
-    "meaning": "套餐；定食",
-    "examples": [
-      {
-        "jp": "お昼に焼き魚定食を食べました。",
-        "html": "お<ruby>昼<rt>ひる</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>魚<rt>ざかな</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-        "cn": "中午吃了烤鱼套餐。"
-      },
-      {
-        "jp": "この店は定食の種類が豊富です。",
-        "html": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>定食<rt>ていしょく</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>が<ruby>豊富<rt>ほうふ</rt></ruby>です。",
-        "cn": "这家店的套餐种类很丰富。"
-      }
-    ],
-    "created_at": 1767272590
-  },
-  {
-    "id": "shigoto_1767192209",
-    "word": "仕事",
-    "reading": "しごと",
-    "display_html": "<ruby>仕事<rt>しごと</rt></ruby>",
-    "type": "名词",
-    "meaning": "工作；职业；任务",
-    "examples": [
-      {
-        "jp": "毎日、8時に仕事が始まります。",
-        "html": "<ruby>毎日<rt>まいにち</rt></ruby>、8<ruby>時<rt>じ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。",
-        "cn": "每天8点开始工作。"
-      },
-      {
-        "jp": "父は銀行で仕事をしています。",
-        "html": "<ruby>父<rt>ちち</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしています。",
-        "cn": "父亲在银行工作。"
-      },
-      {
-        "jp": "この仕事は明日までに終わらせてください。",
-        "html": "この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>までに<ruby>終<rt>お</rt></ruby>わらせてください。",
-        "cn": "这项任务请在明天之前完成。"
-      }
-    ],
-    "created_at": 1767192209
-  },
-  {
     "id": "mousugu_1767100727",
     "word": "もうすぐ",
     "reading": "もうすぐ",
@@ -355,22 +329,6 @@
     ],
     "created_at": 1766931677,
     "notes": "辺り 和 隣（となり）的区别：\n- 辺り 范围模糊（周围、一带），不一定紧挨着\n- 隣 范围非常精确（紧贴、隔壁），且要求是同类事物"
-  },
-  {
-    "id": "kurai_1766845615",
-    "word": "暗い",
-    "reading": "くらい",
-    "display_html": "<ruby>暗<rt>くら</rt></ruby>い",
-    "type": "形容词",
-    "meaning": "昏暗的；阴郁的",
-    "examples": [
-      {
-        "jp": "部屋が暗いので、電気をつけましょう。",
-        "html": "<ruby>部<rt>へ</rt>屋<rt>や</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>いので、<ruby>電<rt>でん</rt>気<rt>き</rt></ruby>をつけましょう。",
-        "cn": "房间很暗，开灯吧。"
-      }
-    ],
-    "created_at": 1766845615
   },
   {
     "id": "urusai_1766845615",

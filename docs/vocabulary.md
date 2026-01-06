@@ -2,7 +2,27 @@
 
 记录名词、形容词等词汇。
 
-共 **19** 个词汇
+共 **17** 个词汇
+
+---
+
+## 兎
+
+- **读音**：<ruby>兎<rt>うさぎ</rt></ruby>（うさぎ）
+- **词性**：名词
+- **释义**：兔子
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>兎<rt>うさぎ</rt></ruby>は<ruby>耳<rt>みみ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。
+    > <br><small>兔子的耳朵很长。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>庭<rt>にわ</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>い<ruby>兎<rt>うさぎ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っています。
+    > <br><small>在院子里养着一只白色的兔子。</small>
+    > </div>
 
 ---
 
@@ -201,51 +221,6 @@
 
 ---
 
-## 定食
-
-- **读音**：<ruby>定食<rt>ていしょく</rt></ruby>（ていしょく）
-- **词性**：名词
-- **释义**：套餐；定食
-
-- **例句**：
-
-    > <div class="example-box">
-    > お<ruby>昼<rt>ひる</rt></ruby>に<ruby>焼<rt>や</rt></ruby>き<ruby>魚<rt>ざかな</rt></ruby><ruby>定食<rt>ていしょく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。
-    > <br><small>中午吃了烤鱼套餐。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>店<rt>みせ</rt></ruby>は<ruby>定食<rt>ていしょく</rt></ruby>の<ruby>種類<rt>しゅるい</rt></ruby>が<ruby>豊富<rt>ほうふ</rt></ruby>です。
-    > <br><small>这家店的套餐种类很丰富。</small>
-    > </div>
-
----
-
-## 仕事
-
-- **读音**：<ruby>仕事<rt>しごと</rt></ruby>（しごと）
-- **词性**：名词
-- **释义**：工作；职业；任务
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>毎日<rt>まいにち</rt></ruby>、8<ruby>時<rt>じ</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。
-    > <br><small>每天8点开始工作。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>父<rt>ちち</rt></ruby>は<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>をしています。
-    > <br><small>父亲在银行工作。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>仕事<rt>しごと</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>までに<ruby>終<rt>お</rt></ruby>わらせてください。
-    > <br><small>这项任务请在明天之前完成。</small>
-    > </div>
-
----
-
 ## もうすぐ
 
 - **读音**：もうすぐ（もうすぐ）
@@ -352,21 +327,6 @@
 > 
 > - 隣 范围非常精确（紧贴、隔壁），且要求是同类事物
 > 
-
----
-
-## 暗い
-
-- **读音**：<ruby>暗<rt>くら</rt></ruby>い（くらい）
-- **词性**：形容词
-- **释义**：昏暗的；阴郁的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>部<rt>へ</rt>屋<rt>や</rt></ruby>が<ruby>暗<rt>くら</rt></ruby>いので、<ruby>電<rt>でん</rt>気<rt>き</rt></ruby>をつけましょう。
-    > <br><small>房间很暗，开灯吧。</small>
-    > </div>
 
 ---
 

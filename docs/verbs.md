@@ -2,7 +2,32 @@
 
 记录动词。
 
-共 **18** 个动词
+共 **19** 个动词
+
+---
+
+## 光る
+
+- **读音**：<ruby>光<rt>ひか</rt></ruby>る（ひかる）
+- **类型**：五段动词
+- **释义**：发光，闪烁；闪耀；出众，显眼
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>夜空<rt>よぞら</rt></ruby>に<ruby>星<rt>ほし</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っています。
+    > <br><small>星星在夜空中闪烁。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>磨<rt>みが</rt></ruby>いたばかりの<ruby>床<rt>ゆか</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っている。
+    > <br><small>刚擦过的地板闪闪发亮。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>は<ruby>群<rt>ぐん</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>いて<ruby>光<rt>ひか</rt></ruby>っている。
+    > <br><small>他的演技出类拔萃，非常夺目。</small>
+    > </div>
 
 ---
 

@@ -1,5 +1,31 @@
 [
   {
+    "id": "hikaru_1767698410",
+    "word": "光る",
+    "reading": "ひかる",
+    "display_html": "<ruby>光<rt>ひか</rt></ruby>る",
+    "type": "五段动词",
+    "meaning": "发光，闪烁；闪耀；出众，显眼",
+    "examples": [
+      {
+        "jp": "夜空に星が光っています。",
+        "html": "<ruby>夜空<rt>よぞら</rt></ruby>に<ruby>星<rt>ほし</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っています。",
+        "cn": "星星在夜空中闪烁。"
+      },
+      {
+        "jp": "磨いたばかりの床が光っている。",
+        "html": "<ruby>磨<rt>みが</rt></ruby>いたばかりの<ruby>床<rt>ゆか</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っている。",
+        "cn": "刚擦过的地板闪闪发亮。"
+      },
+      {
+        "jp": "彼の演技は群を抜いて光っている。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>は<ruby>群<rt>ぐん</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>いて<ruby>光<rt>ひか</rt></ruby>っている。",
+        "cn": "他的演技出类拔萃，非常夺目。"
+      }
+    ],
+    "created_at": 1767698410
+  },
+  {
     "id": "suwaru_1767363282",
     "word": "座る",
     "reading": "すわる",
