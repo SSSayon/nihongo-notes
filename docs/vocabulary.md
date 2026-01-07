@@ -2,7 +2,87 @@
 
 记录名词、形容词等词汇。
 
-共 **17** 个词汇
+共 **21** 个词汇
+
+---
+
+## 家事
+
+- **读音**：<ruby>家事<rt>かじ</rt></ruby>（かじ）
+- **词性**：名词
+- **释义**：家务；家政
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいので、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>家事<rt>かじ</rt></ruby>をまとめてやります。
+    > <br><small>平时很忙，所以周末会集中做家务。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>家事<rt>かじ</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>料理<rt>りょうり</rt></ruby>も<ruby>掃除<rt>そうじ</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>です。
+    > <br><small>他很擅长家务，料理和打扫都很拿手。</small>
+    > </div>
+
+---
+
+## 掃除
+
+- **读音**：<ruby>掃除<rt>そうじ</rt></ruby>（そうじ）
+- **词性**：名词/サ变动词
+- **释义**：打扫；扫除
+
+- **例句**：
+
+    > <div class="example-box">
+    > お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しました。
+    > <br><small>客人们来之前，我打扫了房间。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>大掃除<rt>おおそうじ</rt></ruby>をして、いらないものを<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>捨<rt>す</rt></ruby>てました。
+    > <br><small>进行了大扫除，把不需要的东西全扔了。</small>
+    > </div>
+
+---
+
+## 粥
+
+- **读音**：<ruby>粥<rt>かゆ</rt></ruby>（かゆ）
+- **词性**：名词
+- **释义**：粥；稀饭
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>は、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>粥<rt>かゆ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。
+    > <br><small>感冒的时候，会喝热粥。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>朝食<rt>ちょうしょく</rt></ruby>に<ruby>卵粥<rt>たまごがゆ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
+    > <br><small>早餐做了鸡蛋粥。</small>
+    > </div>
+
+---
+
+## 眠い
+
+- **读音**：<ruby>眠<rt>ねむ</rt></ruby>い（ねむい）
+- **词性**：形容词
+- **释义**：困的；想睡觉的
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>昨夜<rt>さくや</rt></ruby>あまり<ruby>寝<rt>ね</rt></ruby>ていないので、<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>眠<rt>ねむ</rt></ruby>いです。
+    > <br><small>昨晚没怎么睡，所以今天非常困。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>午後<rt>ごご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>眠<rt>ねむ</rt></ruby>くなります。
+    > <br><small>下午的课会变得很困。</small>
+    > </div>
 
 ---
 
