@@ -2,7 +2,32 @@
 
 记录名词、形容词等词汇。
 
-共 **21** 个词汇
+共 **17** 个词汇
+
+---
+
+## 涼しい
+
+- **读音**：<ruby>涼<rt>すず</rt></ruby>しい（すずしい）
+- **词性**：形容词
+- **释义**：凉爽，凉快；清澈，明亮（多指眼睛）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しくて<ruby>過<rt>す</rt></ruby>ごしやすいです。
+    > <br><small>北海道的夏天很凉爽，住起来很舒服。</small>
+    > </div>
+
+    > <div class="example-box">
+    > お<ruby>風<rt>ふ</rt></ruby><ruby>呂<rt>ろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりは<ruby>風<rt>かぜ</rt></ruby>が<ruby>涼<rt>すず</rt></ruby>しくて<ruby>気<rt>き</rt></ruby><ruby>持<rt>も</rt></ruby>ちいい。
+    > <br><small>洗完澡后微风凉爽，感觉很舒服。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしている。
+    > <br><small>她有一双清澈明亮的眼睛。</small>
+    > </div>
 
 ---
 
@@ -261,26 +286,6 @@
 
 ---
 
-## 不味い
-
-- **读音**：<ruby>不味<rt>まず</rt></ruby>い（まずい）
-- **词性**：形容词
-- **释义**：难吃的；糟糕的；不妙的
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>不味<rt>まず</rt></ruby>くて<ruby>食<rt>た</rt></ruby>べられません。
-    > <br><small>这道菜太难吃了，吃不下去。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>約束<rt>やくそく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまった、それはまずいな。
-    > <br><small>把约会给忘了，那可太糟糕了。</small>
-    > </div>
-
----
-
 ## 同じ
 
 - **读音**：<ruby>同<rt>おな</rt></ruby>じ（おなじ）
@@ -297,86 +302,6 @@
     > <div class="example-box">
     > <ruby>毎日<rt>まいにち</rt></ruby><ruby>同<rt>おな</rt></ruby>じことの<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しで<ruby>飽<rt>あ</rt></ruby>きました。
     > <br><small>每天重复同样的事情，都厌烦了。</small>
-    > </div>
-
----
-
-## もうすぐ
-
-- **读音**：もうすぐ（もうすぐ）
-- **词性**：副词
-- **释义**：马上；很快
-
-- **例句**：
-
-    > <div class="example-box">
-    > もうすぐ<ruby>春<rt>はる</rt></ruby>が<ruby>来<rt>き</rt></ruby>ます。
-    > <br><small>春天快要到了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > もうすぐ<ruby>映画<rt>えいが</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。
-    > <br><small>电影马上就要开始了。</small>
-    > </div>
-
----
-
-## 親切
-
-- **读音**：<ruby>親切<rt>しんせつ</rt></ruby>（しんせつ）
-- **词性**：形容动词
-- **释义**：亲切；热心；友善
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>田中<rt>たなか</rt></ruby>さんはとても<ruby>親切<rt>しんせつ</rt></ruby>です。
-    > <br><small>田中先生非常亲切。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>親切<rt>しんせつ</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてくれました。
-    > <br><small>他好心地为我指了路。</small>
-    > </div>
-
----
-
-## 家賃
-
-- **读音**：<ruby>家賃<rt>やちん</rt></ruby>（やちん）
-- **词性**：名词
-- **释义**：房租
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>毎月<rt>まいつき</rt></ruby>、<ruby>家賃<rt>やちん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。
-    > <br><small>每个月交房租。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>東京<rt>とうきょう</rt></ruby>は<ruby>家賃<rt>やちん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。
-    > <br><small>东京的房租很贵。</small>
-    > </div>
-
----
-
-## 東・西・南・北
-
-- **读音**：<ruby>東<rt>ひがし</rt></ruby>・<ruby>西<rt>にし</rt></ruby>・<ruby>南<rt>みなみ</rt></ruby>・<ruby>北<rt>きた</rt></ruby>（ひがし・にし・みなみ・きた）
-- **词性**：名词
-- **释义**：东·西·南·北
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>太陽<rt>たいよう</rt></ruby>は<ruby>東<rt>ひがし</rt></ruby>から<ruby>昇<rt>のぼ</rt></ruby>って、<ruby>西<rt>にし</rt></ruby>に<ruby>沈<rt>しず</rt></ruby>みます。
-    > <br><small>太阳从东边升起，从西边落下。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>には<ruby>沖縄<rt>おきなわ</rt></ruby>があります。
-    > <br><small>日本的南边有冲绳。</small>
     > </div>
 
 ---

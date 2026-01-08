@@ -1,5 +1,31 @@
 [
   {
+    "id": "suzushii_1767876329",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "display_html": "<ruby>涼<rt>すず</rt></ruby>しい",
+    "type": "形容词",
+    "meaning": "凉爽，凉快；清澈，明亮（多指眼睛）",
+    "examples": [
+      {
+        "jp": "北海道の夏は涼しくて過ごしやすいです。",
+        "html": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しくて<ruby>過<rt>す</rt></ruby>ごしやすいです。",
+        "cn": "北海道的夏天很凉爽，住起来很舒服。"
+      },
+      {
+        "jp": "お風呂上がりは風が涼しくて気持ちいい。",
+        "html": "お<ruby>風<rt>ふ</rt></ruby><ruby>呂<rt>ろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりは<ruby>風<rt>かぜ</rt></ruby>が<ruby>涼<rt>すず</rt></ruby>しくて<ruby>気<rt>き</rt></ruby><ruby>持<rt>も</rt></ruby>ちいい。",
+        "cn": "洗完澡后微风凉爽，感觉很舒服。"
+      },
+      {
+        "jp": "彼女は涼しい目をしている。",
+        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしている。",
+        "cn": "她有一双清澈明亮的眼睛。"
+      }
+    ],
+    "created_at": 1767876329
+  },
+  {
     "id": "kaji_1767783581",
     "word": "家事",
     "reading": "かじ",
@@ -267,27 +293,6 @@
     "created_at": 1767272590
   },
   {
-    "id": "mazui_1767272590",
-    "word": "不味い",
-    "reading": "まずい",
-    "display_html": "<ruby>不味<rt>まず</rt></ruby>い",
-    "type": "形容词",
-    "meaning": "难吃的；糟糕的；不妙的",
-    "examples": [
-      {
-        "jp": "この料理は不味くて食べられません。",
-        "html": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>不味<rt>まず</rt></ruby>くて<ruby>食<rt>た</rt></ruby>べられません。",
-        "cn": "这道菜太难吃了，吃不下去。"
-      },
-      {
-        "jp": "約束を忘れてしまった、それはまずいな。",
-        "html": "<ruby>約束<rt>やくそく</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてしまった、それはまずいな。",
-        "cn": "把约会给忘了，那可太糟糕了。"
-      }
-    ],
-    "created_at": 1767272590
-  },
-  {
     "id": "onaji_1767272590",
     "word": "同じ",
     "reading": "おなじ",
@@ -307,90 +312,6 @@
       }
     ],
     "created_at": 1767272590
-  },
-  {
-    "id": "mousugu_1767100727",
-    "word": "もうすぐ",
-    "reading": "もうすぐ",
-    "display_html": "もうすぐ",
-    "type": "副词",
-    "meaning": "马上；很快",
-    "examples": [
-      {
-        "jp": "もうすぐ春が来ます。",
-        "html": "もうすぐ<ruby>春<rt>はる</rt></ruby>が<ruby>来<rt>き</rt></ruby>ます。",
-        "cn": "春天快要到了。"
-      },
-      {
-        "jp": "もうすぐ映画が始まります。",
-        "html": "もうすぐ<ruby>映画<rt>えいが</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。",
-        "cn": "电影马上就要开始了。"
-      }
-    ],
-    "created_at": 1767100727
-  },
-  {
-    "id": "shinsetsu_1767022008",
-    "word": "親切",
-    "reading": "しんせつ",
-    "display_html": "<ruby>親切<rt>しんせつ</rt></ruby>",
-    "type": "形容动词",
-    "meaning": "亲切；热心；友善",
-    "examples": [
-      {
-        "jp": "田中さんはとても親切です。",
-        "html": "<ruby>田中<rt>たなか</rt></ruby>さんはとても<ruby>親切<rt>しんせつ</rt></ruby>です。",
-        "cn": "田中先生非常亲切。"
-      },
-      {
-        "jp": "親切に道を教えてくれました。",
-        "html": "<ruby>親切<rt>しんせつ</rt></ruby>に<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてくれました。",
-        "cn": "他好心地为我指了路。"
-      }
-    ],
-    "created_at": 1767022008
-  },
-  {
-    "id": "yachin_1767022008",
-    "word": "家賃",
-    "reading": "やちん",
-    "display_html": "<ruby>家賃<rt>やちん</rt></ruby>",
-    "type": "名词",
-    "meaning": "房租",
-    "examples": [
-      {
-        "jp": "毎月、家賃を払います。",
-        "html": "<ruby>毎月<rt>まいつき</rt></ruby>、<ruby>家賃<rt>やちん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。",
-        "cn": "每个月交房租。"
-      },
-      {
-        "jp": "東京は家賃が高いです。",
-        "html": "<ruby>東京<rt>とうきょう</rt></ruby>は<ruby>家賃<rt>やちん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。",
-        "cn": "东京的房租很贵。"
-      }
-    ],
-    "created_at": 1767022008
-  },
-  {
-    "id": "higashi-nishi-minami-kita_1766931677",
-    "word": "東・西・南・北",
-    "reading": "ひがし・にし・みなみ・きた",
-    "display_html": "<ruby>東<rt>ひがし</rt></ruby>・<ruby>西<rt>にし</rt></ruby>・<ruby>南<rt>みなみ</rt></ruby>・<ruby>北<rt>きた</rt></ruby>",
-    "type": "名词",
-    "meaning": "东·西·南·北",
-    "examples": [
-      {
-        "jp": "太陽は東から昇って、西に沈みます。",
-        "html": "<ruby>太陽<rt>たいよう</rt></ruby>は<ruby>東<rt>ひがし</rt></ruby>から<ruby>昇<rt>のぼ</rt></ruby>って、<ruby>西<rt>にし</rt></ruby>に<ruby>沈<rt>しず</rt></ruby>みます。",
-        "cn": "太阳从东边升起，从西边落下。"
-      },
-      {
-        "jp": "日本の南には沖縄があります。",
-        "html": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>南<rt>みなみ</rt></ruby>には<ruby>沖縄<rt>おきなわ</rt></ruby>があります。",
-        "cn": "日本的南边有冲绳。"
-      }
-    ],
-    "created_at": 1766931677
   },
   {
     "id": "atari_1766931677",

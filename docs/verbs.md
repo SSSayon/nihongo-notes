@@ -2,7 +2,47 @@
 
 记录动词。
 
-共 **19** 个动词
+共 **21** 个动词
+
+---
+
+## 笑う
+
+- **读音**：<ruby>笑<rt>わら</rt></ruby>う（わらう）
+- **类型**：五段动词
+- **释义**：笑；嘲笑
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>笑<rt>わら</rt></ruby>っています。
+    > <br><small>她总是笑得很开心的样子。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>人<rt>ひと</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>笑<rt>わら</rt></ruby>ってはいけません。
+    > <br><small>不要嘲笑别人的失败。</small>
+    > </div>
+
+---
+
+## 忘れる
+
+- **读音**：<ruby>忘<rt>わす</rt></ruby>れる（わすれる）
+- **类型**：一段动词
+- **释义**：忘记；遗忘（物品）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>漢字<rt>かんじ</rt></ruby>の<ruby>書<rt>か</rt></ruby>き<ruby>方<rt>かた</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。
+    > <br><small>忘记了汉字的写法。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>傘<rt>かさ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。
+    > <br><small>把伞忘在电车上了。</small>
+    > </div>
 
 ---
 
