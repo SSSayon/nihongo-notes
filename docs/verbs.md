@@ -2,7 +2,7 @@
 
 记录动词。
 
-共 **21** 个动词
+共 **19** 个动词
 
 ---
 
@@ -292,46 +292,6 @@
     > <div class="example-box">
     > <ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。
     > <br><small>预定明天早上到达东京。</small>
-    > </div>
-
----
-
-## かかる
-
-- **读音**：<ruby>掛<rt>か</rt></ruby>かる（かかる）
-- **类型**：五段动词
-- **释义**：花费（时间、金钱）；挂着；覆盖；患病
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>家<rt>いえ</rt></ruby>から<ruby>大<rt>だい</rt></ruby><ruby>学<rt>がく</rt></ruby>まで<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>かかります。
-    > <br><small>从家里到大学需要花费一个小时。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>にはお<ruby>金<rt>かね</rt></ruby>がかかります。
-    > <br><small>这项修理需要花钱。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>壁<rt>かべ</rt></ruby>にきれいな<ruby>絵<rt>え</rt></ruby>が<ruby>掛<rt>か</rt></ruby>っています。
-    > <br><small>墙上挂着一幅漂亮的画。</small>
-    > </div>
-
----
-
-## 引っ越す
-
-- **读音**：<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す（ひっこす）
-- **类型**：五段动词
-- **释义**：搬家
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいアパートに<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。
-    > <br><small>下周要搬到新的公寓去。</small>
     > </div>
 
 ---

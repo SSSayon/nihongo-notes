@@ -1,5 +1,68 @@
 [
   {
+    "id": "tsugi_1767957637",
+    "word": "次",
+    "reading": "つぎ",
+    "display_html": "<ruby>次<rt>つぎ</rt></ruby>",
+    "type": "名词",
+    "meaning": "下一个；下次；接着",
+    "examples": [
+      {
+        "jp": "次の角を右に曲がってください。",
+        "html": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。",
+        "cn": "请在下一个拐角处右转。"
+      },
+      {
+        "jp": "次の会議は来週の月曜日です。",
+        "html": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>です。",
+        "cn": "下次会议在下周一。"
+      }
+    ],
+    "created_at": 1767957637
+  },
+  {
+    "id": "yatai_1767957637",
+    "word": "屋台",
+    "reading": "やたい",
+    "display_html": "<ruby>屋台<rt>やたい</rt></ruby>",
+    "type": "名词",
+    "meaning": "路边摊；大排档；摊位",
+    "examples": [
+      {
+        "jp": "お祭りで屋台のたこ焼きを食べました。",
+        "html": "お<ruby>祭<rt>まつ</rt></ruby>りで<ruby>屋台<rt>やたい</rt></ruby>のたこ<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。",
+        "cn": "在祭典上吃了路边摊的章鱼小丸子。"
+      },
+      {
+        "jp": "福岡の夜は屋台がとても賑やかです。",
+        "html": "<ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>屋台<rt>やたい</rt></ruby>がとても<ruby>賑<rt>にぎ</rt></ruby>やかです。",
+        "cn": "福冈的夜晚，路边摊非常热闹。"
+      }
+    ],
+    "created_at": 1767957637
+  },
+  {
+    "id": "okashi_1767957637",
+    "word": "お菓子",
+    "reading": "おかし",
+    "display_html": "お<ruby>菓子<rt>かし</rt></ruby>",
+    "type": "名词",
+    "meaning": "点心；零食；糖果",
+    "examples": [
+      {
+        "jp": "子供たちにお菓子をあげました。",
+        "html": "<ruby>子供<rt>こども</rt></ruby>たちにお<ruby>菓子<rt>かし</rt></ruby>をあげました。",
+        "cn": "给了孩子们零食。"
+      },
+      {
+        "jp": "甘いお菓子が大好きです。",
+        "html": "<ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。",
+        "cn": "非常喜欢甜点。"
+      }
+    ],
+    "created_at": 1767957637
+  },
+  {
     "id": "suzushii_1767876329",
     "word": "涼しい",
     "reading": "すずしい",
@@ -24,48 +87,6 @@
       }
     ],
     "created_at": 1767876329
-  },
-  {
-    "id": "kaji_1767783581",
-    "word": "家事",
-    "reading": "かじ",
-    "display_html": "<ruby>家事<rt>かじ</rt></ruby>",
-    "type": "名词",
-    "meaning": "家务；家政",
-    "examples": [
-      {
-        "jp": "平日は忙しいので、週末に家事をまとめてやります。",
-        "html": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいので、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>家事<rt>かじ</rt></ruby>をまとめてやります。",
-        "cn": "平时很忙，所以周末会集中做家务。"
-      },
-      {
-        "jp": "彼は家事が得意で、料理も掃除も上手です。",
-        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>家事<rt>かじ</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>料理<rt>りょうり</rt></ruby>も<ruby>掃除<rt>そうじ</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>です。",
-        "cn": "他很擅长家务，料理和打扫都很拿手。"
-      }
-    ],
-    "created_at": 1767783581
-  },
-  {
-    "id": "souji_1767783581",
-    "word": "掃除",
-    "reading": "そうじ",
-    "display_html": "<ruby>掃除<rt>そうじ</rt></ruby>",
-    "type": "名词/サ变动词",
-    "meaning": "打扫；扫除",
-    "examples": [
-      {
-        "jp": "お客様が来る前に、部屋を掃除しました。",
-        "html": "お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しました。",
-        "cn": "客人们来之前，我打扫了房间。"
-      },
-      {
-        "jp": "大掃除をして、いらないものを全部捨てました。",
-        "html": "<ruby>大掃除<rt>おおそうじ</rt></ruby>をして、いらないものを<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>捨<rt>す</rt></ruby>てました。",
-        "cn": "进行了大扫除，把不需要的东西全扔了。"
-      }
-    ],
-    "created_at": 1767783581
   },
   {
     "id": "kayu_1767783581",

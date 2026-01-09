@@ -304,48 +304,6 @@
     "created_at": 1767100155
   },
   {
-    "id": "kakaru_1766846438",
-    "word": "かかる",
-    "reading": "かかる",
-    "display_html": "<ruby>掛<rt>か</rt></ruby>かる",
-    "type": "五段动词",
-    "meaning": "花费（时间、金钱）；挂着；覆盖；患病",
-    "examples": [
-      {
-        "jp": "家から大学まで一時間かかります。",
-        "html": "<ruby>家<rt>いえ</rt></ruby>から<ruby>大<rt>だい</rt></ruby><ruby>学<rt>がく</rt></ruby>まで<ruby>一<rt>いち</rt></ruby><ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>かかります。",
-        "cn": "从家里到大学需要花费一个小时。"
-      },
-      {
-        "jp": "この修理にはお金がかかります。",
-        "html": "この<ruby>修<rt>しゅう</rt></ruby><ruby>理<rt>り</rt></ruby>にはお<ruby>金<rt>かね</rt></ruby>がかかります。",
-        "cn": "这项修理需要花钱。"
-      },
-      {
-        "jp": "壁にきれいな絵が掛かっています。",
-        "html": "<ruby>壁<rt>かべ</rt></ruby>にきれいな<ruby>絵<rt>え</rt></ruby>が<ruby>掛<rt>か</rt></ruby>っています。",
-        "cn": "墙上挂着一幅漂亮的画。"
-      }
-    ],
-    "created_at": 1766846438
-  },
-  {
-    "id": "hikkosu_1766845537",
-    "word": "引っ越す",
-    "reading": "ひっこす",
-    "display_html": "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す",
-    "type": "五段动词",
-    "meaning": "搬家",
-    "examples": [
-      {
-        "jp": "来週、新しいアパートに引っ越します。",
-        "html": "<ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby>、<ruby>新<rt>あたら</rt></ruby>しいアパートに<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>します。",
-        "cn": "下周要搬到新的公寓去。"
-      }
-    ],
-    "created_at": 1766845537
-  },
-  {
     "id": "mitsukaru_1766845537",
     "word": "見つかる",
     "reading": "みつかる",

@@ -2,7 +2,67 @@
 
 记录名词、形容词等词汇。
 
-共 **17** 个词汇
+共 **18** 个词汇
+
+---
+
+## 次
+
+- **读音**：<ruby>次<rt>つぎ</rt></ruby>（つぎ）
+- **词性**：名词
+- **释义**：下一个；下次；接着
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>次<rt>つぎ</rt></ruby>の<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。
+    > <br><small>请在下一个拐角处右转。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>次<rt>つぎ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>です。
+    > <br><small>下次会议在下周一。</small>
+    > </div>
+
+---
+
+## 屋台
+
+- **读音**：<ruby>屋台<rt>やたい</rt></ruby>（やたい）
+- **词性**：名词
+- **释义**：路边摊；大排档；摊位
+
+- **例句**：
+
+    > <div class="example-box">
+    > お<ruby>祭<rt>まつ</rt></ruby>りで<ruby>屋台<rt>やたい</rt></ruby>のたこ<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。
+    > <br><small>在祭典上吃了路边摊的章鱼小丸子。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>屋台<rt>やたい</rt></ruby>がとても<ruby>賑<rt>にぎ</rt></ruby>やかです。
+    > <br><small>福冈的夜晚，路边摊非常热闹。</small>
+    > </div>
+
+---
+
+## お菓子
+
+- **读音**：お<ruby>菓子<rt>かし</rt></ruby>（おかし）
+- **词性**：名词
+- **释义**：点心；零食；糖果
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>子供<rt>こども</rt></ruby>たちにお<ruby>菓子<rt>かし</rt></ruby>をあげました。
+    > <br><small>给了孩子们零食。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。
+    > <br><small>非常喜欢甜点。</small>
+    > </div>
 
 ---
 
@@ -27,46 +87,6 @@
     > <div class="example-box">
     > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしている。
     > <br><small>她有一双清澈明亮的眼睛。</small>
-    > </div>
-
----
-
-## 家事
-
-- **读音**：<ruby>家事<rt>かじ</rt></ruby>（かじ）
-- **词性**：名词
-- **释义**：家务；家政
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいので、<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>家事<rt>かじ</rt></ruby>をまとめてやります。
-    > <br><small>平时很忙，所以周末会集中做家务。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>家事<rt>かじ</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>で、<ruby>料理<rt>りょうり</rt></ruby>も<ruby>掃除<rt>そうじ</rt></ruby>も<ruby>上手<rt>じょうず</rt></ruby>です。
-    > <br><small>他很擅长家务，料理和打扫都很拿手。</small>
-    > </div>
-
----
-
-## 掃除
-
-- **读音**：<ruby>掃除<rt>そうじ</rt></ruby>（そうじ）
-- **词性**：名词/サ变动词
-- **释义**：打扫；扫除
-
-- **例句**：
-
-    > <div class="example-box">
-    > お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>しました。
-    > <br><small>客人们来之前，我打扫了房间。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>大掃除<rt>おおそうじ</rt></ruby>をして、いらないものを<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>捨<rt>す</rt></ruby>てました。
-    > <br><small>进行了大扫除，把不需要的东西全扔了。</small>
     > </div>
 
 ---
