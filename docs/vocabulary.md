@@ -2,7 +2,67 @@
 
 记录名词、形容词等词汇。
 
-共 **18** 个词汇
+共 **21** 个词汇
+
+---
+
+## 最後
+
+- **读音**：<ruby>最後<rt>さいご</rt></ruby>（さいご）
+- **词性**：名词
+- **释义**：最后；最终；尽头
+
+- **例句**：
+
+    > <div class="example-box">
+    > これが<ruby>最後<rt>さいご</rt></ruby>のチャンスです。
+    > <br><small>这是最后的机会。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>最後<rt>さいご</rt></ruby>まで<ruby>諦<rt>あきら</rt></ruby>めないでください。
+    > <br><small>请坚持到最后，不要放弃。</small>
+    > </div>
+
+---
+
+## 事故
+
+- **读音**：<ruby>事故<rt>じこ</rt></ruby>（じこ）
+- **词性**：名词
+- **释义**：事故；意外；故障
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>交通<rt>こうつう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>いました。
+    > <br><small>遭遇了交通事故。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>不注意<rt>ふちゅうい</rt></ruby>で<ruby>事故<rt>じこ</rt></ruby>が<ruby>起<rt>お</rt></ruby>きました。
+    > <br><small>因为疏忽大意发生了事故。</small>
+    > </div>
+
+---
+
+## 真ん中
+
+- **读音**：<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>（まんなか）
+- **词性**：名词
+- **释义**：正中间；中心
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>部屋<rt>へや</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>にテーブルがあります。
+    > <br><small>房间正中央有一张桌子。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>列<rt>れつ</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んでいます。
+    > <br><small>排在队伍的正中间。</small>
+    > </div>
 
 ---
 
