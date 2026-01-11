@@ -1,5 +1,26 @@
 [
   {
+    "id": "yakisoba_1768132327",
+    "word": "焼きそば",
+    "reading": "やきそば",
+    "display_html": "<ruby>焼<rt>や</rt></ruby>きそば",
+    "type": "名词",
+    "meaning": "日式炒面",
+    "examples": [
+      {
+        "jp": "お昼ご飯に焼きそばを食べましょう。",
+        "html": "お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>焼<rt>や</rt></ruby>きそばを<ruby>食<rt>た</rt></ruby>べましょう。",
+        "cn": "午饭吃炒面吧。"
+      },
+      {
+        "jp": "お祭りの屋台で焼きそばを買いました。",
+        "html": "お<ruby>祭<rt>まつ</rt></ruby>りの<ruby>屋台<rt>やたい</rt></ruby>で<ruby>焼<rt>や</rt></ruby>きそばを<ruby>買<rt>か</rt></ruby>いました。",
+        "cn": "在祭典的小摊上买了炒面。"
+      }
+    ],
+    "created_at": 1768132327
+  },
+  {
     "id": "saigo_1768054999",
     "word": "最後",
     "reading": "さいご",

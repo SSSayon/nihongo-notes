@@ -2,7 +2,27 @@
 
 记录名词、形容词等词汇。
 
-共 **21** 个词汇
+共 **22** 个词汇
+
+---
+
+## 焼きそば
+
+- **读音**：<ruby>焼<rt>や</rt></ruby>きそば（やきそば）
+- **词性**：名词
+- **释义**：日式炒面
+
+- **例句**：
+
+    > <div class="example-box">
+    > お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>焼<rt>や</rt></ruby>きそばを<ruby>食<rt>た</rt></ruby>べましょう。
+    > <br><small>午饭吃炒面吧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > お<ruby>祭<rt>まつ</rt></ruby>りの<ruby>屋台<rt>やたい</rt></ruby>で<ruby>焼<rt>や</rt></ruby>きそばを<ruby>買<rt>か</rt></ruby>いました。
+    > <br><small>在祭典的小摊上买了炒面。</small>
+    > </div>
 
 ---
 
