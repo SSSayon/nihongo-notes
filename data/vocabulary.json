@@ -1,5 +1,47 @@
 [
   {
+    "id": "gawa_1768226985",
+    "word": "側",
+    "reading": "がわ",
+    "display_html": "<ruby>側<rt>がわ</rt></ruby>",
+    "type": "名词",
+    "meaning": "侧；旁边；（立场等）一方",
+    "examples": [
+      {
+        "jp": "駅の反対側にスーパーがあります。",
+        "html": "<ruby>駅<rt>えき</rt></ruby>の<ruby>反対側<rt>はんたいがわ</rt></ruby>にスーパーがあります。",
+        "cn": "车站的另一侧有超市。"
+      },
+      {
+        "jp": "窓側の席をお願いします。",
+        "html": "<ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。",
+        "cn": "请给我靠窗的座位。"
+      }
+    ],
+    "created_at": 1768226985
+  },
+  {
+    "id": "nedan_1768226985",
+    "word": "値段",
+    "reading": "ねだん",
+    "display_html": "<ruby>値段<rt>ねだん</rt></ruby>",
+    "type": "名词",
+    "meaning": "价格；价钱",
+    "examples": [
+      {
+        "jp": "この靴の値段はいくらですか。",
+        "html": "この<ruby>靴<rt>くつ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>はいくらですか。",
+        "cn": "这双鞋的价格是多少？"
+      },
+      {
+        "jp": "物価が上がって、野菜の値段も高くなりました。",
+        "html": "<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなりました。",
+        "cn": "物价上涨，蔬菜的价格也变贵了。"
+      }
+    ],
+    "created_at": 1768226985
+  },
+  {
     "id": "yakisoba_1768132327",
     "word": "焼きそば",
     "reading": "やきそば",

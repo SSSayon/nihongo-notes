@@ -2,7 +2,47 @@
 
 记录名词、形容词等词汇。
 
-共 **22** 个词汇
+共 **24** 个词汇
+
+---
+
+## 側
+
+- **读音**：<ruby>側<rt>がわ</rt></ruby>（がわ）
+- **词性**：名词
+- **释义**：侧；旁边；（立场等）一方
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>駅<rt>えき</rt></ruby>の<ruby>反対側<rt>はんたいがわ</rt></ruby>にスーパーがあります。
+    > <br><small>车站的另一侧有超市。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。
+    > <br><small>请给我靠窗的座位。</small>
+    > </div>
+
+---
+
+## 値段
+
+- **读音**：<ruby>値段<rt>ねだん</rt></ruby>（ねだん）
+- **词性**：名词
+- **释义**：价格；价钱
+
+- **例句**：
+
+    > <div class="example-box">
+    > この<ruby>靴<rt>くつ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>はいくらですか。
+    > <br><small>这双鞋的价格是多少？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなりました。
+    > <br><small>物价上涨，蔬菜的价格也变贵了。</small>
+    > </div>
 
 ---
 

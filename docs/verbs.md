@@ -2,7 +2,32 @@
 
 记录动词。
 
-共 **19** 个动词
+共 **20** 个动词
+
+---
+
+## 調べる
+
+- **读音**：<ruby>調<rt>しら</rt></ruby>べる（しらべる）
+- **类型**：一段动词
+- **释义**：调查；查阅；检查
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>分<rt>わ</rt></ruby>からない<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>は</rt></ruby>を<ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べます。
+    > <br><small>用辞典查不认识的词。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>警<rt>けい</rt></ruby><ruby>察<rt>さつ</rt></ruby>が<ruby>事<rt>じ</rt></ruby><ruby>件<rt>けん</rt></ruby>の<ruby>原<rt>げん</rt></ruby><ruby>因<rt>いん</rt></ruby>を<ruby>詳<rt>くわ</rt></ruby>しく<ruby>調<rt>しら</rt></ruby>べている。
+    > <br><small>警察正在详细调查事件的原因。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>空<rt>くう</rt></ruby><ruby>港<rt>こう</rt></ruby>で<ruby>手<rt>て</rt></ruby><ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べられました。
+    > <br><small>在机场行李被检查了。</small>
+    > </div>
 
 ---
 

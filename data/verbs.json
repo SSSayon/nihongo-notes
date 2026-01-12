@@ -1,5 +1,31 @@
 [
   {
+    "id": "shiraberu_1768226905",
+    "word": "調べる",
+    "reading": "しらべる",
+    "display_html": "<ruby>調<rt>しら</rt></ruby>べる",
+    "type": "一段动词",
+    "meaning": "调查；查阅；检查",
+    "examples": [
+      {
+        "jp": "分からない言葉を辞書で調べます。",
+        "html": "<ruby>分<rt>わ</rt></ruby>からない<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>は</rt></ruby>を<ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べます。",
+        "cn": "用辞典查不认识的词。"
+      },
+      {
+        "jp": "警察が事件の原因を詳しく調べている。",
+        "html": "<ruby>警<rt>けい</rt></ruby><ruby>察<rt>さつ</rt></ruby>が<ruby>事<rt>じ</rt></ruby><ruby>件<rt>けん</rt></ruby>の<ruby>原<rt>げん</rt></ruby><ruby>因<rt>いん</rt></ruby>を<ruby>詳<rt>くわ</rt></ruby>しく<ruby>調<rt>しら</rt></ruby>べている。",
+        "cn": "警察正在详细调查事件的原因。"
+      },
+      {
+        "jp": "空港で手荷物を調べられました。",
+        "html": "<ruby>空<rt>くう</rt></ruby><ruby>港<rt>こう</rt></ruby>で<ruby>手<rt>て</rt></ruby><ruby>荷<rt>に</rt></ruby><ruby>物<rt>もつ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べられました。",
+        "cn": "在机场行李被检查了。"
+      }
+    ],
+    "created_at": 1768226905
+  },
+  {
     "id": "warau_1767876253",
     "word": "笑う",
     "reading": "わらう",
