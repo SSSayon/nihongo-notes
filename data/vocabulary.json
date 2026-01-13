@@ -1,5 +1,47 @@
 [
   {
+    "id": "kuruma_1768309488",
+    "word": "車",
+    "reading": "くるま",
+    "display_html": "<ruby>車<rt>くるま</rt></ruby>",
+    "type": "名词",
+    "meaning": "汽车；车轮",
+    "examples": [
+      {
+        "jp": "車を運転します。",
+        "html": "<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>します。",
+        "cn": "开车。"
+      },
+      {
+        "jp": "新しい車が欲しいです。",
+        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。",
+        "cn": "想要新车。"
+      }
+    ],
+    "created_at": 1768309488
+  },
+  {
+    "id": "keshiki_1768309488",
+    "word": "景色",
+    "reading": "けしき",
+    "display_html": "<ruby>景色<rt>けしき</rt></ruby>",
+    "type": "名词",
+    "meaning": "风景；景色",
+    "examples": [
+      {
+        "jp": "山の上からの景色はとてもきれいです。",
+        "html": "<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>からの<ruby>景色<rt>けしき</rt></ruby>はとてもきれいです。",
+        "cn": "山顶上的风景非常漂亮。"
+      },
+      {
+        "jp": "この窓から見える景色が好きです。",
+        "html": "この<ruby>窓<rt>まど</rt></ruby>から<ruby>見<rt>み</rt></ruby>える<ruby>景色<rt>けしき</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
+        "cn": "我喜欢从这扇窗户看到的景色。"
+      }
+    ],
+    "created_at": 1768309488
+  },
+  {
     "id": "gawa_1768226985",
     "word": "側",
     "reading": "がわ",
@@ -189,74 +231,6 @@
     "created_at": 1767957637
   },
   {
-    "id": "suzushii_1767876329",
-    "word": "涼しい",
-    "reading": "すずしい",
-    "display_html": "<ruby>涼<rt>すず</rt></ruby>しい",
-    "type": "形容词",
-    "meaning": "凉爽，凉快；清澈，明亮（多指眼睛）",
-    "examples": [
-      {
-        "jp": "北海道の夏は涼しくて過ごしやすいです。",
-        "html": "<ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しくて<ruby>過<rt>す</rt></ruby>ごしやすいです。",
-        "cn": "北海道的夏天很凉爽，住起来很舒服。"
-      },
-      {
-        "jp": "お風呂上がりは風が涼しくて気持ちいい。",
-        "html": "お<ruby>風<rt>ふ</rt></ruby><ruby>呂<rt>ろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりは<ruby>風<rt>かぜ</rt></ruby>が<ruby>涼<rt>すず</rt></ruby>しくて<ruby>気<rt>き</rt></ruby><ruby>持<rt>も</rt></ruby>ちいい。",
-        "cn": "洗完澡后微风凉爽，感觉很舒服。"
-      },
-      {
-        "jp": "彼女は涼しい目をしている。",
-        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしている。",
-        "cn": "她有一双清澈明亮的眼睛。"
-      }
-    ],
-    "created_at": 1767876329
-  },
-  {
-    "id": "kayu_1767783581",
-    "word": "粥",
-    "reading": "かゆ",
-    "display_html": "<ruby>粥<rt>かゆ</rt></ruby>",
-    "type": "名词",
-    "meaning": "粥；稀饭",
-    "examples": [
-      {
-        "jp": "風邪を引いた時は、温かいお粥を食べます。",
-        "html": "<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>は、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>粥<rt>かゆ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。",
-        "cn": "感冒的时候，会喝热粥。"
-      },
-      {
-        "jp": "朝食に卵粥を作りました。",
-        "html": "<ruby>朝食<rt>ちょうしょく</rt></ruby>に<ruby>卵粥<rt>たまごがゆ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。",
-        "cn": "早餐做了鸡蛋粥。"
-      }
-    ],
-    "created_at": 1767783581
-  },
-  {
-    "id": "nemui_1767783581",
-    "word": "眠い",
-    "reading": "ねむい",
-    "display_html": "<ruby>眠<rt>ねむ</rt></ruby>い",
-    "type": "形容词",
-    "meaning": "困的；想睡觉的",
-    "examples": [
-      {
-        "jp": "昨夜あまり寝ていないので、今日はとても眠いです。",
-        "html": "<ruby>昨夜<rt>さくや</rt></ruby>あまり<ruby>寝<rt>ね</rt></ruby>ていないので、<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>眠<rt>ねむ</rt></ruby>いです。",
-        "cn": "昨晚没怎么睡，所以今天非常困。"
-      },
-      {
-        "jp": "午後の授業は眠くなります。",
-        "html": "<ruby>午後<rt>ごご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>眠<rt>ねむ</rt></ruby>くなります。",
-        "cn": "下午的课会变得很困。"
-      }
-    ],
-    "created_at": 1767783581
-  },
-  {
     "id": "usagi_1767698363",
     "word": "兎",
     "reading": "うさぎ",
@@ -297,105 +271,6 @@
       }
     ],
     "created_at": 1767624689
-  },
-  {
-    "id": "nebou_1767624689",
-    "word": "寝坊",
-    "reading": "ねぼう",
-    "display_html": "<ruby>寝坊<rt>ねぼう</rt></ruby>",
-    "type": "名词/自サ",
-    "meaning": "睡懒觉；起晚",
-    "examples": [
-      {
-        "jp": "今朝は寝坊して、会議に遅れました。",
-        "html": "<ruby>今朝<rt>けさ</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>して、<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れました。",
-        "cn": "今天早上起晚了，开会迟到了。"
-      },
-      {
-        "jp": "休みの日はいつも寝坊します。",
-        "html": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>はいつも<ruby>寝坊<rt>ねぼう</rt></ruby>します。",
-        "cn": "休息日我总是睡懒觉。"
-      }
-    ],
-    "created_at": 1767624689
-  },
-  {
-    "id": "uchi_1767624689",
-    "word": "うち",
-    "reading": "うち",
-    "display_html": "うち",
-    "type": "名词",
-    "meaning": "家；内部；在……期间",
-    "examples": [
-      {
-        "jp": "私のうちへ遊びに来ませんか。",
-        "html": "<ruby>私<rt>わたし</rt></ruby>のうちへ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>ませんか。",
-        "cn": "要不要来我家玩？"
-      },
-      {
-        "jp": "忘れないうちに、メモしておきます。",
-        "html": "<ruby>忘<rt>わす</rt></ruby>れないうちに、メモしておきます。",
-        "cn": "趁着还没忘记，先记个笔记。"
-      }
-    ],
-    "created_at": 1767624689
-  },
-  {
-    "id": "betsu_1767437879",
-    "word": "別",
-    "reading": "べつ",
-    "display_html": "<ruby>別<rt>べつ</rt></ruby>",
-    "type": "名词/形容动词",
-    "meaning": "另外，其他；区别，不同；例外；分开",
-    "examples": [
-      {
-        "jp": "別の方法を考えましょう。",
-        "html": "<ruby>別<rt>べつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えましょう。",
-        "cn": "让我们考虑一下另外的方法吧。"
-      },
-      {
-        "jp": "支払いは別々にお願いします。",
-        "html": "<ruby>支払<rt>しはら</rt></ruby>いは<ruby>別々<rt>べつべつ</rt></ruby>にお<ruby>願<rt>ねが</rt></ruby>いします。",
-        "cn": "请分开支付。"
-      },
-      {
-        "jp": "それは別の話です。",
-        "html": "それは<ruby>別<rt>べつ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。",
-        "cn": "那是另外一回事。"
-      },
-      {
-        "jp": "費用は別にかかります。",
-        "html": "<ruby>費用<rt>ひよう</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>にかかります。",
-        "cn": "费用另计。"
-      }
-    ],
-    "created_at": 1767437879
-  },
-  {
-    "id": "shoukai_1767363208",
-    "word": "紹介",
-    "reading": "しょうかい",
-    "display_html": "<ruby>紹介<rt>しょうかい</rt></ruby>",
-    "type": "名词/サ变动词",
-    "meaning": "介绍",
-    "examples": [
-      {
-        "jp": "自己紹介をしてください。",
-        "html": "<ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をしてください。",
-        "cn": "请做一下自我介绍。"
-      },
-      {
-        "jp": "新しい友達を紹介します。",
-        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。",
-        "cn": "我来介绍一下新朋友。"
-      },
-      {
-        "jp": "いい仕事を紹介してもらいました。",
-        "html": "いい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してもらいました。",
-        "cn": "别人给我介绍了一份好工作。"
-      }
-    ],
-    "created_at": 1767363171
   },
   {
     "id": "majime_1767272590",
@@ -481,22 +356,6 @@
     ],
     "created_at": 1766931677,
     "notes": "辺り 和 隣（となり）的区别：\n- 辺り 范围模糊（周围、一带），不一定紧挨着\n- 隣 范围非常精确（紧贴、隔壁），且要求是同类事物"
-  },
-  {
-    "id": "urusai_1766845615",
-    "word": "うるさい",
-    "reading": "うるさい",
-    "display_html": "うるさい",
-    "type": "形容词",
-    "meaning": "吵闹的；烦人的",
-    "examples": [
-      {
-        "jp": "外がうるさくて、よく眠れませんでした。",
-        "html": "<ruby>外<rt>そと</rt></ruby>がうるさくて、よく<ruby>眠<rt>ねむ</rt></ruby>れませんでした。",
-        "cn": "外面太吵了，没怎么睡好。"
-      }
-    ],
-    "created_at": 1766845615
   },
   {
     "id": "kitanai_1766845615",

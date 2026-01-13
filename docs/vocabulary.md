@@ -2,7 +2,47 @@
 
 记录名词、形容词等词汇。
 
-共 **24** 个词汇
+共 **18** 个词汇
+
+---
+
+## 車
+
+- **读音**：<ruby>車<rt>くるま</rt></ruby>（くるま）
+- **词性**：名词
+- **释义**：汽车；车轮
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>します。
+    > <br><small>开车。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。
+    > <br><small>想要新车。</small>
+    > </div>
+
+---
+
+## 景色
+
+- **读音**：<ruby>景色<rt>けしき</rt></ruby>（けしき）
+- **词性**：名词
+- **释义**：风景；景色
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>からの<ruby>景色<rt>けしき</rt></ruby>はとてもきれいです。
+    > <br><small>山顶上的风景非常漂亮。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>窓<rt>まど</rt></ruby>から<ruby>見<rt>み</rt></ruby>える<ruby>景色<rt>けしき</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
+    > <br><small>我喜欢从这扇窗户看到的景色。</small>
+    > </div>
 
 ---
 
@@ -186,71 +226,6 @@
 
 ---
 
-## 涼しい
-
-- **读音**：<ruby>涼<rt>すず</rt></ruby>しい（すずしい）
-- **词性**：形容词
-- **释义**：凉爽，凉快；清澈，明亮（多指眼睛）
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>北海道<rt>ほっかいどう</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しくて<ruby>過<rt>す</rt></ruby>ごしやすいです。
-    > <br><small>北海道的夏天很凉爽，住起来很舒服。</small>
-    > </div>
-
-    > <div class="example-box">
-    > お<ruby>風<rt>ふ</rt></ruby><ruby>呂<rt>ろ</rt></ruby><ruby>上<rt>あ</rt></ruby>がりは<ruby>風<rt>かぜ</rt></ruby>が<ruby>涼<rt>すず</rt></ruby>しくて<ruby>気<rt>き</rt></ruby><ruby>持<rt>も</rt></ruby>ちいい。
-    > <br><small>洗完澡后微风凉爽，感觉很舒服。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしている。
-    > <br><small>她有一双清澈明亮的眼睛。</small>
-    > </div>
-
----
-
-## 粥
-
-- **读音**：<ruby>粥<rt>かゆ</rt></ruby>（かゆ）
-- **词性**：名词
-- **释义**：粥；稀饭
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>いた<ruby>時<rt>とき</rt></ruby>は、<ruby>温<rt>あたた</rt></ruby>かいお<ruby>粥<rt>かゆ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。
-    > <br><small>感冒的时候，会喝热粥。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>朝食<rt>ちょうしょく</rt></ruby>に<ruby>卵粥<rt>たまごがゆ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。
-    > <br><small>早餐做了鸡蛋粥。</small>
-    > </div>
-
----
-
-## 眠い
-
-- **读音**：<ruby>眠<rt>ねむ</rt></ruby>い（ねむい）
-- **词性**：形容词
-- **释义**：困的；想睡觉的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>昨夜<rt>さくや</rt></ruby>あまり<ruby>寝<rt>ね</rt></ruby>ていないので、<ruby>今日<rt>きょう</rt></ruby>はとても<ruby>眠<rt>ねむ</rt></ruby>いです。
-    > <br><small>昨晚没怎么睡，所以今天非常困。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>午後<rt>ごご</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>は<ruby>眠<rt>ねむ</rt></ruby>くなります。
-    > <br><small>下午的课会变得很困。</small>
-    > </div>
-
----
-
 ## 兎
 
 - **读音**：<ruby>兎<rt>うさぎ</rt></ruby>（うさぎ）
@@ -287,101 +262,6 @@
     > <div class="example-box">
     > <ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいです。
     > <br><small>周末我想在家里好好休息。</small>
-    > </div>
-
----
-
-## 寝坊
-
-- **读音**：<ruby>寝坊<rt>ねぼう</rt></ruby>（ねぼう）
-- **词性**：名词/自サ
-- **释义**：睡懒觉；起晚
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>今朝<rt>けさ</rt></ruby>は<ruby>寝坊<rt>ねぼう</rt></ruby>して、<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れました。
-    > <br><small>今天早上起晚了，开会迟到了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>はいつも<ruby>寝坊<rt>ねぼう</rt></ruby>します。
-    > <br><small>休息日我总是睡懒觉。</small>
-    > </div>
-
----
-
-## うち
-
-- **读音**：うち（うち）
-- **词性**：名词
-- **释义**：家；内部；在……期间
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>私<rt>わたし</rt></ruby>のうちへ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>来<rt>き</rt></ruby>ませんか。
-    > <br><small>要不要来我家玩？</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>忘<rt>わす</rt></ruby>れないうちに、メモしておきます。
-    > <br><small>趁着还没忘记，先记个笔记。</small>
-    > </div>
-
----
-
-## 別
-
-- **读音**：<ruby>別<rt>べつ</rt></ruby>（べつ）
-- **词性**：名词/形容动词
-- **释义**：另外，其他；区别，不同；例外；分开
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>別<rt>べつ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えましょう。
-    > <br><small>让我们考虑一下另外的方法吧。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>支払<rt>しはら</rt></ruby>いは<ruby>別々<rt>べつべつ</rt></ruby>にお<ruby>願<rt>ねが</rt></ruby>いします。
-    > <br><small>请分开支付。</small>
-    > </div>
-
-    > <div class="example-box">
-    > それは<ruby>別<rt>べつ</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>です。
-    > <br><small>那是另外一回事。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>費用<rt>ひよう</rt></ruby>は<ruby>別<rt>べつ</rt></ruby>にかかります。
-    > <br><small>费用另计。</small>
-    > </div>
-
----
-
-## 紹介
-
-- **读音**：<ruby>紹介<rt>しょうかい</rt></ruby>（しょうかい）
-- **词性**：名词/サ变动词
-- **释义**：介绍
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>自己<rt>じこ</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>をしてください。
-    > <br><small>请做一下自我介绍。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>友達<rt>ともだち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。
-    > <br><small>我来介绍一下新朋友。</small>
-    > </div>
-
-    > <div class="example-box">
-    > いい<ruby>仕事<rt>しごと</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>してもらいました。
-    > <br><small>别人给我介绍了一份好工作。</small>
     > </div>
 
 ---
@@ -472,21 +352,6 @@
 > 
 > - 隣 范围非常精确（紧贴、隔壁），且要求是同类事物
 > 
-
----
-
-## うるさい
-
-- **读音**：うるさい（うるさい）
-- **词性**：形容词
-- **释义**：吵闹的；烦人的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>外<rt>そと</rt></ruby>がうるさくて、よく<ruby>眠<rt>ねむ</rt></ruby>れませんでした。
-    > <br><small>外面太吵了，没怎么睡好。</small>
-    > </div>
 
 ---
 

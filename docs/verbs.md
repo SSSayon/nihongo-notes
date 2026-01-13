@@ -6,6 +6,71 @@
 
 ---
 
+## 払う
+
+- **读音**：<ruby>払<rt>はら</rt></ruby>う（はらう）
+- **类型**：五段动词
+- **释义**：支付，付钱；掸，拂；引起（注意等）
+
+- **例句**：
+
+    > <div class="example-box">
+    > レジで<ruby>現<rt>げん</rt></ruby><ruby>金<rt>きん</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。
+    > <br><small>在收银台付现金。</small>
+    > </div>
+
+    > <div class="example-box">
+    > コートの<ruby>雪<rt>ゆき</rt></ruby>を<ruby>払<rt>はら</rt></ruby>う。
+    > <br><small>掸掉大衣上的雪。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>健<rt>けん</rt></ruby><ruby>康<rt>こう</rt></ruby>に<ruby>注<rt>ちゅう</rt></ruby><ruby>意<rt>い</rt></ruby>を<ruby>払<rt>はら</rt></ruby>ってください。
+    > <br><small>请多注意身体健康。</small>
+    > </div>
+
+---
+
+## 歩く
+
+- **读音**：<ruby>歩<rt>ある</rt></ruby>く（あるく）
+- **类型**：五段动词
+- **释义**：走，步行
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて１０<ruby>分<rt>ぷん</rt></ruby>かかります。
+    > <br><small>步行到车站需要10分钟。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>天<rt>てん</rt></ruby><ruby>気<rt>き</rt></ruby>がいいので、<ruby>公<rt>こう</rt></ruby><ruby>園<rt>えん</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きましょう。
+    > <br><small>天气很好，去公园散散步吧。</small>
+    > </div>
+
+---
+
+## 走る
+
+- **读音**：<ruby>走<rt>はし</rt></ruby>る（はしる）
+- **类型**：五段动词
+- **释义**：跑；（车辆等）行驶
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>遅<rt>ち</rt></ruby><ruby>刻<rt>こく</rt></ruby>しそうなので、<ruby>急<rt>いそ</rt></ruby>いで<ruby>走<rt>はし</rt></ruby>りました。
+    > <br><small>快要迟到了，所以急忙跑了起来。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>高<rt>こう</rt></ruby><ruby>速<rt>そく</rt></ruby><ruby>道<rt>どう</rt></ruby><ruby>路<rt>ろ</rt></ruby>をたくさんの<ruby>車<rt>くるま</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っています。
+    > <br><small>高速公路上有很多车在行驶。</small>
+    > </div>
+
+---
+
 ## 調べる
 
 - **读音**：<ruby>調<rt>しら</rt></ruby>べる（しらべる）
@@ -15,7 +80,7 @@
 - **例句**：
 
     > <div class="example-box">
-    > <ruby>分<rt>わ</rt></ruby>からない<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>は</rt></ruby>を<ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べます。
+    > <ruby>分<rt>わ</rt></ruby>からない<ruby>言葉<rt>ことば</rt></ruby>を<ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べます。
     > <br><small>用辞典查不认识的词。</small>
     > </div>
 
@@ -132,26 +197,6 @@
     > <div class="example-box">
     > マッチで<ruby>火<rt>ひ</rt></ruby>を<ruby>点<rt>つ</rt></ruby>ける。
     > <br><small>用火柴点火。</small>
-    > </div>
-
----
-
-## 吸う
-
-- **读音**：<ruby>吸<rt>す</rt></ruby>う（すう）
-- **类型**：五段动词
-- **释义**：吸；抽（烟）；呼吸
-
-- **例句**：
-
-    > <div class="example-box">
-    > ここでタバコを<ruby>吸<rt>す</rt></ruby>わないでください。
-    > <br><small>请不要在这里抽烟。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>深<rt>ふか</rt></ruby>く<ruby>息<rt>いき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>います。
-    > <br><small>深呼吸。</small>
     > </div>
 
 ---
@@ -290,26 +335,6 @@
 
 ---
 
-## 探す
-
-- **读音**：<ruby>探<rt>さが</rt></ruby>す（さがす）
-- **类型**：五段动词
-- **释义**：寻找（想要的人或物）；查找
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>失<rt>な</rt></ruby>くした<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>しています。
-    > <br><small>正在找丢失的钥匙。</small>
-    > </div>
-
-    > <div class="example-box">
-    > インターネットでいいホテルを<ruby>探<rt>さが</rt></ruby>します。
-    > <br><small>在网上找好的酒店。</small>
-    > </div>
-
----
-
 ## 着く
 
 - **读音**：<ruby>着<rt>つ</rt></ruby>く（つく）
@@ -365,21 +390,6 @@
     > <div class="example-box">
     > <ruby>公園<rt>こうえん</rt></ruby>で<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
     > <br><small>在公园里找到了钥匙。</small>
-    > </div>
-
----
-
-## 空く
-
-- **读音**：<ruby>空<rt>す</rt></ruby>く（すく）
-- **类型**：五段动词
-- **释义**：（肚子）饿，空
-
-- **例句**：
-
-    > <div class="example-box">
-    > お<ruby>腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>きました。
-    > <br><small>肚子饿了。</small>
     > </div>
 
 ---
