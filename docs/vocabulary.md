@@ -2,7 +2,27 @@
 
 记录名词、形容词等词汇。
 
-共 **18** 个词汇
+共 **19** 个词汇
+
+---
+
+## 冷たい
+
+- **读音**：<ruby>冷<rt>つめ</rt></ruby>たい（つめたい）
+- **词性**：形容词
+- **释义**：凉的，冰凉的（触觉上的冷）；冷淡的，冷漠的（态度或性格）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たい<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>があります。
+    > <br><small>冰箱里有冰凉的饮料。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たいです。
+    > <br><small>他最近对我比较冷淡。</small>
+    > </div>
 
 ---
 

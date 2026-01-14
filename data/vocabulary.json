@@ -1,5 +1,26 @@
 [
   {
+    "id": "tsumetai_1768398021",
+    "word": "冷たい",
+    "reading": "つめたい",
+    "display_html": "<ruby>冷<rt>つめ</rt></ruby>たい",
+    "type": "形容词",
+    "meaning": "凉的，冰凉的（触觉上的冷）；冷淡的，冷漠的（态度或性格）",
+    "examples": [
+      {
+        "jp": "冷蔵庫に冷たい飲み物があります。",
+        "html": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たい<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>があります。",
+        "cn": "冰箱里有冰凉的饮料。"
+      },
+      {
+        "jp": "彼は最近、私に冷たいです。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たいです。",
+        "cn": "他最近对我比较冷淡。"
+      }
+    ],
+    "created_at": 1768398021
+  },
+  {
     "id": "kuruma_1768309488",
     "word": "車",
     "reading": "くるま",
