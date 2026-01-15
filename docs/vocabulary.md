@@ -2,7 +2,27 @@
 
 记录名词、形容词等词汇。
 
-共 **19** 个词汇
+共 **20** 个词汇
+
+---
+
+## 現金
+
+- **读音**：<ruby>現金<rt>げんきん</rt></ruby>（げんきん）
+- **词性**：名词/形容动词
+- **释义**：现金；现实、势利、见利忘义
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>現金<rt>げんきん</rt></ruby>で<ruby>支払<rt>しはら</rt></ruby>うことができますか。
+    > <br><small>可以用现金支付吗？</small>
+    > </div>
+
+    > <div class="example-box">
+    > お<ruby>菓子<rt>かし</rt></ruby>をあげると<ruby>言<rt>い</rt></ruby>ったら<ruby>急<rt>きゅう</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めるなんて、<ruby>現金<rt>げんきん</rt></ruby>な<ruby>子<rt>こ</rt></ruby>だね。
+    > <br><small>一说要给点心就马上开始帮忙，真是个现实的孩子啊。</small>
+    > </div>
 
 ---
 
