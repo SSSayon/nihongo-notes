@@ -2,7 +2,87 @@
 
 记录名词、形容词等词汇。
 
-共 **20** 个词汇
+共 **21** 个词汇
+
+---
+
+## 島
+
+- **读音**：<ruby>島<rt>しま</rt></ruby>（しま）
+- **词性**：名词
+- **释义**：岛；岛屿
+
+- **例句**：
+
+    > <div class="example-box">
+    > この<ruby>島<rt>しま</rt></ruby>には<ruby>美<rt>うつく</rt></ruby>しいビーチがあります。
+    > <br><small>这个岛上有美丽的沙滩。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>無人島<rt>むじんとう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
+    > <br><small>暑假去了无人岛。</small>
+    > </div>
+
+---
+
+## 港
+
+- **读音**：<ruby>港<rt>みなと</rt></ruby>（みなと）
+- **词性**：名词
+- **释义**：港口；港湾
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>船<rt>ふね</rt></ruby>が<ruby>港<rt>みなと</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。
+    > <br><small>船到达了港口。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>横浜<rt>よこはま</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>港町<rt>みなとまち</rt></ruby>です。
+    > <br><small>横滨是著名的港口城市。</small>
+    > </div>
+
+---
+
+## 船
+
+- **读音**：<ruby>船<rt>ふね</rt></ruby>（ふね）
+- **词性**：名词
+- **释义**：船；舰艇
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>船<rt>ふね</rt></ruby>で<ruby>島<rt>しま</rt></ruby>へ<ruby>渡<rt>わた</rt></ruby>ります。
+    > <br><small>乘船过岛。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>っています。
+    > <br><small>大船正在横渡大海。</small>
+    > </div>
+
+---
+
+## 水着
+
+- **读音**：<ruby>水<rt>みず</rt></ruby><ruby>着<rt>ぎ</rt></ruby>（みずぎ）
+- **词性**：名词
+- **释义**：泳衣；泳装
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
+    > <br><small>买了新的泳衣。</small>
+    > </div>
+
+    > <div class="example-box">
+    > プールに<ruby>行<rt>い</rt></ruby>くので、<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてください。
+    > <br><small>因为要去游泳池，请带上泳衣。</small>
+    > </div>
 
 ---
 
@@ -146,26 +226,6 @@
 
 ---
 
-## 最後
-
-- **读音**：<ruby>最後<rt>さいご</rt></ruby>（さいご）
-- **词性**：名词
-- **释义**：最后；最终；尽头
-
-- **例句**：
-
-    > <div class="example-box">
-    > これが<ruby>最後<rt>さいご</rt></ruby>のチャンスです。
-    > <br><small>这是最后的机会。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>最後<rt>さいご</rt></ruby>まで<ruby>諦<rt>あきら</rt></ruby>めないでください。
-    > <br><small>请坚持到最后，不要放弃。</small>
-    > </div>
-
----
-
 ## 事故
 
 - **读音**：<ruby>事故<rt>じこ</rt></ruby>（じこ）
@@ -242,46 +302,6 @@
     > <div class="example-box">
     > <ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>屋台<rt>やたい</rt></ruby>がとても<ruby>賑<rt>にぎ</rt></ruby>やかです。
     > <br><small>福冈的夜晚，路边摊非常热闹。</small>
-    > </div>
-
----
-
-## お菓子
-
-- **读音**：お<ruby>菓子<rt>かし</rt></ruby>（おかし）
-- **词性**：名词
-- **释义**：点心；零食；糖果
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>子供<rt>こども</rt></ruby>たちにお<ruby>菓子<rt>かし</rt></ruby>をあげました。
-    > <br><small>给了孩子们零食。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。
-    > <br><small>非常喜欢甜点。</small>
-    > </div>
-
----
-
-## 兎
-
-- **读音**：<ruby>兎<rt>うさぎ</rt></ruby>（うさぎ）
-- **词性**：名词
-- **释义**：兔子
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>兎<rt>うさぎ</rt></ruby>は<ruby>耳<rt>みみ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。
-    > <br><small>兔子的耳朵很长。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>庭<rt>にわ</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>い<ruby>兎<rt>うさぎ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っています。
-    > <br><small>在院子里养着一只白色的兔子。</small>
     > </div>
 
 ---

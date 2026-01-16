@@ -2,7 +2,37 @@
 
 记录动词。
 
-共 **20** 个动词
+共 **21** 个动词
+
+---
+
+## 回る
+
+- **读音**：<ruby>回<rt>まわ</rt></ruby>る（まわる）
+- **类型**：五段动词
+- **释义**：旋转，转动；巡回，绕道；（头脑、机器等）运转；超过（时间、数量等）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>地<rt>ち</rt></ruby><ruby>球<rt>きゅう</rt></ruby>は<ruby>太<rt>たい</rt></ruby><ruby>陽<rt>よう</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>回<rt>まわ</rt></ruby>っている。
+    > <br><small>地球绕着太阳转。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>市<rt>し</rt></ruby><ruby>内<rt>ない</rt></ruby>の<ruby>観<rt>かん</rt></ruby><ruby>光<rt>こう</rt></ruby><ruby>地<rt>ち</rt></ruby>を<ruby>効<rt>こう</rt></ruby><ruby>率<rt>りつ</rt></ruby>よく<ruby>回<rt>まわ</rt></ruby>る。
+    > <br><small>效率很高地游览市内的观光景点。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>忙<rt>いそが</rt></ruby>しすぎて、<ruby>全<rt>ぜん</rt></ruby><ruby>然<rt>ぜん</rt></ruby><ruby>頭<rt>あたま</rt></ruby>が<ruby>回<rt>まわ</rt></ruby>らない。
+    > <br><small>太忙了，脑子完全转不过来。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>時<rt>と</rt></ruby><ruby>計<rt>けい</rt></ruby>の<ruby>針<rt>はり</rt></ruby>が12<ruby>時<rt>じ</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>った。
+    > <br><small>时针已经过了12点。</small>
+    > </div>
 
 ---
 

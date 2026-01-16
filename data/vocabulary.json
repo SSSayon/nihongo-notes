@@ -1,5 +1,89 @@
 [
   {
+    "id": "shima_1768564056",
+    "word": "島",
+    "reading": "しま",
+    "display_html": "<ruby>島<rt>しま</rt></ruby>",
+    "type": "名词",
+    "meaning": "岛；岛屿",
+    "examples": [
+      {
+        "jp": "この島には美しいビーチがあります。",
+        "html": "この<ruby>島<rt>しま</rt></ruby>には<ruby>美<rt>うつく</rt></ruby>しいビーチがあります。",
+        "cn": "这个岛上有美丽的沙滩。"
+      },
+      {
+        "jp": "夏休みに無人島へ行きました。",
+        "html": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>無人島<rt>むじんとう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
+        "cn": "暑假去了无人岛。"
+      }
+    ],
+    "created_at": 1768564056
+  },
+  {
+    "id": "minato_1768564056",
+    "word": "港",
+    "reading": "みなと",
+    "display_html": "<ruby>港<rt>みなと</rt></ruby>",
+    "type": "名词",
+    "meaning": "港口；港湾",
+    "examples": [
+      {
+        "jp": "船が港に到着しました。",
+        "html": "<ruby>船<rt>ふね</rt></ruby>が<ruby>港<rt>みなと</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。",
+        "cn": "船到达了港口。"
+      },
+      {
+        "jp": "横浜は有名な港町です。",
+        "html": "<ruby>横浜<rt>よこはま</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>港町<rt>みなとまち</rt></ruby>です。",
+        "cn": "横滨是著名的港口城市。"
+      }
+    ],
+    "created_at": 1768564056
+  },
+  {
+    "id": "fune_1768564056",
+    "word": "船",
+    "reading": "ふね",
+    "display_html": "<ruby>船<rt>ふね</rt></ruby>",
+    "type": "名词",
+    "meaning": "船；舰艇",
+    "examples": [
+      {
+        "jp": "船で島へ渡ります。",
+        "html": "<ruby>船<rt>ふね</rt></ruby>で<ruby>島<rt>しま</rt></ruby>へ<ruby>渡<rt>わた</rt></ruby>ります。",
+        "cn": "乘船过岛。"
+      },
+      {
+        "jp": "大きな船が海を渡っています。",
+        "html": "<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>っています。",
+        "cn": "大船正在横渡大海。"
+      }
+    ],
+    "created_at": 1768564056
+  },
+  {
+    "id": "mizugi_1768564056",
+    "word": "水着",
+    "reading": "みずぎ",
+    "display_html": "<ruby>水<rt>みず</rt></ruby><ruby>着<rt>ぎ</rt></ruby>",
+    "type": "名词",
+    "meaning": "泳衣；泳装",
+    "examples": [
+      {
+        "jp": "新しい水着を買いました。",
+        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
+        "cn": "买了新的泳衣。"
+      },
+      {
+        "jp": "プールに行くので、水着を持ってきてください。",
+        "html": "プールに<ruby>行<rt>い</rt></ruby>くので、<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてください。",
+        "cn": "因为要去游泳池，请带上泳衣。"
+      }
+    ],
+    "created_at": 1768564056
+  },
+  {
     "id": "genkin_1768480379",
     "word": "現金",
     "reading": "げんきん",
@@ -147,27 +231,6 @@
     "created_at": 1768132327
   },
   {
-    "id": "saigo_1768054999",
-    "word": "最後",
-    "reading": "さいご",
-    "display_html": "<ruby>最後<rt>さいご</rt></ruby>",
-    "type": "名词",
-    "meaning": "最后；最终；尽头",
-    "examples": [
-      {
-        "jp": "これが最後のチャンスです。",
-        "html": "これが<ruby>最後<rt>さいご</rt></ruby>のチャンスです。",
-        "cn": "这是最后的机会。"
-      },
-      {
-        "jp": "最後まで諦めないでください。",
-        "html": "<ruby>最後<rt>さいご</rt></ruby>まで<ruby>諦<rt>あきら</rt></ruby>めないでください。",
-        "cn": "请坚持到最后，不要放弃。"
-      }
-    ],
-    "created_at": 1768054999
-  },
-  {
     "id": "jiko_1768054999",
     "word": "事故",
     "reading": "じこ",
@@ -250,48 +313,6 @@
       }
     ],
     "created_at": 1767957637
-  },
-  {
-    "id": "okashi_1767957637",
-    "word": "お菓子",
-    "reading": "おかし",
-    "display_html": "お<ruby>菓子<rt>かし</rt></ruby>",
-    "type": "名词",
-    "meaning": "点心；零食；糖果",
-    "examples": [
-      {
-        "jp": "子供たちにお菓子をあげました。",
-        "html": "<ruby>子供<rt>こども</rt></ruby>たちにお<ruby>菓子<rt>かし</rt></ruby>をあげました。",
-        "cn": "给了孩子们零食。"
-      },
-      {
-        "jp": "甘いお菓子が大好きです。",
-        "html": "<ruby>甘<rt>あま</rt></ruby>いお<ruby>菓子<rt>かし</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きです。",
-        "cn": "非常喜欢甜点。"
-      }
-    ],
-    "created_at": 1767957637
-  },
-  {
-    "id": "usagi_1767698363",
-    "word": "兎",
-    "reading": "うさぎ",
-    "display_html": "<ruby>兎<rt>うさぎ</rt></ruby>",
-    "type": "名词",
-    "meaning": "兔子",
-    "examples": [
-      {
-        "jp": "兎は耳が長いです。",
-        "html": "<ruby>兎<rt>うさぎ</rt></ruby>は<ruby>耳<rt>みみ</rt></ruby>が<ruby>長<rt>なが</rt></ruby>いです。",
-        "cn": "兔子的耳朵很长。"
-      },
-      {
-        "jp": "庭で白いうさぎを飼っています。",
-        "html": "<ruby>庭<rt>にわ</rt></ruby>で<ruby>白<rt>しろ</rt></ruby>い<ruby>兎<rt>うさぎ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っています。",
-        "cn": "在院子里养着一只白色的兔子。"
-      }
-    ],
-    "created_at": 1767698363
   },
   {
     "id": "yukkuri_1767624689",
