@@ -1,5 +1,94 @@
 [
   {
+    "id": "kumo_1768650813",
+    "word": "雲",
+    "reading": "くも",
+    "display_html": "<ruby>雲<rt>くも</rt></ruby>",
+    "type": "名词",
+    "meaning": "云",
+    "examples": [
+      {
+        "jp": "空に白い雲が浮かんでいます。",
+        "html": "<ruby>空<rt>そら</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>浮<rt>う</rt></ruby>かんでいます。",
+        "cn": "天空中飘浮着白云。"
+      },
+      {
+        "jp": "太陽が雲に隠れてしまいました。",
+        "html": "<ruby>太陽<rt>たいよう</rt></ruby>が<ruby>雲<rt>くも</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れてしまいました。",
+        "cn": "太阳被云遮住了。"
+      }
+    ],
+    "created_at": 1768650813
+  },
+  {
+    "id": "kumori_1768650813",
+    "word": "曇り",
+    "reading": "くもり",
+    "display_html": "<ruby>曇<rt>くも</rt></ruby>り",
+    "type": "名词",
+    "meaning": "阴天；阴影；（玻璃等的）雾气",
+    "examples": [
+      {
+        "jp": "明日の天気は曇りでしょう。",
+        "html": "<ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りでしょう。",
+        "cn": "明天的天气大概是阴天吧。"
+      },
+      {
+        "jp": "眼鏡の曇りを拭きます。",
+        "html": "<ruby>眼鏡<rt>めがね</rt></ruby>の<ruby>曇<rt>くも</rt></ruby>りを<ruby>拭<rt>ふ</rt></ruby>きます。",
+        "cn": "擦掉眼镜上的雾气。"
+      }
+    ],
+    "created_at": 1768650813
+  },
+  {
+    "id": "tabehoudai_1768650813",
+    "word": "食べ放題",
+    "reading": "たべほうだい",
+    "display_html": "<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>",
+    "type": "名词",
+    "meaning": "自助餐；无限量供应",
+    "examples": [
+      {
+        "jp": "焼肉の食べ放題に行きました。",
+        "html": "<ruby>焼肉<rt>やきにく</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
+        "cn": "去吃了烤肉自助餐。"
+      },
+      {
+        "jp": "この店は三千円で食べ放題です。",
+        "html": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>三千円<rt>さんぜんえん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>です。",
+        "cn": "这家店3000日元无限量畅吃。"
+      }
+    ],
+    "created_at": 1768650813
+  },
+  {
+    "id": "kekkou_1768650813",
+    "word": "結構",
+    "reading": "けっこう",
+    "display_html": "<ruby>結構<rt>けっこう</rt></ruby>",
+    "type": "形容动词;副词",
+    "meaning": "很好，足够；相当，挺；（委婉拒绝）不用了",
+    "examples": [
+      {
+        "jp": "いいえ、結構です。",
+        "html": "いいえ、<ruby>結構<rt>けっこう</rt></ruby>です。",
+        "cn": "不，不用了（谢谢）。"
+      },
+      {
+        "jp": "この料理は結構辛いです。",
+        "html": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>辛<rt>から</rt></ruby>いです。",
+        "cn": "这道菜相当辣。"
+      },
+      {
+        "jp": "それは結構な贈り物ですね。",
+        "html": "それは<ruby>結構<rt>けっこう</rt></ruby>な<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>ですね。",
+        "cn": "那真是份极好的礼物呢。"
+      }
+    ],
+    "created_at": 1768650813
+  },
+  {
     "id": "shima_1768564056",
     "word": "島",
     "reading": "しま",

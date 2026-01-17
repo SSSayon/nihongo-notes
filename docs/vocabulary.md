@@ -2,7 +2,92 @@
 
 记录名词、形容词等词汇。
 
-共 **21** 个词汇
+共 **25** 个词汇
+
+---
+
+## 雲
+
+- **读音**：<ruby>雲<rt>くも</rt></ruby>（くも）
+- **词性**：名词
+- **释义**：云
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>空<rt>そら</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>浮<rt>う</rt></ruby>かんでいます。
+    > <br><small>天空中飘浮着白云。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>太陽<rt>たいよう</rt></ruby>が<ruby>雲<rt>くも</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れてしまいました。
+    > <br><small>太阳被云遮住了。</small>
+    > </div>
+
+---
+
+## 曇り
+
+- **读音**：<ruby>曇<rt>くも</rt></ruby>り（くもり）
+- **词性**：名词
+- **释义**：阴天；阴影；（玻璃等的）雾气
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りでしょう。
+    > <br><small>明天的天气大概是阴天吧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>眼鏡<rt>めがね</rt></ruby>の<ruby>曇<rt>くも</rt></ruby>りを<ruby>拭<rt>ふ</rt></ruby>きます。
+    > <br><small>擦掉眼镜上的雾气。</small>
+    > </div>
+
+---
+
+## 食べ放題
+
+- **读音**：<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>（たべほうだい）
+- **词性**：名词
+- **释义**：自助餐；无限量供应
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>焼肉<rt>やきにく</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
+    > <br><small>去吃了烤肉自助餐。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>店<rt>みせ</rt></ruby>は<ruby>三千円<rt>さんぜんえん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>です。
+    > <br><small>这家店3000日元无限量畅吃。</small>
+    > </div>
+
+---
+
+## 結構
+
+- **读音**：<ruby>結構<rt>けっこう</rt></ruby>（けっこう）
+- **词性**：形容动词;副词
+- **释义**：很好，足够；相当，挺；（委婉拒绝）不用了
+
+- **例句**：
+
+    > <div class="example-box">
+    > いいえ、<ruby>結構<rt>けっこう</rt></ruby>です。
+    > <br><small>不，不用了（谢谢）。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>辛<rt>から</rt></ruby>いです。
+    > <br><small>这道菜相当辣。</small>
+    > </div>
+
+    > <div class="example-box">
+    > それは<ruby>結構<rt>けっこう</rt></ruby>な<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>ですね。
+    > <br><small>那真是份极好的礼物呢。</small>
+    > </div>
 
 ---
 
