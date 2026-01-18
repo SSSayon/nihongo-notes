@@ -6,6 +6,66 @@
 
 ---
 
+## 大変
+
+- **读音**：<ruby>大変<rt>たいへん</rt></ruby>（たいへん）
+- **词性**：形容動詞; 副詞
+- **释义**：糟糕的; 不得了的; 非常; 很
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>大変<rt>たいへん</rt></ruby>なことになりました。
+    > <br><small>发生了一件不得了的事情。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>昨日<rt>きのう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しかったです。
+    > <br><small>昨天工作非常忙。</small>
+    > </div>
+
+---
+
+## 海外
+
+- **读音**：<ruby>海外<rt>かいがい</rt></ruby>（かいがい）
+- **词性**：名词
+- **释义**：海外; 国外
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。
+    > <br><small>他在海外工作。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。
+    > <br><small>我想去海外旅行。</small>
+    > </div>
+
+---
+
+## 祖父母
+
+- **读音**：<ruby>祖父母<rt>そふぼ</rt></ruby>（そふぼ）
+- **词性**：名词
+- **释义**：祖父母; 爷爷奶奶; 外公外婆
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>祖父母<rt>そふぼ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねました。
+    > <br><small>周末我拜访了祖父母的家。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>祖父母<rt>そふぼ</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>い<ruby>田舎<rt>いなか</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    > <br><small>祖父母住在遥远的乡下。</small>
+    > </div>
+
+---
+
 ## 雲
 
 - **读音**：<ruby>雲<rt>くも</rt></ruby>（くも）
@@ -287,66 +347,6 @@
     > <div class="example-box">
     > <ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなりました。
     > <br><small>物价上涨，蔬菜的价格也变贵了。</small>
-    > </div>
-
----
-
-## 焼きそば
-
-- **读音**：<ruby>焼<rt>や</rt></ruby>きそば（やきそば）
-- **词性**：名词
-- **释义**：日式炒面
-
-- **例句**：
-
-    > <div class="example-box">
-    > お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>に<ruby>焼<rt>や</rt></ruby>きそばを<ruby>食<rt>た</rt></ruby>べましょう。
-    > <br><small>午饭吃炒面吧。</small>
-    > </div>
-
-    > <div class="example-box">
-    > お<ruby>祭<rt>まつ</rt></ruby>りの<ruby>屋台<rt>やたい</rt></ruby>で<ruby>焼<rt>や</rt></ruby>きそばを<ruby>買<rt>か</rt></ruby>いました。
-    > <br><small>在祭典的小摊上买了炒面。</small>
-    > </div>
-
----
-
-## 事故
-
-- **读音**：<ruby>事故<rt>じこ</rt></ruby>（じこ）
-- **词性**：名词
-- **释义**：事故；意外；故障
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>交通<rt>こうつう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>に<ruby>遭<rt>あ</rt></ruby>いました。
-    > <br><small>遭遇了交通事故。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>不注意<rt>ふちゅうい</rt></ruby>で<ruby>事故<rt>じこ</rt></ruby>が<ruby>起<rt>お</rt></ruby>きました。
-    > <br><small>因为疏忽大意发生了事故。</small>
-    > </div>
-
----
-
-## 真ん中
-
-- **读音**：<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>（まんなか）
-- **词性**：名词
-- **释义**：正中间；中心
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>部屋<rt>へや</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>にテーブルがあります。
-    > <br><small>房间正中央有一张桌子。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>列<rt>れつ</rt></ruby>の<ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んでいます。
-    > <br><small>排在队伍的正中间。</small>
     > </div>
 
 ---
