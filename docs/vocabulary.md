@@ -2,7 +2,7 @@
 
 记录名词、形容词等词汇。
 
-共 **25** 个词汇
+共 **23** 个词汇
 
 ---
 
@@ -211,26 +211,6 @@
 
 ---
 
-## 水着
-
-- **读音**：<ruby>水<rt>みず</rt></ruby><ruby>着<rt>ぎ</rt></ruby>（みずぎ）
-- **词性**：名词
-- **释义**：泳衣；泳装
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。
-    > <br><small>买了新的泳衣。</small>
-    > </div>
-
-    > <div class="example-box">
-    > プールに<ruby>行<rt>い</rt></ruby>くので、<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてください。
-    > <br><small>因为要去游泳池，请带上泳衣。</small>
-    > </div>
-
----
-
 ## 現金
 
 - **读音**：<ruby>現金<rt>げんきん</rt></ruby>（げんきん）
@@ -407,26 +387,6 @@
     > <div class="example-box">
     > <ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいです。
     > <br><small>周末我想在家里好好休息。</small>
-    > </div>
-
----
-
-## 真面目
-
-- **读音**：<ruby>真面目<rt>まじめ</rt></ruby>（まじめ）
-- **词性**：形容动词
-- **释义**：认真；诚实；正经
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>はとても<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>学生<rt>がくせい</rt></ruby>です。
-    > <br><small>他是一个非常认真的学生。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>真面目<rt>まじめ</rt></ruby>な<ruby>顔<rt>かお</rt></ruby>をして<ruby>冗談<rt>じょうだん</rt></ruby>を<ruby>言<rt>い</rt></ruby>わないでください。
-    > <br><small>请不要一本正经地开玩笑。</small>
     > </div>
 
 ---

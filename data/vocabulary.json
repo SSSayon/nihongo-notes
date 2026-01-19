@@ -215,27 +215,6 @@
     "created_at": 1768564056
   },
   {
-    "id": "mizugi_1768564056",
-    "word": "水着",
-    "reading": "みずぎ",
-    "display_html": "<ruby>水<rt>みず</rt></ruby><ruby>着<rt>ぎ</rt></ruby>",
-    "type": "名词",
-    "meaning": "泳衣；泳装",
-    "examples": [
-      {
-        "jp": "新しい水着を買いました。",
-        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。",
-        "cn": "买了新的泳衣。"
-      },
-      {
-        "jp": "プールに行くので、水着を持ってきてください。",
-        "html": "プールに<ruby>行<rt>い</rt></ruby>くので、<ruby>水着<rt>みずぎ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきてください。",
-        "cn": "因为要去游泳池，请带上泳衣。"
-      }
-    ],
-    "created_at": 1768564056
-  },
-  {
     "id": "genkin_1768480379",
     "word": "現金",
     "reading": "げんきん",
@@ -423,27 +402,6 @@
       }
     ],
     "created_at": 1767624689
-  },
-  {
-    "id": "majime_1767272590",
-    "word": "真面目",
-    "reading": "まじめ",
-    "display_html": "<ruby>真面目<rt>まじめ</rt></ruby>",
-    "type": "形容动词",
-    "meaning": "认真；诚实；正经",
-    "examples": [
-      {
-        "jp": "彼はとても真面目な学生です。",
-        "html": "<ruby>彼<rt>かれ</rt></ruby>はとても<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>学生<rt>がくせい</rt></ruby>です。",
-        "cn": "他是一个非常认真的学生。"
-      },
-      {
-        "jp": "真面目な顔をして冗談を言わないでください。",
-        "html": "<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>顔<rt>かお</rt></ruby>をして<ruby>冗談<rt>じょうだん</rt></ruby>を<ruby>言<rt>い</rt></ruby>わないでください。",
-        "cn": "请不要一本正经地开玩笑。"
-      }
-    ],
-    "created_at": 1767272590
   },
   {
     "id": "tsumaranai_1767272590",
