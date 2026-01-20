@@ -2,7 +2,128 @@
 
 记录名词、形容词等词汇。
 
-共 **23** 个词汇
+共 **25** 个词汇
+
+---
+
+## 村
+
+- **读音**：<ruby>村<rt>むら</rt></ruby>（むら）
+- **词性**：名词
+- **释义**：村庄；村子
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>私<rt>わたし</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さな<ruby>村<rt>むら</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。
+    > <br><small>我出生在一个小村庄里。</small>
+    > </div>
+
+---
+
+## 湖
+
+- **读音**：<ruby>湖<rt>みずうみ</rt></ruby>（みずうみ）
+- **词性**：名词
+- **释义**：湖泊
+
+- **例句**：
+
+    > <div class="example-box">
+    > この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。
+    > <br><small>这个湖泊非常深。</small>
+    > </div>
+
+---
+
+## 森
+
+- **读音**：<ruby>森<rt>もり</rt></ruby>（もり）
+- **词性**：名词
+- **释义**：森林
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>森<rt>もり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くのは<ruby>気持<rt>きも</rt></ruby>ちがいいです。
+    > <br><small>在森林里散步感觉很舒服。</small>
+    > </div>
+
+---
+
+## 木
+
+- **读音**：<ruby>木<rt>き</rt></ruby>（き）
+- **词性**：名词
+- **释义**：树；木材
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>庭<rt>にわ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。
+    > <br><small>在院子里种了一棵大树。</small>
+    > </div>
+
+---
+
+## 立派
+
+- **读音**：<ruby>立派<rt>りっぱ</rt></ruby>（りっぱ）
+- **词性**：形容动词
+- **释义**：华丽的；优秀的；宏伟的
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>医者<rt>いしゃ</rt></ruby>になりました。
+    > <br><small>他成为了一名优秀的医生。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立派<rt>りっぱ</rt></ruby>なビルが<ruby>建<rt>た</rt></ruby>ちました。
+    > <br><small>车站前建起了一座宏伟的大楼。</small>
+    > </div>
+
+---
+
+## 散歩
+
+- **读音**：<ruby>散歩<rt>さんぽ</rt></ruby>（さんぽ）
+- **词性**：名词
+- **释义**：散步
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。
+    > <br><small>晚饭后在公园散步。</small>
+    > </div>
+
+---
+
+## 周り
+
+- **读音**：<ruby>周<rt>まわ</rt></ruby>り（まわり）
+- **词性**：名词
+- **释义**：周围；四周
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>掃除<rt>そうじ</rt></ruby>しました。
+    > <br><small>打扫了房子周围。</small>
+    > </div>
+
+> 📝 **备注**：
+
+> **周り** 和 **辺り**（あたり）、**隣**（となり）的区别：
+> 
+> - 周り 指以某个物体或人为中心，紧贴其外围的一圈。表示**物理上的绕一圈**（池の周りを走る）、**人际关系中的“身边人”**（周りの人）、**大约的数值**（一回り大きい）。
+> 
+> - 辺り 指某个目标附近的模糊区域、地带。范围比 周り **更广、更模糊**，也可用于**时间、程度**的模糊表示（来週あたり）。
+> 
+> - 隣 指紧挨着的隔壁，中间没有其他同类事物。必须是**同类**事物，强调**左右或相邻**的关系。
+> 
 
 ---
 
@@ -22,46 +143,6 @@
     > <div class="example-box">
     > <ruby>昨日<rt>きのう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しかったです。
     > <br><small>昨天工作非常忙。</small>
-    > </div>
-
----
-
-## 海外
-
-- **读音**：<ruby>海外<rt>かいがい</rt></ruby>（かいがい）
-- **词性**：名词
-- **释义**：海外; 国外
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。
-    > <br><small>他在海外工作。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。
-    > <br><small>我想去海外旅行。</small>
-    > </div>
-
----
-
-## 祖父母
-
-- **读音**：<ruby>祖父母<rt>そふぼ</rt></ruby>（そふぼ）
-- **词性**：名词
-- **释义**：祖父母; 爷爷奶奶; 外公外婆
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>祖父母<rt>そふぼ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねました。
-    > <br><small>周末我拜访了祖父母的家。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>祖父母<rt>そふぼ</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>い<ruby>田舎<rt>いなか</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
-    > <br><small>祖父母住在遥远的乡下。</small>
     > </div>
 
 ---
@@ -351,26 +432,6 @@
 
 ---
 
-## 屋台
-
-- **读音**：<ruby>屋台<rt>やたい</rt></ruby>（やたい）
-- **词性**：名词
-- **释义**：路边摊；大排档；摊位
-
-- **例句**：
-
-    > <div class="example-box">
-    > お<ruby>祭<rt>まつ</rt></ruby>りで<ruby>屋台<rt>やたい</rt></ruby>のたこ<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。
-    > <br><small>在祭典上吃了路边摊的章鱼小丸子。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>屋台<rt>やたい</rt></ruby>がとても<ruby>賑<rt>にぎ</rt></ruby>やかです。
-    > <br><small>福冈的夜晚，路边摊非常热闹。</small>
-    > </div>
-
----
-
 ## ゆっくり
 
 - **读音**：ゆっくり（ゆっくり）
@@ -408,55 +469,6 @@
     > つまらないものですが、どうぞ<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>ってください。
     > <br><small>一点小意思（不值钱的东西），请收下。</small>
     > </div>
-
----
-
-## 同じ
-
-- **读音**：<ruby>同<rt>おな</rt></ruby>じ（おなじ）
-- **词性**：形容动词
-- **释义**：相同的；一样的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>私<rt>わたし</rt></ruby>も<ruby>彼<rt>かれ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>意見<rt>いけん</rt></ruby>です。
-    > <br><small>我也和他持同样的意见。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>毎日<rt>まいにち</rt></ruby><ruby>同<rt>おな</rt></ruby>じことの<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しで<ruby>飽<rt>あ</rt></ruby>きました。
-    > <br><small>每天重复同样的事情，都厌烦了。</small>
-    > </div>
-
----
-
-## 辺り
-
-- **读音**：<ruby>辺<rt>あた</rt></ruby>り（あたり）
-- **词性**：名词
-- **释义**：附近，周围；大约，左右
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>辺<rt>あた</rt></ruby>りにコンビニはありますか。
-    > <br><small>这附近有便利店吗？</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby><ruby>辺<rt>あた</rt></ruby>りに<ruby>会<rt>あ</rt></ruby>いましょう。
-    > <br><small>下周二左右见个面吧。</small>
-    > </div>
-
-> 📝 **备注**：
-
-> 辺り 和 隣（となり）的区别：
-> 
-> - 辺り 范围模糊（周围、一带），不一定紧挨着
-> 
-> - 隣 范围非常精确（紧贴、隔壁），且要求是同类事物
-> 
 
 ---
 

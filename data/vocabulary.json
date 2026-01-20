@@ -1,5 +1,123 @@
 [
   {
+    "id": "mura_1768920075",
+    "word": "村",
+    "reading": "むら",
+    "display_html": "<ruby>村<rt>むら</rt></ruby>",
+    "type": "名词",
+    "meaning": "村庄；村子",
+    "examples": [
+      {
+        "jp": "私は小さな村で生まれました。",
+        "html": "<ruby>私<rt>わたし</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さな<ruby>村<rt>むら</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。",
+        "cn": "我出生在一个小村庄里。"
+      }
+    ],
+    "created_at": 1768920075
+  },
+  {
+    "id": "mizuumi_1768920075",
+    "word": "湖",
+    "reading": "みずうみ",
+    "display_html": "<ruby>湖<rt>みずうみ</rt></ruby>",
+    "type": "名词",
+    "meaning": "湖泊",
+    "examples": [
+      {
+        "jp": "この湖はとても深いです。",
+        "html": "この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。",
+        "cn": "这个湖泊非常深。"
+      }
+    ],
+    "created_at": 1768920075
+  },
+  {
+    "id": "mori_1768920075",
+    "word": "森",
+    "reading": "もり",
+    "display_html": "<ruby>森<rt>もり</rt></ruby>",
+    "type": "名词",
+    "meaning": "森林",
+    "examples": [
+      {
+        "jp": "森の中を歩くのは気持ちがいいです。",
+        "html": "<ruby>森<rt>もり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くのは<ruby>気持<rt>きも</rt></ruby>ちがいいです。",
+        "cn": "在森林里散步感觉很舒服。"
+      }
+    ],
+    "created_at": 1768920075
+  },
+  {
+    "id": "ki_1768920075",
+    "word": "木",
+    "reading": "き",
+    "display_html": "<ruby>木<rt>き</rt></ruby>",
+    "type": "名词",
+    "meaning": "树；木材",
+    "examples": [
+      {
+        "jp": "庭に大きな木を植えました。",
+        "html": "<ruby>庭<rt>にわ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。",
+        "cn": "在院子里种了一棵大树。"
+      }
+    ],
+    "created_at": 1768920075
+  },
+  {
+    "id": "rippa_1768920075",
+    "word": "立派",
+    "reading": "りっぱ",
+    "display_html": "<ruby>立派<rt>りっぱ</rt></ruby>",
+    "type": "形容动词",
+    "meaning": "华丽的；优秀的；宏伟的",
+    "examples": [
+      {
+        "jp": "彼は立派な医者になりました。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>医者<rt>いしゃ</rt></ruby>になりました。",
+        "cn": "他成为了一名优秀的医生。"
+      },
+      {
+        "jp": "駅の前に立派なビルが建ちました。",
+        "html": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立派<rt>りっぱ</rt></ruby>なビルが<ruby>建<rt>た</rt></ruby>ちました。",
+        "cn": "车站前建起了一座宏伟的大楼。"
+      }
+    ],
+    "created_at": 1768920075
+  },
+  {
+    "id": "sanpo_1768920075",
+    "word": "散歩",
+    "reading": "さんぽ",
+    "display_html": "<ruby>散歩<rt>さんぽ</rt></ruby>",
+    "type": "名词",
+    "meaning": "散步",
+    "examples": [
+      {
+        "jp": "夕食の後で公園を散歩します。",
+        "html": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
+        "cn": "晚饭后在公园散步。"
+      }
+    ],
+    "created_at": 1768920075
+  },
+  {
+    "id": "mawari_1768920075",
+    "word": "周り",
+    "reading": "まわり",
+    "display_html": "<ruby>周<rt>まわ</rt></ruby>り",
+    "type": "名词",
+    "meaning": "周围；四周",
+    "examples": [
+      {
+        "jp": "家の周りを掃除しました。",
+        "html": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>掃除<rt>そうじ</rt></ruby>しました。",
+        "cn": "打扫了房子周围。"
+      }
+    ],
+    "created_at": 1768920075,
+    "notes": "**周り** 和 **辺り**（あたり）、**隣**（となり）的区别：\n- 周り 指以某个物体或人为中心，紧贴其外围的一圈。表示**物理上的绕一圈**（池の周りを走る）、**人际关系中的“身边人”**（周りの人）、**大约的数值**（一回り大きい）。\n- 辺り 指某个目标附近的模糊区域、地带。范围比 周り **更广、更模糊**，也可用于**时间、程度**的模糊表示（来週あたり）。\n- 隣 指紧挨着的隔壁，中间没有其他同类事物。必须是**同类**事物，强调**左右或相邻**的关系。"
+  },
+  {
     "id": "taihen_1768742622",
     "word": "大変",
     "reading": "たいへん",
@@ -16,48 +134,6 @@
         "jp": "昨日は仕事が大変忙しかったです。",
         "html": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しかったです。",
         "cn": "昨天工作非常忙。"
-      }
-    ],
-    "created_at": 1768742622
-  },
-  {
-    "id": "kaigai_1768742622",
-    "word": "海外",
-    "reading": "かいがい",
-    "display_html": "<ruby>海外<rt>かいがい</rt></ruby>",
-    "type": "名词",
-    "meaning": "海外; 国外",
-    "examples": [
-      {
-        "jp": "彼は海外で働いています。",
-        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>海外<rt>かいがい</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。",
-        "cn": "他在海外工作。"
-      },
-      {
-        "jp": "海外旅行に行きたいです。",
-        "html": "<ruby>海外旅行<rt>かいがいりょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。",
-        "cn": "我想去海外旅行。"
-      }
-    ],
-    "created_at": 1768742622
-  },
-  {
-    "id": "sofubo_1768742622",
-    "word": "祖父母",
-    "reading": "そふぼ",
-    "display_html": "<ruby>祖父母<rt>そふぼ</rt></ruby>",
-    "type": "名词",
-    "meaning": "祖父母; 爷爷奶奶; 外公外婆",
-    "examples": [
-      {
-        "jp": "週末は祖父母の家を訪ねました。",
-        "html": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>祖父母<rt>そふぼ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねました。",
-        "cn": "周末我拜访了祖父母的家。"
-      },
-      {
-        "jp": "祖父母は遠い田舎に住んでいます。",
-        "html": "<ruby>祖父母<rt>そふぼ</rt></ruby>は<ruby>遠<rt>とお</rt></ruby>い<ruby>田舎<rt>いなか</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。",
-        "cn": "祖父母住在遥远的乡下。"
       }
     ],
     "created_at": 1768742622
@@ -362,27 +438,6 @@
     "created_at": 1767957637
   },
   {
-    "id": "yatai_1767957637",
-    "word": "屋台",
-    "reading": "やたい",
-    "display_html": "<ruby>屋台<rt>やたい</rt></ruby>",
-    "type": "名词",
-    "meaning": "路边摊；大排档；摊位",
-    "examples": [
-      {
-        "jp": "お祭りで屋台のたこ焼きを食べました。",
-        "html": "お<ruby>祭<rt>まつ</rt></ruby>りで<ruby>屋台<rt>やたい</rt></ruby>のたこ<ruby>焼<rt>や</rt></ruby>きを<ruby>食<rt>た</rt></ruby>べました。",
-        "cn": "在祭典上吃了路边摊的章鱼小丸子。"
-      },
-      {
-        "jp": "福岡の夜は屋台がとても賑やかです。",
-        "html": "<ruby>福岡<rt>ふくおか</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>は<ruby>屋台<rt>やたい</rt></ruby>がとても<ruby>賑<rt>にぎ</rt></ruby>やかです。",
-        "cn": "福冈的夜晚，路边摊非常热闹。"
-      }
-    ],
-    "created_at": 1767957637
-  },
-  {
     "id": "yukkuri_1767624689",
     "word": "ゆっくり",
     "reading": "ゆっくり",
@@ -423,49 +478,6 @@
       }
     ],
     "created_at": 1767272590
-  },
-  {
-    "id": "onaji_1767272590",
-    "word": "同じ",
-    "reading": "おなじ",
-    "display_html": "<ruby>同<rt>おな</rt></ruby>じ",
-    "type": "形容动词",
-    "meaning": "相同的；一样的",
-    "examples": [
-      {
-        "jp": "私も彼と同じ意見です。",
-        "html": "<ruby>私<rt>わたし</rt></ruby>も<ruby>彼<rt>かれ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>意見<rt>いけん</rt></ruby>です。",
-        "cn": "我也和他持同样的意见。"
-      },
-      {
-        "jp": "毎日同じことの繰り返しで飽きました。",
-        "html": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>同<rt>おな</rt></ruby>じことの<ruby>繰<rt>く</rt></ruby>り<ruby>返<rt>かえ</rt></ruby>しで<ruby>飽<rt>あ</rt></ruby>きました。",
-        "cn": "每天重复同样的事情，都厌烦了。"
-      }
-    ],
-    "created_at": 1767272590
-  },
-  {
-    "id": "atari_1766931677",
-    "word": "辺り",
-    "reading": "あたり",
-    "display_html": "<ruby>辺<rt>あた</rt></ruby>り",
-    "type": "名词",
-    "meaning": "附近，周围；大约，左右",
-    "examples": [
-      {
-        "jp": "この辺りにコンビニはありますか。",
-        "html": "この<ruby>辺<rt>あた</rt></ruby>りにコンビニはありますか。",
-        "cn": "这附近有便利店吗？"
-      },
-      {
-        "jp": "来週の火曜日辺りに会いましょう。",
-        "html": "<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>火曜日<rt>かようび</rt></ruby><ruby>辺<rt>あた</rt></ruby>りに<ruby>会<rt>あ</rt></ruby>いましょう。",
-        "cn": "下周二左右见个面吧。"
-      }
-    ],
-    "created_at": 1766931677,
-    "notes": "辺り 和 隣（となり）的区别：\n- 辺り 范围模糊（周围、一带），不一定紧挨着\n- 隣 范围非常精确（紧贴、隔壁），且要求是同类事物"
   },
   {
     "id": "kitanai_1766845615",
