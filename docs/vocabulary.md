@@ -2,7 +2,107 @@
 
 记录名词、形容词等词汇。
 
-共 **25** 个词汇
+共 **27** 个词汇
+
+---
+
+## 茸
+
+- **读音**：<ruby>茸<rt>きのこ</rt></ruby>（きのこ）
+- **词性**：名词
+- **释义**：蘑菇；蕈
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>山<rt>やま</rt></ruby>で<ruby>茸<rt>きのこ</rt></ruby>を<ruby>採<rt>と</rt></ruby>りました。
+    > <br><small>在山上采了蘑菇。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>茸<rt>きのこ</rt></ruby>スープは<ruby>香<rt>かお</rt></ruby>りがとても<ruby>良<rt>よ</rt></ruby>いです。
+    > <br><small>蘑菇汤的味道非常香。</small>
+    > </div>
+
+---
+
+## 季節
+
+- **读音**：<ruby>季節<rt>きせつ</rt></ruby>（きせつ）
+- **词性**：名词
+- **释义**：季节
+
+- **例句**：
+
+    > <div class="example-box">
+    > どの<ruby>季節<rt>きせつ</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きですか。
+    > <br><small>你最喜欢哪个季节？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>季節<rt>きせつ</rt></ruby>の<ruby>変<rt>か</rt></ruby>わり<ruby>目<rt>め</rt></ruby>は<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きやすいです。
+    > <br><small>季节交替的时候容易感冒。</small>
+    > </div>
+
+---
+
+## 刺身
+
+- **读音**：<ruby>刺身<rt>さしみ</rt></ruby>（さしみ）
+- **词性**：名词
+- **释义**：刺身；生鱼片
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>にマグロの<ruby>刺身<rt>さしみ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。
+    > <br><small>晚餐吃了金枪鱼刺身。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>刺身<rt>さしみ</rt></ruby>にはわさびと<ruby>醤油<rt>しょうゆ</rt></ruby>が<ruby>欠<rt>か</rt></ruby>かせません。
+    > <br><small>吃刺身少不了芥末和酱油。</small>
+    > </div>
+
+---
+
+## 新鮮
+
+- **读音**：<ruby>新鮮<rt>しんせん</rt></ruby>（しんせん）
+- **词性**：形容动词
+- **释义**：新鲜
+
+- **例句**：
+
+    > <div class="example-box">
+    > このスーパーの<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。
+    > <br><small>这家超市的鱼非常新鲜。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>朝<rt>あさ</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>ってリフレッシュします。
+    > <br><small>呼吸早晨新鲜的空气，使人精神振奋。</small>
+    > </div>
+
+---
+
+## 生
+
+- **读音**：<ruby>生<rt>なま</rt></ruby>（なま）
+- **词性**：名词
+- **释义**：生的；未加工的；现场直播
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>生<rt>なま</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をサラダにして<ruby>食<rt>た</rt></ruby>べます。
+    > <br><small>把生蔬菜做成沙拉吃。</small>
+    > </div>
+
+    > <div class="example-box">
+    > そのコンサートを<ruby>生放送<rt>なまほうそう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ました。
+    > <br><small>我看了那场演唱会的现场直播。</small>
+    > </div>
 
 ---
 
@@ -292,26 +392,6 @@
 
 ---
 
-## 現金
-
-- **读音**：<ruby>現金<rt>げんきん</rt></ruby>（げんきん）
-- **词性**：名词/形容动词
-- **释义**：现金；现实、势利、见利忘义
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>現金<rt>げんきん</rt></ruby>で<ruby>支払<rt>しはら</rt></ruby>うことができますか。
-    > <br><small>可以用现金支付吗？</small>
-    > </div>
-
-    > <div class="example-box">
-    > お<ruby>菓子<rt>かし</rt></ruby>をあげると<ruby>言<rt>い</rt></ruby>ったら<ruby>急<rt>きゅう</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めるなんて、<ruby>現金<rt>げんきん</rt></ruby>な<ruby>子<rt>こ</rt></ruby>だね。
-    > <br><small>一说要给点心就马上开始帮忙，真是个现实的孩子啊。</small>
-    > </div>
-
----
-
 ## 冷たい
 
 - **读音**：<ruby>冷<rt>つめ</rt></ruby>たい（つめたい）
@@ -328,26 +408,6 @@
     > <div class="example-box">
     > <ruby>彼<rt>かれ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たいです。
     > <br><small>他最近对我比较冷淡。</small>
-    > </div>
-
----
-
-## 車
-
-- **读音**：<ruby>車<rt>くるま</rt></ruby>（くるま）
-- **词性**：名词
-- **释义**：汽车；车轮
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>します。
-    > <br><small>开车。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。
-    > <br><small>想要新车。</small>
     > </div>
 
 ---
@@ -428,26 +488,6 @@
     > <div class="example-box">
     > <ruby>次<rt>つぎ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>です。
     > <br><small>下次会议在下周一。</small>
-    > </div>
-
----
-
-## ゆっくり
-
-- **读音**：ゆっくり（ゆっくり）
-- **词性**：副词
-- **释义**：慢慢地；悠闲地；充裕地
-
-- **例句**：
-
-    > <div class="example-box">
-    > もう<ruby>少<rt>すこ</rt></ruby>しゆっくり<ruby>話<rt>はな</rt></ruby>してください。
-    > <br><small>请再稍微说慢一点。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいです。
-    > <br><small>周末我想在家里好好休息。</small>
     > </div>
 
 ---

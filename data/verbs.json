@@ -1,5 +1,31 @@
 [
   {
+    "id": "nugu_1769089415",
+    "word": "脱ぐ",
+    "reading": "ぬぐ",
+    "display_html": "<ruby>脱<rt>ぬ</rt></ruby>ぐ",
+    "type": "五段动词",
+    "meaning": "脱；摘下；卸下",
+    "examples": [
+      {
+        "jp": "家に入る前に靴を脱ぎます。",
+        "html": "<ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぎます。",
+        "cn": "进屋前脱鞋。"
+      },
+      {
+        "jp": "暑いので、上着を脱いでもいいですか。",
+        "html": "<ruby>暑<rt>あつ</rt></ruby>いので、<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでもいいですか。",
+        "cn": "太热了，我可以脱掉外套吗？"
+      },
+      {
+        "jp": "彼は帽子を脱いで、お辞儀をした。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>帽<rt>ぼう</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いで、お<ruby>辞儀<rt>じぎ</rt></ruby>をした。",
+        "cn": "他脱下帽子鞠躬了。"
+      }
+    ],
+    "created_at": 1769089356
+  },
+  {
     "id": "mawaru_1768564075",
     "word": "回る",
     "reading": "まわる",
@@ -28,7 +54,8 @@
         "cn": "时针已经过了12点。"
       }
     ],
-    "created_at": 1768564075
+    "created_at": 1768564075,
+    "notes": "区分两个名词：\n- 回り（まわり）强调动作、旋转、循环、一圈等概念\n- 周り（まわり）强调周围的环境、空间、范围、周边等概念"
   },
   {
     "id": "harau_1768309376",
@@ -126,27 +153,6 @@
     "created_at": 1768226905
   },
   {
-    "id": "warau_1767876253",
-    "word": "笑う",
-    "reading": "わらう",
-    "display_html": "<ruby>笑<rt>わら</rt></ruby>う",
-    "type": "五段动词",
-    "meaning": "笑；嘲笑",
-    "examples": [
-      {
-        "jp": "彼女はいつも楽しそうに笑っています。",
-        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>笑<rt>わら</rt></ruby>っています。",
-        "cn": "她总是笑得很开心的样子。"
-      },
-      {
-        "jp": "人の失敗を笑ってはいけません。",
-        "html": "<ruby>人<rt>ひと</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>笑<rt>わら</rt></ruby>ってはいけません。",
-        "cn": "不要嘲笑别人的失败。"
-      }
-    ],
-    "created_at": 1767876253
-  },
-  {
     "id": "wasureru_1767876253",
     "word": "忘れる",
     "reading": "わすれる",
@@ -236,27 +242,6 @@
     "created_at": 1767363282
   },
   {
-    "id": "ireru_1767363282",
-    "word": "入れる",
-    "reading": "いれる",
-    "display_html": "<ruby>入<rt>い</rt></ruby>れる",
-    "type": "一段动词",
-    "meaning": "放入；加入；安排（计划、日程）",
-    "examples": [
-      {
-        "jp": "来週の月曜日に予定を入れました。",
-        "html": "<ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby>の<ruby>月<rt>げつ</rt></ruby><ruby>曜<rt>よう</rt></ruby><ruby>日<rt>び</rt></ruby>に<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>を<ruby>入<rt>い</rt></ruby>れました。",
-        "cn": "下周一安排了计划。"
-      },
-      {
-        "jp": "コーヒーに砂糖を入れますか？",
-        "html": "コーヒーに<ruby>砂<rt>さ</rt></ruby><ruby>糖<rt>とう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れますか？",
-        "cn": "咖啡里要加糖吗？"
-      }
-    ],
-    "created_at": 1767363282
-  },
-  {
     "id": "okoru_1767273287",
     "word": "怒る",
     "reading": "おこる",
@@ -341,27 +326,6 @@
         "jp": "店には新しい商品が並んでいます。",
         "html": "<ruby>店<rt>みせ</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。",
         "cn": "店里陈列着新商品。"
-      }
-    ],
-    "created_at": 1767100155
-  },
-  {
-    "id": "tsuku_1767100155",
-    "word": "着く",
-    "reading": "つく",
-    "display_html": "<ruby>着<rt>つ</rt></ruby>く",
-    "type": "五段动词",
-    "meaning": "到达；抵达",
-    "examples": [
-      {
-        "jp": "電車が駅に着きました。",
-        "html": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。",
-        "cn": "电车到达车站了。"
-      },
-      {
-        "jp": "明日の朝、東京に着く予定です。",
-        "html": "<ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。",
-        "cn": "预定明天早上到达东京。"
       }
     ],
     "created_at": 1767100155

@@ -2,7 +2,32 @@
 
 记录动词。
 
-共 **20** 个动词
+共 **18** 个动词
+
+---
+
+## 脱ぐ
+
+- **读音**：<ruby>脱<rt>ぬ</rt></ruby>ぐ（ぬぐ）
+- **类型**：五段动词
+- **释义**：脱；摘下；卸下
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>家<rt>いえ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぎます。
+    > <br><small>进屋前脱鞋。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>暑<rt>あつ</rt></ruby>いので、<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでもいいですか。
+    > <br><small>太热了，我可以脱掉外套吗？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>帽<rt>ぼう</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いで、お<ruby>辞儀<rt>じぎ</rt></ruby>をした。
+    > <br><small>他脱下帽子鞠躬了。</small>
+    > </div>
 
 ---
 
@@ -33,6 +58,15 @@
     > <ruby>時<rt>と</rt></ruby><ruby>計<rt>けい</rt></ruby>の<ruby>針<rt>はり</rt></ruby>が12<ruby>時<rt>じ</rt></ruby>を<ruby>回<rt>まわ</rt></ruby>った。
     > <br><small>时针已经过了12点。</small>
     > </div>
+
+> 📝 **备注**：
+
+> 区分两个名词：
+> 
+> - 回り（まわり）强调动作、旋转、循环、一圈等概念
+> 
+> - 周り（まわり）强调周围的环境、空间、范围、周边等概念
+> 
 
 ---
 
@@ -135,26 +169,6 @@
 
 ---
 
-## 笑う
-
-- **读音**：<ruby>笑<rt>わら</rt></ruby>う（わらう）
-- **类型**：五段动词
-- **释义**：笑；嘲笑
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>彼女<rt>かのじょ</rt></ruby>はいつも<ruby>楽<rt>たの</rt></ruby>しそうに<ruby>笑<rt>わら</rt></ruby>っています。
-    > <br><small>她总是笑得很开心的样子。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>人<rt>ひと</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>笑<rt>わら</rt></ruby>ってはいけません。
-    > <br><small>不要嘲笑别人的失败。</small>
-    > </div>
-
----
-
 ## 忘れる
 
 - **读音**：<ruby>忘<rt>わす</rt></ruby>れる（わすれる）
@@ -240,26 +254,6 @@
 
 ---
 
-## 入れる
-
-- **读音**：<ruby>入<rt>い</rt></ruby>れる（いれる）
-- **类型**：一段动词
-- **释义**：放入；加入；安排（计划、日程）
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>来<rt>らい</rt></ruby><ruby>週<rt>しゅう</rt></ruby>の<ruby>月<rt>げつ</rt></ruby><ruby>曜<rt>よう</rt></ruby><ruby>日<rt>び</rt></ruby>に<ruby>予<rt>よ</rt></ruby><ruby>定<rt>てい</rt></ruby>を<ruby>入<rt>い</rt></ruby>れました。
-    > <br><small>下周一安排了计划。</small>
-    > </div>
-
-    > <div class="example-box">
-    > コーヒーに<ruby>砂<rt>さ</rt></ruby><ruby>糖<rt>とう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れますか？
-    > <br><small>咖啡里要加糖吗？</small>
-    > </div>
-
----
-
 ## 怒る
 
 - **读音**：<ruby>怒<rt>おこ</rt></ruby>る（おこる）
@@ -341,26 +335,6 @@
     > <div class="example-box">
     > <ruby>店<rt>みせ</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。
     > <br><small>店里陈列着新商品。</small>
-    > </div>
-
----
-
-## 着く
-
-- **读音**：<ruby>着<rt>つ</rt></ruby>く（つく）
-- **类型**：五段动词
-- **释义**：到达；抵达
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きました。
-    > <br><small>电车到达车站了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>明日<rt>あした</rt></ruby>の<ruby>朝<rt>あさ</rt></ruby>、<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>着<rt>つ</rt></ruby>く<ruby>予定<rt>よてい</rt></ruby>です。
-    > <br><small>预定明天早上到达东京。</small>
     > </div>
 
 ---

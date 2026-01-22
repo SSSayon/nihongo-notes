@@ -1,5 +1,110 @@
 [
   {
+    "id": "kinoko_1769089247",
+    "word": "茸",
+    "reading": "きのこ",
+    "display_html": "<ruby>茸<rt>きのこ</rt></ruby>",
+    "type": "名词",
+    "meaning": "蘑菇；蕈",
+    "examples": [
+      {
+        "jp": "山で茸を採りました。",
+        "html": "<ruby>山<rt>やま</rt></ruby>で<ruby>茸<rt>きのこ</rt></ruby>を<ruby>採<rt>と</rt></ruby>りました。",
+        "cn": "在山上采了蘑菇。"
+      },
+      {
+        "jp": "茸スープは香りがとても良いです。",
+        "html": "<ruby>茸<rt>きのこ</rt></ruby>スープは<ruby>香<rt>かお</rt></ruby>りがとても<ruby>良<rt>よ</rt></ruby>いです。",
+        "cn": "蘑菇汤的味道非常香。"
+      }
+    ],
+    "created_at": 1769089247
+  },
+  {
+    "id": "kisetsu_1769089247",
+    "word": "季節",
+    "reading": "きせつ",
+    "display_html": "<ruby>季節<rt>きせつ</rt></ruby>",
+    "type": "名词",
+    "meaning": "季节",
+    "examples": [
+      {
+        "jp": "どの季節が一番好きですか。",
+        "html": "どの<ruby>季節<rt>きせつ</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きですか。",
+        "cn": "你最喜欢哪个季节？"
+      },
+      {
+        "jp": "季節の変わり目は風邪を引きやすいです。",
+        "html": "<ruby>季節<rt>きせつ</rt></ruby>の<ruby>変<rt>か</rt></ruby>わり<ruby>目<rt>め</rt></ruby>は<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きやすいです。",
+        "cn": "季节交替的时候容易感冒。"
+      }
+    ],
+    "created_at": 1769089247
+  },
+  {
+    "id": "sashimi_1769089247",
+    "word": "刺身",
+    "reading": "さしみ",
+    "display_html": "<ruby>刺身<rt>さしみ</rt></ruby>",
+    "type": "名词",
+    "meaning": "刺身；生鱼片",
+    "examples": [
+      {
+        "jp": "晩ご飯にマグロの刺身を食べました。",
+        "html": "<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>にマグロの<ruby>刺身<rt>さしみ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
+        "cn": "晚餐吃了金枪鱼刺身。"
+      },
+      {
+        "jp": "刺身にはわさびと醤油が欠かせません。",
+        "html": "<ruby>刺身<rt>さしみ</rt></ruby>にはわさびと<ruby>醤油<rt>しょうゆ</rt></ruby>が<ruby>欠<rt>か</rt></ruby>かせません。",
+        "cn": "吃刺身少不了芥末和酱油。"
+      }
+    ],
+    "created_at": 1769089247
+  },
+  {
+    "id": "shinsen_1769089247",
+    "word": "新鮮",
+    "reading": "しんせん",
+    "display_html": "<ruby>新鮮<rt>しんせん</rt></ruby>",
+    "type": "形容动词",
+    "meaning": "新鲜",
+    "examples": [
+      {
+        "jp": "このスーパーの魚はとても新鮮です。",
+        "html": "このスーパーの<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
+        "cn": "这家超市的鱼非常新鲜。"
+      },
+      {
+        "jp": "朝の新鮮な空気を吸ってリフレッシュします。",
+        "html": "<ruby>朝<rt>あさ</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>ってリフレッシュします。",
+        "cn": "呼吸早晨新鲜的空气，使人精神振奋。"
+      }
+    ],
+    "created_at": 1769089247
+  },
+  {
+    "id": "nama_1769089247",
+    "word": "生",
+    "reading": "なま",
+    "display_html": "<ruby>生<rt>なま</rt></ruby>",
+    "type": "名词",
+    "meaning": "生的；未加工的；现场直播",
+    "examples": [
+      {
+        "jp": "生の野菜をサラダにして食べます。",
+        "html": "<ruby>生<rt>なま</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をサラダにして<ruby>食<rt>た</rt></ruby>べます。",
+        "cn": "把生蔬菜做成沙拉吃。"
+      },
+      {
+        "jp": "そのコンサートを生放送で見ました。",
+        "html": "そのコンサートを<ruby>生放送<rt>なまほうそう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ました。",
+        "cn": "我看了那场演唱会的现场直播。"
+      }
+    ],
+    "created_at": 1769089247
+  },
+  {
     "id": "mura_1768920075",
     "word": "村",
     "reading": "むら",
@@ -291,27 +396,6 @@
     "created_at": 1768564056
   },
   {
-    "id": "genkin_1768480379",
-    "word": "現金",
-    "reading": "げんきん",
-    "display_html": "<ruby>現金<rt>げんきん</rt></ruby>",
-    "type": "名词/形容动词",
-    "meaning": "现金；现实、势利、见利忘义",
-    "examples": [
-      {
-        "jp": "現金で支払うことができますか。",
-        "html": "<ruby>現金<rt>げんきん</rt></ruby>で<ruby>支払<rt>しはら</rt></ruby>うことができますか。",
-        "cn": "可以用现金支付吗？"
-      },
-      {
-        "jp": "お菓子をあげると言ったら急に手伝い始めるなんて、現金な子だね。",
-        "html": "お<ruby>菓子<rt>かし</rt></ruby>をあげると<ruby>言<rt>い</rt></ruby>ったら<ruby>急<rt>きゅう</rt></ruby>に<ruby>手伝<rt>てつだ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めるなんて、<ruby>現金<rt>げんきん</rt></ruby>な<ruby>子<rt>こ</rt></ruby>だね。",
-        "cn": "一说要给点心就马上开始帮忙，真是个现实的孩子啊。"
-      }
-    ],
-    "created_at": 1768480379
-  },
-  {
     "id": "tsumetai_1768398021",
     "word": "冷たい",
     "reading": "つめたい",
@@ -331,27 +415,6 @@
       }
     ],
     "created_at": 1768398021
-  },
-  {
-    "id": "kuruma_1768309488",
-    "word": "車",
-    "reading": "くるま",
-    "display_html": "<ruby>車<rt>くるま</rt></ruby>",
-    "type": "名词",
-    "meaning": "汽车；车轮",
-    "examples": [
-      {
-        "jp": "車を運転します。",
-        "html": "<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>します。",
-        "cn": "开车。"
-      },
-      {
-        "jp": "新しい車が欲しいです。",
-        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。",
-        "cn": "想要新车。"
-      }
-    ],
-    "created_at": 1768309488
   },
   {
     "id": "keshiki_1768309488",
@@ -436,27 +499,6 @@
       }
     ],
     "created_at": 1767957637
-  },
-  {
-    "id": "yukkuri_1767624689",
-    "word": "ゆっくり",
-    "reading": "ゆっくり",
-    "display_html": "ゆっくり",
-    "type": "副词",
-    "meaning": "慢慢地；悠闲地；充裕地",
-    "examples": [
-      {
-        "jp": "もう少しゆっくり話してください。",
-        "html": "もう<ruby>少<rt>すこ</rt></ruby>しゆっくり<ruby>話<rt>はな</rt></ruby>してください。",
-        "cn": "请再稍微说慢一点。"
-      },
-      {
-        "jp": "週末は家でゆっくり休みたいです。",
-        "html": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>でゆっくり<ruby>休<rt>やす</rt></ruby>みたいです。",
-        "cn": "周末我想在家里好好休息。"
-      }
-    ],
-    "created_at": 1767624689
   },
   {
     "id": "tsumaranai_1767272590",
