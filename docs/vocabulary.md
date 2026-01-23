@@ -2,7 +2,52 @@
 
 记录名词、形容词等词汇。
 
-共 **27** 个词汇
+共 **29** 个词汇
+
+---
+
+## 客
+
+- **读音**：<ruby>客<rt>きゃく</rt></ruby>（きゃく）
+- **词性**：名词
+- **释义**：客人; 顾客; 乘客
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>客<rt>きゃく</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。
+    > <br><small>今天预计会有很多客人来。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>店<rt>みせ</rt></ruby>はいつも<ruby>客<rt>きゃく</rt></ruby>でいっぱいです。
+    > <br><small>这家店总是顾客盈门。</small>
+    > </div>
+
+    > <div class="example-box">
+    > バスの<ruby>中<rt>なか</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>はあまりいませんでした。
+    > <br><small>巴士里乘客不多。</small>
+    > </div>
+
+---
+
+## 必ず
+
+- **读音**：<ruby>必<rt>かなら</rt></ruby>ず（かならず）
+- **词性**：副词
+- **释义**：必定; 务必; 一定
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>明日<rt>あした</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るでしょう。
+    > <br><small>明天一定会下雨吧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>忘<rt>わす</rt></ruby>れずに<ruby>必<rt>かなら</rt></ruby>ず<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>してください。
+    > <br><small>请务必不要忘记提交作业。</small>
+    > </div>
 
 ---
 

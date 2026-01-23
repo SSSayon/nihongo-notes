@@ -1,5 +1,52 @@
 [
   {
+    "id": "kyakku_1769178847",
+    "word": "客",
+    "reading": "きゃく",
+    "display_html": "<ruby>客<rt>きゃく</rt></ruby>",
+    "type": "名词",
+    "meaning": "客人; 顾客; 乘客",
+    "examples": [
+      {
+        "jp": "今日はたくさん客が来る予定です。",
+        "html": "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>客<rt>きゃく</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。",
+        "cn": "今天预计会有很多客人来。"
+      },
+      {
+        "jp": "この店はいつも客でいっぱいです。",
+        "html": "この<ruby>店<rt>みせ</rt></ruby>はいつも<ruby>客<rt>きゃく</rt></ruby>でいっぱいです。",
+        "cn": "这家店总是顾客盈门。"
+      },
+      {
+        "jp": "バスの中に客はあまりいませんでした。",
+        "html": "バスの<ruby>中<rt>なか</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>はあまりいませんでした。",
+        "cn": "巴士里乘客不多。"
+      }
+    ],
+    "created_at": 1769178847
+  },
+  {
+    "id": "kanarazu_1769178847",
+    "word": "必ず",
+    "reading": "かならず",
+    "display_html": "<ruby>必<rt>かなら</rt></ruby>ず",
+    "type": "副词",
+    "meaning": "必定; 务必; 一定",
+    "examples": [
+      {
+        "jp": "明日は必ず雨が降るでしょう。",
+        "html": "<ruby>明日<rt>あした</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るでしょう。",
+        "cn": "明天一定会下雨吧。"
+      },
+      {
+        "jp": "忘れずに必ず宿題を提出してください。",
+        "html": "<ruby>忘<rt>わす</rt></ruby>れずに<ruby>必<rt>かなら</rt></ruby>ず<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>してください。",
+        "cn": "请务必不要忘记提交作业。"
+      }
+    ],
+    "created_at": 1769178847
+  },
+  {
     "id": "kinoko_1769089247",
     "word": "茸",
     "reading": "きのこ",
