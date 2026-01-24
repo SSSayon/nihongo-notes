@@ -44,7 +44,8 @@
         "cn": "请务必不要忘记提交作业。"
       }
     ],
-    "created_at": 1769178847
+    "created_at": 1769178847,
+    "notes": "**必ず** 和 **絶対**（ぜったい）的区别：\n- 必ず 只有肯定的用法，按照什么根据的冷静判断\n- 絶対 肯定否定都能用，没有根据，含感情的判断"
   },
   {
     "id": "kinoko_1769089247",
@@ -200,22 +201,6 @@
     "created_at": 1768920075
   },
   {
-    "id": "ki_1768920075",
-    "word": "木",
-    "reading": "き",
-    "display_html": "<ruby>木<rt>き</rt></ruby>",
-    "type": "名词",
-    "meaning": "树；木材",
-    "examples": [
-      {
-        "jp": "庭に大きな木を植えました。",
-        "html": "<ruby>庭<rt>にわ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。",
-        "cn": "在院子里种了一棵大树。"
-      }
-    ],
-    "created_at": 1768920075
-  },
-  {
     "id": "rippa_1768920075",
     "word": "立派",
     "reading": "りっぱ",
@@ -291,48 +276,6 @@
     "created_at": 1768742622
   },
   {
-    "id": "kumo_1768650813",
-    "word": "雲",
-    "reading": "くも",
-    "display_html": "<ruby>雲<rt>くも</rt></ruby>",
-    "type": "名词",
-    "meaning": "云",
-    "examples": [
-      {
-        "jp": "空に白い雲が浮かんでいます。",
-        "html": "<ruby>空<rt>そら</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>浮<rt>う</rt></ruby>かんでいます。",
-        "cn": "天空中飘浮着白云。"
-      },
-      {
-        "jp": "太陽が雲に隠れてしまいました。",
-        "html": "<ruby>太陽<rt>たいよう</rt></ruby>が<ruby>雲<rt>くも</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れてしまいました。",
-        "cn": "太阳被云遮住了。"
-      }
-    ],
-    "created_at": 1768650813
-  },
-  {
-    "id": "kumori_1768650813",
-    "word": "曇り",
-    "reading": "くもり",
-    "display_html": "<ruby>曇<rt>くも</rt></ruby>り",
-    "type": "名词",
-    "meaning": "阴天；阴影；（玻璃等的）雾气",
-    "examples": [
-      {
-        "jp": "明日の天気は曇りでしょう。",
-        "html": "<ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りでしょう。",
-        "cn": "明天的天气大概是阴天吧。"
-      },
-      {
-        "jp": "眼鏡の曇りを拭きます。",
-        "html": "<ruby>眼鏡<rt>めがね</rt></ruby>の<ruby>曇<rt>くも</rt></ruby>りを<ruby>拭<rt>ふ</rt></ruby>きます。",
-        "cn": "擦掉眼镜上的雾气。"
-      }
-    ],
-    "created_at": 1768650813
-  },
-  {
     "id": "tabehoudai_1768650813",
     "word": "食べ放題",
     "reading": "たべほうだい",
@@ -378,27 +321,6 @@
       }
     ],
     "created_at": 1768650813
-  },
-  {
-    "id": "shima_1768564056",
-    "word": "島",
-    "reading": "しま",
-    "display_html": "<ruby>島<rt>しま</rt></ruby>",
-    "type": "名词",
-    "meaning": "岛；岛屿",
-    "examples": [
-      {
-        "jp": "この島には美しいビーチがあります。",
-        "html": "この<ruby>島<rt>しま</rt></ruby>には<ruby>美<rt>うつく</rt></ruby>しいビーチがあります。",
-        "cn": "这个岛上有美丽的沙滩。"
-      },
-      {
-        "jp": "夏休みに無人島へ行きました。",
-        "html": "<ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>無人島<rt>むじんとう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。",
-        "cn": "暑假去了无人岛。"
-      }
-    ],
-    "created_at": 1768564056
   },
   {
     "id": "minato_1768564056",

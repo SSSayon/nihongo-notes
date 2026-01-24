@@ -2,7 +2,7 @@
 
 记录名词、形容词等词汇。
 
-共 **29** 个词汇
+共 **25** 个词汇
 
 ---
 
@@ -48,6 +48,15 @@
     > <ruby>忘<rt>わす</rt></ruby>れずに<ruby>必<rt>かなら</rt></ruby>ず<ruby>宿題<rt>しゅくだい</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>してください。
     > <br><small>请务必不要忘记提交作业。</small>
     > </div>
+
+> 📝 **备注**：
+
+> **必ず** 和 **絶対**（ぜったい）的区别：
+> 
+> - 必ず 只有肯定的用法，按照什么根据的冷静判断
+> 
+> - 絶対 肯定否定都能用，没有根据，含感情的判断
+> 
 
 ---
 
@@ -196,21 +205,6 @@
 
 ---
 
-## 木
-
-- **读音**：<ruby>木<rt>き</rt></ruby>（き）
-- **词性**：名词
-- **释义**：树；木材
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>庭<rt>にわ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>木<rt>き</rt></ruby>を<ruby>植<rt>う</rt></ruby>えました。
-    > <br><small>在院子里种了一棵大树。</small>
-    > </div>
-
----
-
 ## 立派
 
 - **读音**：<ruby>立派<rt>りっぱ</rt></ruby>（りっぱ）
@@ -292,46 +286,6 @@
 
 ---
 
-## 雲
-
-- **读音**：<ruby>雲<rt>くも</rt></ruby>（くも）
-- **词性**：名词
-- **释义**：云
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>空<rt>そら</rt></ruby>に<ruby>白<rt>しろ</rt></ruby>い<ruby>雲<rt>くも</rt></ruby>が<ruby>浮<rt>う</rt></ruby>かんでいます。
-    > <br><small>天空中飘浮着白云。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>太陽<rt>たいよう</rt></ruby>が<ruby>雲<rt>くも</rt></ruby>に<ruby>隠<rt>かく</rt></ruby>れてしまいました。
-    > <br><small>太阳被云遮住了。</small>
-    > </div>
-
----
-
-## 曇り
-
-- **读音**：<ruby>曇<rt>くも</rt></ruby>り（くもり）
-- **词性**：名词
-- **释义**：阴天；阴影；（玻璃等的）雾气
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>明日<rt>あした</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りでしょう。
-    > <br><small>明天的天气大概是阴天吧。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>眼鏡<rt>めがね</rt></ruby>の<ruby>曇<rt>くも</rt></ruby>りを<ruby>拭<rt>ふ</rt></ruby>きます。
-    > <br><small>擦掉眼镜上的雾气。</small>
-    > </div>
-
----
-
 ## 食べ放題
 
 - **读音**：<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>（たべほうだい）
@@ -373,26 +327,6 @@
     > <div class="example-box">
     > それは<ruby>結構<rt>けっこう</rt></ruby>な<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>ですね。
     > <br><small>那真是份极好的礼物呢。</small>
-    > </div>
-
----
-
-## 島
-
-- **读音**：<ruby>島<rt>しま</rt></ruby>（しま）
-- **词性**：名词
-- **释义**：岛；岛屿
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>島<rt>しま</rt></ruby>には<ruby>美<rt>うつく</rt></ruby>しいビーチがあります。
-    > <br><small>这个岛上有美丽的沙滩。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>夏休<rt>なつやす</rt></ruby>みに<ruby>無人島<rt>むじんとう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。
-    > <br><small>暑假去了无人岛。</small>
     > </div>
 
 ---
