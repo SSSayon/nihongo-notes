@@ -1,5 +1,47 @@
 [
   {
+    "id": "netsu_1769341417",
+    "word": "熱",
+    "reading": "ねつ",
+    "display_html": "<ruby>熱<rt>ねつ</rt></ruby>",
+    "type": "名词",
+    "meaning": "发烧；热度；热情",
+    "examples": [
+      {
+        "jp": "熱があるので、今日は早く寝ます。",
+        "html": "<ruby>熱<rt>ねつ</rt></ruby>があるので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。",
+        "cn": "因为发烧了，今天早点睡觉。"
+      },
+      {
+        "jp": "スープの熱が冷めないうちに飲んでください。",
+        "html": "スープの<ruby>熱<rt>ねつ</rt></ruby>が<ruby>冷<rt>さ</rt></ruby>めないうちに<ruby>飲<rt>の</rt></ruby>んでください。",
+        "cn": "请趁汤还没凉的时候喝掉。"
+      }
+    ],
+    "created_at": 1769341417
+  },
+  {
+    "id": "kaze_1769341417",
+    "word": "風邪",
+    "reading": "かぜ",
+    "display_html": "<ruby>風邪<rt>かぜ</rt></ruby>",
+    "type": "名词",
+    "meaning": "感冒",
+    "examples": [
+      {
+        "jp": "風邪をひいて、喉が痛いです。",
+        "html": "<ruby>風邪<rt>かぜ</rt></ruby>をひいて、<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。",
+        "cn": "得了感冒，喉咙很痛。"
+      },
+      {
+        "jp": "風邪が流行っているので、気をつけてください。",
+        "html": "<ruby>風邪<rt>かぜ</rt></ruby>が<ruby>流行<rt>はや</rt></ruby>っているので、<ruby>気<rt>き</rt></ruby>をつけてください。",
+        "cn": "感冒正在流行，请多加小心。"
+      }
+    ],
+    "created_at": 1769341417
+  },
+  {
     "id": "kyakku_1769178847",
     "word": "客",
     "reading": "きゃく",

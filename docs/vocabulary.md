@@ -2,7 +2,47 @@
 
 记录名词、形容词等词汇。
 
-共 **25** 个词汇
+共 **27** 个词汇
+
+---
+
+## 熱
+
+- **读音**：<ruby>熱<rt>ねつ</rt></ruby>（ねつ）
+- **词性**：名词
+- **释义**：发烧；热度；热情
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>熱<rt>ねつ</rt></ruby>があるので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。
+    > <br><small>因为发烧了，今天早点睡觉。</small>
+    > </div>
+
+    > <div class="example-box">
+    > スープの<ruby>熱<rt>ねつ</rt></ruby>が<ruby>冷<rt>さ</rt></ruby>めないうちに<ruby>飲<rt>の</rt></ruby>んでください。
+    > <br><small>请趁汤还没凉的时候喝掉。</small>
+    > </div>
+
+---
+
+## 風邪
+
+- **读音**：<ruby>風邪<rt>かぜ</rt></ruby>（かぜ）
+- **词性**：名词
+- **释义**：感冒
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>風邪<rt>かぜ</rt></ruby>をひいて、<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。
+    > <br><small>得了感冒，喉咙很痛。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>風邪<rt>かぜ</rt></ruby>が<ruby>流行<rt>はや</rt></ruby>っているので、<ruby>気<rt>き</rt></ruby>をつけてください。
+    > <br><small>感冒正在流行，请多加小心。</small>
+    > </div>
 
 ---
 

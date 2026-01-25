@@ -2,7 +2,67 @@
 
 记录动词。
 
-共 **18** 个动词
+共 **20** 个动词
+
+---
+
+## 借りる
+
+- **读音**：<ruby>借<rt>か</rt></ruby>りる（かりる）
+- **类型**：一段动词
+- **释义**：借入；租用；借助
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>図<rt>と</rt></ruby><ruby>書<rt>しょ</rt></ruby><ruby>館<rt>かん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>りました。
+    > <br><small>在图书馆借了书。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>を<ruby>借<rt>か</rt></ruby>ります。
+    > <br><small>向朋友借钱。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>駅<rt>えき</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いアパートを<ruby>借<rt>か</rt></ruby>いたいです。
+    > <br><small>我想租一个离车站近的公寓。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>少<rt>すこ</rt></ruby>し<ruby>知<rt>ち</rt></ruby><ruby>恵<rt>え</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してくださいませんか。お<ruby>知<rt>ち</rt></ruby><ruby>恵<rt>え</rt></ruby>を<ruby>借<rt>か</rt></ruby>りたいです。
+    > <br><small>能请教下您的主意吗？我想借助您的智慧。</small>
+    > </div>
+
+---
+
+## 引く
+
+- **读音**：<ruby>引<rt>ひ</rt></ruby>く（ひく）
+- **类型**：五段动词
+- **释义**：患（感冒）；拉，抽；查（字典）；减去；吸引
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>昨<rt>きのう</rt></ruby>から<ruby>風邪<rt>かぜ</rt></ruby>をひいています。
+    > <br><small>从昨天起就在感冒。</small>
+    > </div>
+
+    > <div class="example-box">
+    > このドアを<ruby>引<rt>ひ</rt></ruby>いて<ruby>開<rt>あ</rt></ruby>けてください。
+    > <br><small>请拉开这扇门。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>分<rt>わ</rt></ruby>からない<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>を<ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>で<ruby>引<rt>ひ</rt></ruby>く。
+    > <br><small>在字典里查不认识的单词。</small>
+    > </div>
+
+    > <div class="example-box">
+    > 10から3を<ruby>引<rt>ひ</rt></ruby>くと7になります。
+    > <br><small>10减3等于7。</small>
+    > </div>
 
 ---
 

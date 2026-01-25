@@ -1,5 +1,67 @@
 [
   {
+    "id": "kariru_1769341331",
+    "word": "借りる",
+    "reading": "かりる",
+    "display_html": "<ruby>借<rt>か</rt></ruby>りる",
+    "type": "一段动词",
+    "meaning": "借入；租用；借助",
+    "examples": [
+      {
+        "jp": "図書館で本を借りました。",
+        "html": "<ruby>図<rt>と</rt></ruby><ruby>書<rt>しょ</rt></ruby><ruby>館<rt>かん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>りました。",
+        "cn": "在图书馆借了书。"
+      },
+      {
+        "jp": "友達からお金を借ります。",
+        "html": "<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>からお<ruby>金<rt>かね</rt></ruby>を<ruby>借<rt>か</rt></ruby>ります。",
+        "cn": "向朋友借钱。"
+      },
+      {
+        "jp": "駅から近いアパートを借りたいです。",
+        "html": "<ruby>駅<rt>えき</rt></ruby>から<ruby>近<rt>ちか</rt></ruby>いアパートを<ruby>借<rt>か</rt></ruby>いたいです。",
+        "cn": "我想租一个离车站近的公寓。"
+      },
+      {
+        "jp": "少し知恵を貸してくださいませんか。お知恵を借りたいです。",
+        "html": "<ruby>少<rt>すこ</rt></ruby>し<ruby>知<rt>ち</rt></ruby><ruby>恵<rt>え</rt></ruby>を<ruby>貸<rt>か</rt></ruby>してくださいませんか。お<ruby>知<rt>ち</rt></ruby><ruby>恵<rt>え</rt></ruby>を<ruby>借<rt>か</rt></ruby>りたいです。",
+        "cn": "能请教下您的主意吗？我想借助您的智慧。"
+      }
+    ],
+    "created_at": 1769341331
+  },
+  {
+    "id": "hiku_1769340920",
+    "word": "引く",
+    "reading": "ひく",
+    "display_html": "<ruby>引<rt>ひ</rt></ruby>く",
+    "type": "五段动词",
+    "meaning": "患（感冒）；拉，抽；查（字典）；减去；吸引",
+    "examples": [
+      {
+        "jp": "昨日から風邪をひいています。",
+        "html": "<ruby>昨<rt>きのう</rt></ruby>から<ruby>風邪<rt>かぜ</rt></ruby>をひいています。",
+        "cn": "从昨天起就在感冒。"
+      },
+      {
+        "jp": "このドアを引いて開けてください。",
+        "html": "このドアを<ruby>引<rt>ひ</rt></ruby>いて<ruby>開<rt>あ</rt></ruby>けてください。",
+        "cn": "请拉开这扇门。"
+      },
+      {
+        "jp": "分からない言葉を辞書で引く。",
+        "html": "<ruby>分<rt>わ</rt></ruby>からない<ruby>言<rt>こと</rt></ruby><ruby>葉<rt>ば</rt></ruby>を<ruby>辞<rt>じ</rt></ruby><ruby>書<rt>しょ</rt></ruby>で<ruby>引<rt>ひ</rt></ruby>く。",
+        "cn": "在字典里查不认识的单词。"
+      },
+      {
+        "jp": "10から3を引くと7になります。",
+        "html": "10から3を<ruby>引<rt>ひ</rt></ruby>くと7になります。",
+        "cn": "10减3等于7。"
+      }
+    ],
+    "created_at": 1769340920
+  },
+  {
     "id": "nugu_1769089415",
     "word": "脱ぐ",
     "reading": "ぬぐ",
