@@ -2,7 +2,32 @@
 
 记录名词、形容词等词汇。
 
-共 **27** 个词汇
+共 **28** 个词汇
+
+---
+
+## 注文
+
+- **读音**：<ruby>注文<rt>ちゅうもん</rt></ruby>（ちゅうもん）
+- **词性**：名词
+- **释义**：订单；点菜；订购；要求
+
+- **例句**：
+
+    > <div class="example-box">
+    > コーヒーの<ruby>注文<rt>ちゅうもん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。
+    > <br><small>请帮我点咖啡。</small>
+    > </div>
+
+    > <div class="example-box">
+    > インターネットで<ruby>本<rt>ほん</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しました。
+    > <br><small>我在网上订购了书。</small>
+    > </div>
+
+    > <div class="example-box">
+    > お<ruby>客様<rt>きゃくさま</rt></ruby>からの<ruby>厳<rt>きび</rt></ruby>しい<ruby>注文<rt>ちゅうもん</rt></ruby>に<ruby>応<rt>こた</rt></ruby>える。
+    > <br><small>回应顾客的严格要求。</small>
+    > </div>
 
 ---
 

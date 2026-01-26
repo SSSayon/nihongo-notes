@@ -2,7 +2,57 @@
 
 记录动词。
 
-共 **20** 个动词
+共 **22** 个动词
+
+---
+
+## 開ける
+
+- **读音**：<ruby>開<rt>あ</rt></ruby>ける（あける）
+- **类型**：一段动词
+- **释义**：打开；开（店、窗等）；空出（时间、空间）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けて、<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れましょう。
+    > <br><small>打开窗户，让新鲜空气进来吧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>店<rt>みせ</rt></ruby>は<ruby>朝<rt>あさ</rt></ruby>10<ruby>時<rt>じ</rt></ruby>に<ruby>開<rt>あ</rt></ruby>けます。
+    > <br><small>这家店早上10点开门。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>のために<ruby>時間<rt>じかん</rt></ruby>を<ruby>空<rt>あ</rt></ruby>けておいてください。
+    > <br><small>下周请为会议空出时间。</small>
+    > </div>
+
+---
+
+## 知る
+
+- **读音**：<ruby>知<rt>し</rt></ruby>る（しる）
+- **类型**：五段动词
+- **释义**：知道；了解；认识
+
+- **例句**：
+
+    > <div class="example-box">
+    > そのニュースはもう<ruby>知<rt>し</rt></ruby>っていますか？
+    > <br><small>那个新闻你已经知道了吗？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>知<rt>し</rt></ruby>りたいです。
+    > <br><small>我想知道他真正的感受。</small>
+    > </div>
+
+    > <div class="example-box">
+    > あなたは<ruby>彼<rt>かれ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていますか？
+    > <br><small>你认识他吗？</small>
+    > </div>
 
 ---
 

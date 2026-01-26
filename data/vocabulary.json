@@ -1,5 +1,31 @@
 [
   {
+    "id": "chuumon_1769438873",
+    "word": "注文",
+    "reading": "ちゅうもん",
+    "display_html": "<ruby>注文<rt>ちゅうもん</rt></ruby>",
+    "type": "名词",
+    "meaning": "订单；点菜；订购；要求",
+    "examples": [
+      {
+        "jp": "コーヒーの注文をお願いします。",
+        "html": "コーヒーの<ruby>注文<rt>ちゅうもん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。",
+        "cn": "请帮我点咖啡。"
+      },
+      {
+        "jp": "インターネットで本を注文しました。",
+        "html": "インターネットで<ruby>本<rt>ほん</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しました。",
+        "cn": "我在网上订购了书。"
+      },
+      {
+        "jp": "お客様からの厳しい注文に応える。",
+        "html": "お<ruby>客様<rt>きゃくさま</rt></ruby>からの<ruby>厳<rt>きび</rt></ruby>しい<ruby>注文<rt>ちゅうもん</rt></ruby>に<ruby>応<rt>こた</rt></ruby>える。",
+        "cn": "回应顾客的严格要求。"
+      }
+    ],
+    "created_at": 1769438873
+  },
+  {
     "id": "netsu_1769341417",
     "word": "熱",
     "reading": "ねつ",
