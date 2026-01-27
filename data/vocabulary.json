@@ -1,5 +1,57 @@
 [
   {
+    "id": "nigai_1769518084",
+    "word": "苦い",
+    "reading": "にがい",
+    "display_html": "<ruby>苦<rt>にが</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "苦的；（表情）痛苦的、不悦的；（经验）痛苦的",
+    "examples": [
+      {
+        "jp": "この薬はとても苦いです。",
+        "html": "この<ruby>薬<rt>くすり</rt></ruby>はとても<ruby>苦<rt>にが</rt></ruby>いです。",
+        "cn": "这个药非常苦。"
+      },
+      {
+        "jp": "彼は苦い経験をしました。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>苦<rt>にが</rt></ruby>い<ruby>経験<rt>けいけん</rt></ruby>をしました。",
+        "cn": "他有过痛苦的经历。"
+      },
+      {
+        "jp": "失敗して苦い顔をしています。",
+        "html": "<ruby>失敗<rt>しっぱい</rt></ruby>して<ruby>苦<rt>にが</rt></ruby>い<ruby>顔<rt>かお</rt></ruby>をしています。",
+        "cn": "因为失败而露出了不悦的表情。"
+      }
+    ],
+    "created_at": 1769518084
+  },
+  {
+    "id": "suzushii_1769518084",
+    "word": "涼しい",
+    "reading": "すずしい",
+    "display_html": "<ruby>涼<rt>すず</rt></ruby>しい",
+    "type": "形容词",
+    "meaning": "凉爽的；凉快的；（眼睛）清澈的",
+    "examples": [
+      {
+        "jp": "秋になって、涼しくなりました。",
+        "html": "<ruby>秋<rt>あき</rt></ruby>になって、<ruby>涼<rt>すず</rt></ruby>しくなりました。",
+        "cn": "到了秋天，变得凉爽了。"
+      },
+      {
+        "jp": "外は涼しい風が吹いています。",
+        "html": "<ruby>外<rt>そと</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。",
+        "cn": "外面正吹着凉爽的风。"
+      },
+      {
+        "jp": "彼女は涼しい目をしています。",
+        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしています。",
+        "cn": "她有一双清澈的眼睛。"
+      }
+    ],
+    "created_at": 1769518084
+  },
+  {
     "id": "chuumon_1769438873",
     "word": "注文",
     "reading": "ちゅうもん",

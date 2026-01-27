@@ -2,7 +2,57 @@
 
 记录名词、形容词等词汇。
 
-共 **28** 个词汇
+共 **30** 个词汇
+
+---
+
+## 苦い
+
+- **读音**：<ruby>苦<rt>にが</rt></ruby>い（にがい）
+- **词性**：形容词
+- **释义**：苦的；（表情）痛苦的、不悦的；（经验）痛苦的
+
+- **例句**：
+
+    > <div class="example-box">
+    > この<ruby>薬<rt>くすり</rt></ruby>はとても<ruby>苦<rt>にが</rt></ruby>いです。
+    > <br><small>这个药非常苦。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>苦<rt>にが</rt></ruby>い<ruby>経験<rt>けいけん</rt></ruby>をしました。
+    > <br><small>他有过痛苦的经历。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>失敗<rt>しっぱい</rt></ruby>して<ruby>苦<rt>にが</rt></ruby>い<ruby>顔<rt>かお</rt></ruby>をしています。
+    > <br><small>因为失败而露出了不悦的表情。</small>
+    > </div>
+
+---
+
+## 涼しい
+
+- **读音**：<ruby>涼<rt>すず</rt></ruby>しい（すずしい）
+- **词性**：形容词
+- **释义**：凉爽的；凉快的；（眼睛）清澈的
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>秋<rt>あき</rt></ruby>になって、<ruby>涼<rt>すず</rt></ruby>しくなりました。
+    > <br><small>到了秋天，变得凉爽了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>外<rt>そと</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。
+    > <br><small>外面正吹着凉爽的风。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしています。
+    > <br><small>她有一双清澈的眼睛。</small>
+    > </div>
 
 ---
 
