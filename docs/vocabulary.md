@@ -2,7 +2,27 @@
 
 记录名词、形容词等词汇。
 
-共 **30** 个词汇
+共 **25** 个词汇
+
+---
+
+## 玄関
+
+- **读音**：<ruby>玄関<rt>げんかん</rt></ruby>（げんかん）
+- **词性**：名詞
+- **释义**：玄关；门厅；入口
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでください。
+    > <br><small>请在玄关脱鞋。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>玄関<rt>げんかん</rt></ruby>のチャイムが<ruby>鳴<rt>な</rt></ruby>っています。
+    > <br><small>玄关的门铃响了。</small>
+    > </div>
 
 ---
 
@@ -215,46 +235,6 @@
 
 ---
 
-## 刺身
-
-- **读音**：<ruby>刺身<rt>さしみ</rt></ruby>（さしみ）
-- **词性**：名词
-- **释义**：刺身；生鱼片
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>にマグロの<ruby>刺身<rt>さしみ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。
-    > <br><small>晚餐吃了金枪鱼刺身。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>刺身<rt>さしみ</rt></ruby>にはわさびと<ruby>醤油<rt>しょうゆ</rt></ruby>が<ruby>欠<rt>か</rt></ruby>かせません。
-    > <br><small>吃刺身少不了芥末和酱油。</small>
-    > </div>
-
----
-
-## 新鮮
-
-- **读音**：<ruby>新鮮<rt>しんせん</rt></ruby>（しんせん）
-- **词性**：形容动词
-- **释义**：新鲜
-
-- **例句**：
-
-    > <div class="example-box">
-    > このスーパーの<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。
-    > <br><small>这家超市的鱼非常新鲜。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>朝<rt>あさ</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>ってリフレッシュします。
-    > <br><small>呼吸早晨新鲜的空气，使人精神振奋。</small>
-    > </div>
-
----
-
 ## 生
 
 - **读音**：<ruby>生<rt>なま</rt></ruby>（なま）
@@ -275,21 +255,6 @@
 
 ---
 
-## 村
-
-- **读音**：<ruby>村<rt>むら</rt></ruby>（むら）
-- **词性**：名词
-- **释义**：村庄；村子
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>私<rt>わたし</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さな<ruby>村<rt>むら</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。
-    > <br><small>我出生在一个小村庄里。</small>
-    > </div>
-
----
-
 ## 湖
 
 - **读音**：<ruby>湖<rt>みずうみ</rt></ruby>（みずうみ）
@@ -301,41 +266,6 @@
     > <div class="example-box">
     > この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。
     > <br><small>这个湖泊非常深。</small>
-    > </div>
-
----
-
-## 森
-
-- **读音**：<ruby>森<rt>もり</rt></ruby>（もり）
-- **词性**：名词
-- **释义**：森林
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>森<rt>もり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くのは<ruby>気持<rt>きも</rt></ruby>ちがいいです。
-    > <br><small>在森林里散步感觉很舒服。</small>
-    > </div>
-
----
-
-## 立派
-
-- **读音**：<ruby>立派<rt>りっぱ</rt></ruby>（りっぱ）
-- **词性**：形容动词
-- **释义**：华丽的；优秀的；宏伟的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>医者<rt>いしゃ</rt></ruby>になりました。
-    > <br><small>他成为了一名优秀的医生。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立派<rt>りっぱ</rt></ruby>なビルが<ruby>建<rt>た</rt></ruby>ちました。
-    > <br><small>车站前建起了一座宏伟的大楼。</small>
     > </div>
 
 ---
@@ -562,26 +492,6 @@
     > <div class="example-box">
     > <ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなりました。
     > <br><small>物价上涨，蔬菜的价格也变贵了。</small>
-    > </div>
-
----
-
-## 次
-
-- **读音**：<ruby>次<rt>つぎ</rt></ruby>（つぎ）
-- **词性**：名词
-- **释义**：下一个；下次；接着
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>次<rt>つぎ</rt></ruby>の<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。
-    > <br><small>请在下一个拐角处右转。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>次<rt>つぎ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>です。
-    > <br><small>下次会议在下周一。</small>
     > </div>
 
 ---

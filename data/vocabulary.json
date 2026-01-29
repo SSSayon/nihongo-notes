@@ -1,5 +1,26 @@
 [
   {
+    "id": "genkan_1769683230",
+    "word": "玄関",
+    "reading": "げんかん",
+    "display_html": "<ruby>玄関<rt>げんかん</rt></ruby>",
+    "type": "名詞",
+    "meaning": "玄关；门厅；入口",
+    "examples": [
+      {
+        "jp": "玄関で靴を脱いでください。",
+        "html": "<ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでください。",
+        "cn": "请在玄关脱鞋。"
+      },
+      {
+        "jp": "玄関のチャイムが鳴っています。",
+        "html": "<ruby>玄関<rt>げんかん</rt></ruby>のチャイムが<ruby>鳴<rt>な</rt></ruby>っています。",
+        "cn": "玄关的门铃响了。"
+      }
+    ],
+    "created_at": 1769683230
+  },
+  {
     "id": "nigai_1769518084",
     "word": "苦い",
     "reading": "にがい",
@@ -210,48 +231,6 @@
     "created_at": 1769089247
   },
   {
-    "id": "sashimi_1769089247",
-    "word": "刺身",
-    "reading": "さしみ",
-    "display_html": "<ruby>刺身<rt>さしみ</rt></ruby>",
-    "type": "名词",
-    "meaning": "刺身；生鱼片",
-    "examples": [
-      {
-        "jp": "晩ご飯にマグロの刺身を食べました。",
-        "html": "<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>にマグロの<ruby>刺身<rt>さしみ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べました。",
-        "cn": "晚餐吃了金枪鱼刺身。"
-      },
-      {
-        "jp": "刺身にはわさびと醤油が欠かせません。",
-        "html": "<ruby>刺身<rt>さしみ</rt></ruby>にはわさびと<ruby>醤油<rt>しょうゆ</rt></ruby>が<ruby>欠<rt>か</rt></ruby>かせません。",
-        "cn": "吃刺身少不了芥末和酱油。"
-      }
-    ],
-    "created_at": 1769089247
-  },
-  {
-    "id": "shinsen_1769089247",
-    "word": "新鮮",
-    "reading": "しんせん",
-    "display_html": "<ruby>新鮮<rt>しんせん</rt></ruby>",
-    "type": "形容动词",
-    "meaning": "新鲜",
-    "examples": [
-      {
-        "jp": "このスーパーの魚はとても新鮮です。",
-        "html": "このスーパーの<ruby>魚<rt>さかな</rt></ruby>はとても<ruby>新鮮<rt>しんせん</rt></ruby>です。",
-        "cn": "这家超市的鱼非常新鲜。"
-      },
-      {
-        "jp": "朝の新鮮な空気を吸ってリフレッシュします。",
-        "html": "<ruby>朝<rt>あさ</rt></ruby>の<ruby>新鮮<rt>しんせん</rt></ruby>な<ruby>空気<rt>くうき</rt></ruby>を<ruby>吸<rt>す</rt></ruby>ってリフレッシュします。",
-        "cn": "呼吸早晨新鲜的空气，使人精神振奋。"
-      }
-    ],
-    "created_at": 1769089247
-  },
-  {
     "id": "nama_1769089247",
     "word": "生",
     "reading": "なま",
@@ -273,22 +252,6 @@
     "created_at": 1769089247
   },
   {
-    "id": "mura_1768920075",
-    "word": "村",
-    "reading": "むら",
-    "display_html": "<ruby>村<rt>むら</rt></ruby>",
-    "type": "名词",
-    "meaning": "村庄；村子",
-    "examples": [
-      {
-        "jp": "私は小さな村で生まれました。",
-        "html": "<ruby>私<rt>わたし</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さな<ruby>村<rt>むら</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。",
-        "cn": "我出生在一个小村庄里。"
-      }
-    ],
-    "created_at": 1768920075
-  },
-  {
     "id": "mizuumi_1768920075",
     "word": "湖",
     "reading": "みずうみ",
@@ -300,43 +263,6 @@
         "jp": "この湖はとても深いです。",
         "html": "この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。",
         "cn": "这个湖泊非常深。"
-      }
-    ],
-    "created_at": 1768920075
-  },
-  {
-    "id": "mori_1768920075",
-    "word": "森",
-    "reading": "もり",
-    "display_html": "<ruby>森<rt>もり</rt></ruby>",
-    "type": "名词",
-    "meaning": "森林",
-    "examples": [
-      {
-        "jp": "森の中を歩くのは気持ちがいいです。",
-        "html": "<ruby>森<rt>もり</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>くのは<ruby>気持<rt>きも</rt></ruby>ちがいいです。",
-        "cn": "在森林里散步感觉很舒服。"
-      }
-    ],
-    "created_at": 1768920075
-  },
-  {
-    "id": "rippa_1768920075",
-    "word": "立派",
-    "reading": "りっぱ",
-    "display_html": "<ruby>立派<rt>りっぱ</rt></ruby>",
-    "type": "形容动词",
-    "meaning": "华丽的；优秀的；宏伟的",
-    "examples": [
-      {
-        "jp": "彼は立派な医者になりました。",
-        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>立派<rt>りっぱ</rt></ruby>な<ruby>医者<rt>いしゃ</rt></ruby>になりました。",
-        "cn": "他成为了一名优秀的医生。"
-      },
-      {
-        "jp": "駅の前に立派なビルが建ちました。",
-        "html": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>立派<rt>りっぱ</rt></ruby>なビルが<ruby>建<rt>た</rt></ruby>ちました。",
-        "cn": "车站前建起了一座宏伟的大楼。"
       }
     ],
     "created_at": 1768920075
@@ -567,27 +493,6 @@
       }
     ],
     "created_at": 1768226985
-  },
-  {
-    "id": "tsugi_1767957637",
-    "word": "次",
-    "reading": "つぎ",
-    "display_html": "<ruby>次<rt>つぎ</rt></ruby>",
-    "type": "名词",
-    "meaning": "下一个；下次；接着",
-    "examples": [
-      {
-        "jp": "次の角を右に曲がってください。",
-        "html": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。",
-        "cn": "请在下一个拐角处右转。"
-      },
-      {
-        "jp": "次の会議は来週の月曜日です。",
-        "html": "<ruby>次<rt>つぎ</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>月曜日<rt>げつようび</rt></ruby>です。",
-        "cn": "下次会议在下周一。"
-      }
-    ],
-    "created_at": 1767957637
   },
   {
     "id": "tsumaranai_1767272590",
