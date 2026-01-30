@@ -2,7 +2,134 @@
 
 记录名词、形容词等词汇。
 
-共 **25** 个词汇
+共 **31** 个词汇
+
+---
+
+## 棚
+
+- **读音**：<ruby>棚<rt>たな</rt></ruby>（たな）
+- **词性**：名词
+- **释义**：架子；搁板
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>してください。
+    > <br><small>请把书放回架子上。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>棚<rt>たな</rt></ruby>にきれいな<ruby>飾<rt>かざ</rt></ruby>りが<ruby>並<rt>なら</rt></ruby>んでいる。
+    > <br><small>架子上摆放着漂亮的装饰品。</small>
+    > </div>
+
+---
+
+## 少ない
+
+- **读音**：<ruby>少<rt>すくな</rt></ruby>い（すくない）
+- **词性**：形容词
+- **释义**：少的；不足的
+
+- **例句**：
+
+    > <div class="example-box">
+    > この<ruby>町<rt>まち</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>が<ruby>少<rt>すくな</rt></ruby>いです。
+    > <br><small>这个小镇车很少。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>経験<rt>けいけん</rt></ruby>が<ruby>少<rt>すくな</rt></ruby>いので、もっと<ruby>練習<rt>れんしゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。
+    > <br><small>因为经验不足，所以需要更多练习。</small>
+    > </div>
+
+> 📝 **备注**：
+
+> - **少ない** 是形容词， 后面常接「名词」「です」「になる」等
+> 
+> - **少し（すこし）** 是副词，后面接动词/形容词：「少し食べる」「少し寒い」
+> 
+
+---
+
+## 間
+
+- **读音**：<ruby>間<rt>あいだ</rt></ruby>（あいだ）
+- **词性**：名词
+- **释义**：中间；期间；距离
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>銀行<rt>ぎんこう</rt></ruby>とスーパーの<ruby>間<rt>あいだ</rt></ruby>にあります。
+    > <br><small>在银行和超市中间。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>あいだ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。
+    > <br><small>想在暑假期间去旅行。</small>
+    > </div>
+
+---
+
+## 奥さん・旦那さん
+
+- **读音**：<ruby>奥<rt>おく</rt></ruby>さん・<ruby>旦那<rt>だんな</rt></ruby>さん（おくさん・だんなさん）
+- **词性**：名词
+- **释义**：（他人的）夫人、太太；（他人的）丈夫、先生
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>奥<rt>おく</rt></ruby>さんはお<ruby>元気<rt>げんき</rt></ruby>ですか。
+    > <br><small>您夫人身体好吗？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>旦那<rt>だんな</rt></ruby>さんはどんな<ruby>仕事<rt>しごと</rt></ruby>をしていますか。
+    > <br><small>您先生是做什么工作的？</small>
+    > </div>
+
+---
+
+## 家具
+
+- **读音**：<ruby>家具<rt>かぐ</rt></ruby>（かぐ）
+- **词性**：名词
+- **释义**：家具
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>家具<rt>かぐ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。
+    > <br><small>去买新家具。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>部屋<rt>へや</rt></ruby>は<ruby>家具<rt>かぐ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。
+    > <br><small>这个房间家具很少。</small>
+    > </div>
+
+---
+
+## 壁
+
+- **读音**：<ruby>壁<rt>かべ</rt></ruby>（かべ）
+- **词性**：名词
+- **释义**：墙壁；障碍
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>壁<rt>かべ</rt></ruby>にカレンダーを<ruby>掛<rt>か</rt></ruby>けました。
+    > <br><small>在墙上挂了日历。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>言葉<rt>ことば</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じることがあります。
+    > <br><small>有时会感到语言的障碍。</small>
+    > </div>
 
 ---
 

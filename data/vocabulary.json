@@ -1,5 +1,132 @@
 [
   {
+    "id": "tana_1769772768",
+    "word": "棚",
+    "reading": "たな",
+    "display_html": "<ruby>棚<rt>たな</rt></ruby>",
+    "type": "名词",
+    "meaning": "架子；搁板",
+    "examples": [
+      {
+        "jp": "本を棚に戻してください。",
+        "html": "<ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>してください。",
+        "cn": "请把书放回架子上。"
+      },
+      {
+        "jp": "棚にきれいな飾りが並んでいる。",
+        "html": "<ruby>棚<rt>たな</rt></ruby>にきれいな<ruby>飾<rt>かざ</rt></ruby>りが<ruby>並<rt>なら</rt></ruby>んでいる。",
+        "cn": "架子上摆放着漂亮的装饰品。"
+      }
+    ],
+    "created_at": 1769772768
+  },
+  {
+    "id": "sukunai_1769772768",
+    "word": "少ない",
+    "reading": "すくない",
+    "display_html": "<ruby>少<rt>すくな</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "少的；不足的",
+    "examples": [
+      {
+        "jp": "この町は車が少ないです。",
+        "html": "この<ruby>町<rt>まち</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>が<ruby>少<rt>すくな</rt></ruby>いです。",
+        "cn": "这个小镇车很少。"
+      },
+      {
+        "jp": "経験が少ないので、もっと練習が必要です。",
+        "html": "<ruby>経験<rt>けいけん</rt></ruby>が<ruby>少<rt>すくな</rt></ruby>いので、もっと<ruby>練習<rt>れんしゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+        "cn": "因为经验不足，所以需要更多练习。"
+      }
+    ],
+    "created_at": 1769772768,
+    "notes": "- **少ない** 是形容词， 后面常接「名词」「です」「になる」等\n- **少し（すこし）** 是副词，后面接动词/形容词：「少し食べる」「少し寒い」"
+  },
+  {
+    "id": "aida_1769772251",
+    "word": "間",
+    "reading": "あいだ",
+    "display_html": "<ruby>間<rt>あいだ</rt></ruby>",
+    "type": "名词",
+    "meaning": "中间；期间；距离",
+    "examples": [
+      {
+        "jp": "銀行とスーパーの間にあります。",
+        "html": "<ruby>銀行<rt>ぎんこう</rt></ruby>とスーパーの<ruby>間<rt>あいだ</rt></ruby>にあります。",
+        "cn": "在银行和超市中间。"
+      },
+      {
+        "jp": "夏休みの間に旅行に行きたいです。",
+        "html": "<ruby>夏休<rt>なつやす</rt></ruby>みの<ruby>間<rt>あいだ</rt></ruby>に<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいです。",
+        "cn": "想在暑假期间去旅行。"
+      }
+    ],
+    "created_at": 1769772251
+  },
+  {
+    "id": "okusan-dannasan_1769772251",
+    "word": "奥さん・旦那さん",
+    "reading": "おくさん・だんなさん",
+    "display_html": "<ruby>奥<rt>おく</rt></ruby>さん・<ruby>旦那<rt>だんな</rt></ruby>さん",
+    "type": "名词",
+    "meaning": "（他人的）夫人、太太；（他人的）丈夫、先生",
+    "examples": [
+      {
+        "jp": "奥さんはお元気ですか。",
+        "html": "<ruby>奥<rt>おく</rt></ruby>さんはお<ruby>元気<rt>げんき</rt></ruby>ですか。",
+        "cn": "您夫人身体好吗？"
+      },
+      {
+        "jp": "旦那さんはどんな仕事をしていますか。",
+        "html": "<ruby>旦那<rt>だんな</rt></ruby>さんはどんな<ruby>仕事<rt>しごと</rt></ruby>をしていますか。",
+        "cn": "您先生是做什么工作的？"
+      }
+    ],
+    "created_at": 1769772251
+  },
+  {
+    "id": "kagu_1769772251",
+    "word": "家具",
+    "reading": "かぐ",
+    "display_html": "<ruby>家具<rt>かぐ</rt></ruby>",
+    "type": "名词",
+    "meaning": "家具",
+    "examples": [
+      {
+        "jp": "新しい家具を買いに行きます。",
+        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>家具<rt>かぐ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>きます。",
+        "cn": "去买新家具。"
+      },
+      {
+        "jp": "この部屋は家具が少ないです。",
+        "html": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>家具<rt>かぐ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。",
+        "cn": "这个房间家具很少。"
+      }
+    ],
+    "created_at": 1769772251
+  },
+  {
+    "id": "kabe_1769772251",
+    "word": "壁",
+    "reading": "かべ",
+    "display_html": "<ruby>壁<rt>かべ</rt></ruby>",
+    "type": "名词",
+    "meaning": "墙壁；障碍",
+    "examples": [
+      {
+        "jp": "壁にカレンダーを掛けました。",
+        "html": "<ruby>壁<rt>かべ</rt></ruby>にカレンダーを<ruby>掛<rt>か</rt></ruby>けました。",
+        "cn": "在墙上挂了日历。"
+      },
+      {
+        "jp": "言葉の壁を感じることがあります。",
+        "html": "<ruby>言葉<rt>ことば</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じることがあります。",
+        "cn": "有时会感到语言的障碍。"
+      }
+    ],
+    "created_at": 1769772251
+  },
+  {
     "id": "genkan_1769683230",
     "word": "玄関",
     "reading": "げんかん",
