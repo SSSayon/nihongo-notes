@@ -2,7 +2,37 @@
 
 记录动词。
 
-共 **22** 个动词
+共 **18** 个动词
+
+---
+
+## 履く・穿く・佩く・着く
+
+- **读音**：<ruby>履<rt>は</rt></ruby>く・<ruby>穿<rt>は</rt></ruby>く・<ruby>佩<rt>は</rt></ruby>く・<ruby>着<rt>は</rt></ruby>く（はく）
+- **类型**：五段动词
+- **释义**：穿（鞋、袜、裤等下半身衣物）；佩（剑）；穿（甲胄）
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>新<rt>あたら</rt></ruby>しい<ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>いて<ruby>出<rt>で</rt></ruby>かけます。
+    > <br><small>穿着新鞋出门。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>短<rt>みじか</rt></ruby>いスカートを<ruby>穿<rt>は</rt></ruby>く。
+    > <br><small>穿短裙。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>腰<rt>こし</rt></ruby>に<ruby>太<rt>た</rt></ruby><ruby>刀<rt>ち</rt></ruby>を<ruby>佩<rt>は</rt></ruby>く。
+    > <br><small>腰间佩带大刀。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>武<rt>ぶ</rt></ruby><ruby>士<rt>し</rt></ruby>が<ruby>鎧<rt>よろい</rt></ruby>を<ruby>着<rt>は</rt></ruby>く。
+    > <br><small>武士穿上盔甲。</small>
+    > </div>
 
 ---
 
@@ -344,26 +374,6 @@
 
 ---
 
-## 点ける
-
-- **读音**：<ruby>点<rt>つ</rt></ruby>ける（つける）
-- **类型**：一段动词
-- **释义**：点燃；开启（电器、灯光等）
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>暗<rt>くら</rt></ruby>いので、<ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby>を<ruby>点<rt>つ</rt></ruby>けてください。
-    > <br><small>太暗了，请把灯打开。</small>
-    > </div>
-
-    > <div class="example-box">
-    > マッチで<ruby>火<rt>ひ</rt></ruby>を<ruby>点<rt>つ</rt></ruby>ける。
-    > <br><small>用火柴点火。</small>
-    > </div>
-
----
-
 ## 怒る
 
 - **读音**：<ruby>怒<rt>おこ</rt></ruby>る（おこる）
@@ -409,26 +419,6 @@
 
 ---
 
-## 壊れる
-
-- **读音**：<ruby>壊<rt>こわ</rt></ruby>れる（こわれる）
-- **类型**：一段动词
-- **释义**：坏；出故障；破碎
-
-- **例句**：
-
-    > <div class="example-box">
-    > スマホが<ruby>壊<rt>こわ</rt></ruby>れてしまいました。
-    > <br><small>手机弄坏了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>椅<rt>い</rt></ruby><ruby>子<rt>す</rt></ruby>は<ruby>壊<rt>こわ</rt></ruby>れやすいです。
-    > <br><small>这把椅子容易坏。</small>
-    > </div>
-
----
-
 ## 並ぶ
 
 - **读音**：<ruby>並<rt>なら</rt></ruby>ぶ（ならぶ）
@@ -449,45 +439,6 @@
 
 ---
 
-## 見つかる
-
-- **读音**：<ruby>見<rt>み</rt></ruby>つかる（みつかる）
-- **类型**：五段动词
-- **释义**：被发现；被找到
-
-- **例句**：
-
-    > <div class="example-box">
-    > なくした<ruby>鍵<rt>かぎ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。
-    > <br><small>丢了的钥匙找到了。</small>
-    > </div>
-
-> 📝 **备注**：
-
-> 注意区别：
-> 
-> - 見つかる 是**自动词**，“被找到”，前面用 が
-> 
-> - 見つける 是**他动词**，“找到某物”，前面用 を
-> 
-
----
-
-## 見つける
-
-- **读音**：<ruby>見<rt>み</rt></ruby>つける（みつける）
-- **类型**：一段动词
-- **释义**：找到，发现
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>公園<rt>こうえん</rt></ruby>で<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。
-    > <br><small>在公园里找到了钥匙。</small>
-    > </div>
-
----
-
 ## 疲れる
 
 - **读音**：<ruby>疲<rt>つか</rt></ruby>れる（つかれる）
@@ -499,31 +450,6 @@
     > <div class="example-box">
     > <ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れました。
     > <br><small>走了一整天，累了。</small>
-    > </div>
-
----
-
-## 着ける
-
-- **读音**：<ruby>着<rt>つ</rt></ruby>ける（つける）
-- **类型**：一段动词
-- **释义**：穿戴（衣服、饰品等）；使靠近；安装
-
-- **例句**：
-
-    > <div class="example-box">
-    > ネクタイを<ruby>着<rt>つ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>かけます。
-    > <br><small>系上领带出门。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>車<rt>くるま</rt></ruby>を<ruby>壁<rt>かべ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けて<ruby>停<rt>と</rt></ruby>めました。
-    > <br><small>把车贴着墙停下了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>新<rt>あたら</rt></ruby>しいカーテンを<ruby>窓<rt>まど</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けました。
-    > <br><small>把新窗帘装在了窗户上。</small>
     > </div>
 
 ---

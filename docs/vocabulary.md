@@ -2,7 +2,27 @@
 
 记录名词、形容词等词汇。
 
-共 **32** 个词汇
+共 **29** 个词汇
+
+---
+
+## 緑
+
+- **读音**：<ruby>緑<rt>みどり</rt></ruby>（みどり）
+- **词性**：名词
+- **释义**：绿色；绿地、绿色植物
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>緑色<rt>みどりいろ</rt></ruby>のセーターを<ruby>着<rt>き</rt></ruby>ています。
+    > <br><small>她穿着一件绿色的毛衣。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>公園<rt>こうえん</rt></ruby>には<ruby>緑<rt>みどり</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>最適<rt>さいてき</rt></ruby>です。
+    > <br><small>这个公园绿化很好，非常适合散步。</small>
+    > </div>
 
 ---
 
@@ -342,46 +362,6 @@
 
 ---
 
-## 茸
-
-- **读音**：<ruby>茸<rt>きのこ</rt></ruby>（きのこ）
-- **词性**：名词
-- **释义**：蘑菇；蕈
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>山<rt>やま</rt></ruby>で<ruby>茸<rt>きのこ</rt></ruby>を<ruby>採<rt>と</rt></ruby>りました。
-    > <br><small>在山上采了蘑菇。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>茸<rt>きのこ</rt></ruby>スープは<ruby>香<rt>かお</rt></ruby>りがとても<ruby>良<rt>よ</rt></ruby>いです。
-    > <br><small>蘑菇汤的味道非常香。</small>
-    > </div>
-
----
-
-## 季節
-
-- **读音**：<ruby>季節<rt>きせつ</rt></ruby>（きせつ）
-- **词性**：名词
-- **释义**：季节
-
-- **例句**：
-
-    > <div class="example-box">
-    > どの<ruby>季節<rt>きせつ</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きですか。
-    > <br><small>你最喜欢哪个季节？</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>季節<rt>きせつ</rt></ruby>の<ruby>変<rt>か</rt></ruby>わり<ruby>目<rt>め</rt></ruby>は<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きやすいです。
-    > <br><small>季节交替的时候容易感冒。</small>
-    > </div>
-
----
-
 ## 生
 
 - **读音**：<ruby>生<rt>なま</rt></ruby>（なま）
@@ -413,21 +393,6 @@
     > <div class="example-box">
     > この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。
     > <br><small>这个湖泊非常深。</small>
-    > </div>
-
----
-
-## 散歩
-
-- **读音**：<ruby>散歩<rt>さんぽ</rt></ruby>（さんぽ）
-- **词性**：名词
-- **释义**：散步
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。
-    > <br><small>晚饭后在公园散步。</small>
     > </div>
 
 ---
@@ -619,26 +584,6 @@
     > <div class="example-box">
     > <ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。
     > <br><small>请给我靠窗的座位。</small>
-    > </div>
-
----
-
-## 値段
-
-- **读音**：<ruby>値段<rt>ねだん</rt></ruby>（ねだん）
-- **词性**：名词
-- **释义**：价格；价钱
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>靴<rt>くつ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>はいくらですか。
-    > <br><small>这双鞋的价格是多少？</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなりました。
-    > <br><small>物价上涨，蔬菜的价格也变贵了。</small>
     > </div>
 
 ---

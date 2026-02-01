@@ -1,5 +1,36 @@
 [
   {
+    "id": "haku_1769943499",
+    "word": "履く・穿く・佩く・着く",
+    "reading": "はく",
+    "display_html": "<ruby>履<rt>は</rt></ruby>く・<ruby>穿<rt>は</rt></ruby>く・<ruby>佩<rt>は</rt></ruby>く・<ruby>着<rt>は</rt></ruby>く",
+    "type": "五段动词",
+    "meaning": "穿（鞋、袜、裤等下半身衣物）；佩（剑）；穿（甲胄）",
+    "examples": [
+      {
+        "jp": "新しい靴を履いて出かけます。",
+        "html": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>いて<ruby>出<rt>で</rt></ruby>かけます。",
+        "cn": "穿着新鞋出门。"
+      },
+      {
+        "jp": "短いスカートを穿く。",
+        "html": "<ruby>短<rt>みじか</rt></ruby>いスカートを<ruby>穿<rt>は</rt></ruby>く。",
+        "cn": "穿短裙。"
+      },
+      {
+        "jp": "腰に太刀を佩く。",
+        "html": "<ruby>腰<rt>こし</rt></ruby>に<ruby>太<rt>た</rt></ruby><ruby>刀<rt>ち</rt></ruby>を<ruby>佩<rt>は</rt></ruby>く。",
+        "cn": "腰间佩带大刀。"
+      },
+      {
+        "jp": "武士が鎧を着く。",
+        "html": "<ruby>武<rt>ぶ</rt></ruby><ruby>士<rt>し</rt></ruby>が<ruby>鎧<rt>よろい</rt></ruby>を<ruby>着<rt>は</rt></ruby>く。",
+        "cn": "武士穿上盔甲。"
+      }
+    ],
+    "created_at": 1769943499
+  },
+  {
     "id": "akeru_1769438781",
     "word": "開ける",
     "reading": "あける",
@@ -335,27 +366,6 @@
     "created_at": 1767363282
   },
   {
-    "id": "tsukeru_1767363282",
-    "word": "点ける",
-    "reading": "つける",
-    "display_html": "<ruby>点<rt>つ</rt></ruby>ける",
-    "type": "一段动词",
-    "meaning": "点燃；开启（电器、灯光等）",
-    "examples": [
-      {
-        "jp": "暗いので、電気を点けてください。",
-        "html": "<ruby>暗<rt>くら</rt></ruby>いので、<ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby>を<ruby>点<rt>つ</rt></ruby>けてください。",
-        "cn": "太暗了，请把灯打开。"
-      },
-      {
-        "jp": "マッチで火を点ける。",
-        "html": "マッチで<ruby>火<rt>ひ</rt></ruby>を<ruby>点<rt>つ</rt></ruby>ける。",
-        "cn": "用火柴点火。"
-      }
-    ],
-    "created_at": 1767363282
-  },
-  {
     "id": "okoru_1767273287",
     "word": "怒る",
     "reading": "おこる",
@@ -403,27 +413,6 @@
     "created_at": 1767191397
   },
   {
-    "id": "kowareru_1767191397",
-    "word": "壊れる",
-    "reading": "こわれる",
-    "display_html": "<ruby>壊<rt>こわ</rt></ruby>れる",
-    "type": "一段动词",
-    "meaning": "坏；出故障；破碎",
-    "examples": [
-      {
-        "jp": "スマホが壊れてしまいました。",
-        "html": "スマホが<ruby>壊<rt>こわ</rt></ruby>れてしまいました。",
-        "cn": "手机弄坏了。"
-      },
-      {
-        "jp": "この椅子は壊れやすいです。",
-        "html": "この<ruby>椅<rt>い</rt></ruby><ruby>子<rt>す</rt></ruby>は<ruby>壊<rt>こわ</rt></ruby>れやすいです。",
-        "cn": "这把椅子容易坏。"
-      }
-    ],
-    "created_at": 1767191397
-  },
-  {
     "id": "narabu_1767100155",
     "word": "並ぶ",
     "reading": "ならぶ",
@@ -445,39 +434,6 @@
     "created_at": 1767100155
   },
   {
-    "id": "mitsukaru_1766845537",
-    "word": "見つかる",
-    "reading": "みつかる",
-    "display_html": "<ruby>見<rt>み</rt></ruby>つかる",
-    "type": "五段动词",
-    "meaning": "被发现；被找到",
-    "examples": [
-      {
-        "jp": "なくした鍵が見つかりました。",
-        "html": "なくした<ruby>鍵<rt>かぎ</rt></ruby>が<ruby>見<rt>み</rt></ruby>つかりました。",
-        "cn": "丢了的钥匙找到了。"
-      }
-    ],
-    "created_at": 1766845537,
-    "notes": "注意区别：\n- 見つかる 是**自动词**，“被找到”，前面用 が\n- 見つける 是**他动词**，“找到某物”，前面用 を"
-  },
-  {
-    "id": "mitsukeru_1766744485",
-    "word": "見つける",
-    "reading": "みつける",
-    "display_html": "<ruby>見<rt>み</rt></ruby>つける",
-    "type": "一段动词",
-    "meaning": "找到，发现",
-    "examples": [
-      {
-        "jp": "公園で鍵を見つけました。",
-        "html": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。",
-        "cn": "在公园里找到了钥匙。"
-      }
-    ],
-    "created_at": 1766744485
-  },
-  {
     "id": "tsukareru_1766728657",
     "word": "疲れる",
     "reading": "つかれる",
@@ -492,33 +448,6 @@
       }
     ],
     "created_at": 1766728657,
-    "notes": ""
-  },
-  {
-    "id": "tsukeru",
-    "word": "着ける",
-    "reading": "つける",
-    "display_html": "<ruby>着<rt>つ</rt></ruby>ける",
-    "type": "一段动词",
-    "meaning": "穿戴（衣服、饰品等）；使靠近；安装",
-    "examples": [
-      {
-        "jp": "ネクタイを着けて出かけます。",
-        "html": "ネクタイを<ruby>着<rt>つ</rt></ruby>けて<ruby>出<rt>で</rt></ruby>かけます。",
-        "cn": "系上领带出门。"
-      },
-      {
-        "jp": "車を壁に着けて停めました。",
-        "html": "<ruby>車<rt>くるま</rt></ruby>を<ruby>壁<rt>かべ</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けて<ruby>停<rt>と</rt></ruby>めました。",
-        "cn": "把车贴着墙停下了。"
-      },
-      {
-        "jp": "新しいカーテンを窓に着けました。",
-        "html": "<ruby>新<rt>あたら</rt></ruby>しいカーテンを<ruby>窓<rt>まど</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けました。",
-        "cn": "把新窗帘装在了窗户上。"
-      }
-    ],
-    "created_at": 1766679912,
     "notes": ""
   }
 ]

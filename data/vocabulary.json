@@ -1,5 +1,26 @@
 [
   {
+    "id": "midori_1769943887",
+    "word": "緑",
+    "reading": "みどり",
+    "display_html": "<ruby>緑<rt>みどり</rt></ruby>",
+    "type": "名词",
+    "meaning": "绿色；绿地、绿色植物",
+    "examples": [
+      {
+        "jp": "彼女は緑色のセーターを着ています。",
+        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>緑色<rt>みどりいろ</rt></ruby>のセーターを<ruby>着<rt>き</rt></ruby>ています。",
+        "cn": "她穿着一件绿色的毛衣。"
+      },
+      {
+        "jp": "この公園には緑が多く、散歩に最適です。",
+        "html": "この<ruby>公園<rt>こうえん</rt></ruby>には<ruby>緑<rt>みどり</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>最適<rt>さいてき</rt></ruby>です。",
+        "cn": "这个公园绿化很好，非常适合散步。"
+      }
+    ],
+    "created_at": 1769943887
+  },
+  {
     "id": "kabin_1769862887",
     "word": "花瓶",
     "reading": "かびん",
@@ -337,48 +358,6 @@
     "notes": "**必ず** 和 **絶対**（ぜったい）的区别：\n- 必ず 只有肯定的用法，按照什么根据的冷静判断\n- 絶対 肯定否定都能用，没有根据，含感情的判断"
   },
   {
-    "id": "kinoko_1769089247",
-    "word": "茸",
-    "reading": "きのこ",
-    "display_html": "<ruby>茸<rt>きのこ</rt></ruby>",
-    "type": "名词",
-    "meaning": "蘑菇；蕈",
-    "examples": [
-      {
-        "jp": "山で茸を採りました。",
-        "html": "<ruby>山<rt>やま</rt></ruby>で<ruby>茸<rt>きのこ</rt></ruby>を<ruby>採<rt>と</rt></ruby>りました。",
-        "cn": "在山上采了蘑菇。"
-      },
-      {
-        "jp": "茸スープは香りがとても良いです。",
-        "html": "<ruby>茸<rt>きのこ</rt></ruby>スープは<ruby>香<rt>かお</rt></ruby>りがとても<ruby>良<rt>よ</rt></ruby>いです。",
-        "cn": "蘑菇汤的味道非常香。"
-      }
-    ],
-    "created_at": 1769089247
-  },
-  {
-    "id": "kisetsu_1769089247",
-    "word": "季節",
-    "reading": "きせつ",
-    "display_html": "<ruby>季節<rt>きせつ</rt></ruby>",
-    "type": "名词",
-    "meaning": "季节",
-    "examples": [
-      {
-        "jp": "どの季節が一番好きですか。",
-        "html": "どの<ruby>季節<rt>きせつ</rt></ruby>が<ruby>一番好<rt>いちばんす</rt></ruby>きですか。",
-        "cn": "你最喜欢哪个季节？"
-      },
-      {
-        "jp": "季節の変わり目は風邪を引きやすいです。",
-        "html": "<ruby>季節<rt>きせつ</rt></ruby>の<ruby>変<rt>か</rt></ruby>わり<ruby>目<rt>め</rt></ruby>は<ruby>風邪<rt>かぜ</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きやすいです。",
-        "cn": "季节交替的时候容易感冒。"
-      }
-    ],
-    "created_at": 1769089247
-  },
-  {
     "id": "nama_1769089247",
     "word": "生",
     "reading": "なま",
@@ -411,22 +390,6 @@
         "jp": "この湖はとても深いです。",
         "html": "この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。",
         "cn": "这个湖泊非常深。"
-      }
-    ],
-    "created_at": 1768920075
-  },
-  {
-    "id": "sanpo_1768920075",
-    "word": "散歩",
-    "reading": "さんぽ",
-    "display_html": "<ruby>散歩<rt>さんぽ</rt></ruby>",
-    "type": "名词",
-    "meaning": "散步",
-    "examples": [
-      {
-        "jp": "夕食の後で公園を散歩します。",
-        "html": "<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>後<rt>あと</rt></ruby>で<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。",
-        "cn": "晚饭后在公园散步。"
       }
     ],
     "created_at": 1768920075
@@ -617,27 +580,6 @@
         "jp": "窓側の席をお願いします。",
         "html": "<ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。",
         "cn": "请给我靠窗的座位。"
-      }
-    ],
-    "created_at": 1768226985
-  },
-  {
-    "id": "nedan_1768226985",
-    "word": "値段",
-    "reading": "ねだん",
-    "display_html": "<ruby>値段<rt>ねだん</rt></ruby>",
-    "type": "名词",
-    "meaning": "价格；价钱",
-    "examples": [
-      {
-        "jp": "この靴の値段はいくらですか。",
-        "html": "この<ruby>靴<rt>くつ</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>はいくらですか。",
-        "cn": "这双鞋的价格是多少？"
-      },
-      {
-        "jp": "物価が上がって、野菜の値段も高くなりました。",
-        "html": "<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がって、<ruby>野菜<rt>やさい</rt></ruby>の<ruby>値段<rt>ねだん</rt></ruby>も<ruby>高<rt>たか</rt></ruby>くなりました。",
-        "cn": "物价上涨，蔬菜的价格也变贵了。"
       }
     ],
     "created_at": 1768226985
