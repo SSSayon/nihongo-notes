@@ -1,5 +1,52 @@
 [
   {
+    "id": "koukoku_1770032316",
+    "word": "広告",
+    "reading": "こうこく",
+    "display_html": "<ruby>広告<rt>こうこく</rt></ruby>",
+    "type": "名词",
+    "meaning": "广告；宣传",
+    "examples": [
+      {
+        "jp": "新聞に広告を載せる。",
+        "html": "<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>を<ruby>載<rt>の</rt></ruby>せる。",
+        "cn": "在报纸上刊登广告。"
+      },
+      {
+        "jp": "テレビで新商品の広告を見た。",
+        "html": "テレビで<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>広告<rt>こうこく</rt></ruby>を<ruby>見<rt>み</rt></ruby>た。",
+        "cn": "在电视上看到了新产品的广告。"
+      }
+    ],
+    "created_at": 1770032316
+  },
+  {
+    "id": "usui_1770032316",
+    "word": "薄い",
+    "reading": "うすい",
+    "display_html": "<ruby>薄<rt>うす</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "薄的；淡的（味道、颜色）；稀薄的（空气、希望）",
+    "examples": [
+      {
+        "jp": "このノートは薄くて軽いです。",
+        "html": "このノートは<ruby>薄<rt>うす</rt></ruby>くて<ruby>軽<rt>かる</rt></ruby>いです。",
+        "cn": "这个笔记本又薄又轻。"
+      },
+      {
+        "jp": "このスープは味が少し薄いです。",
+        "html": "このスープは<ruby>味<rt>あじ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>薄<rt>うす</rt></ruby>いです。",
+        "cn": "这个汤的味道稍微有点淡。"
+      },
+      {
+        "jp": "薄い青色のシャツを着ています。",
+        "html": "<ruby>薄<rt>うす</rt></ruby>い<ruby>青色<rt>あおいろ</rt></ruby>のシャツを<ruby>着<rt>き</rt></ruby>ています。",
+        "cn": "穿着一件淡蓝色的衬衫。"
+      }
+    ],
+    "created_at": 1770032316
+  },
+  {
     "id": "midori_1769943887",
     "word": "緑",
     "reading": "みどり",

@@ -2,7 +2,52 @@
 
 记录名词、形容词等词汇。
 
-共 **29** 个词汇
+共 **31** 个词汇
+
+---
+
+## 広告
+
+- **读音**：<ruby>広告<rt>こうこく</rt></ruby>（こうこく）
+- **词性**：名词
+- **释义**：广告；宣传
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>を<ruby>載<rt>の</rt></ruby>せる。
+    > <br><small>在报纸上刊登广告。</small>
+    > </div>
+
+    > <div class="example-box">
+    > テレビで<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>広告<rt>こうこく</rt></ruby>を<ruby>見<rt>み</rt></ruby>た。
+    > <br><small>在电视上看到了新产品的广告。</small>
+    > </div>
+
+---
+
+## 薄い
+
+- **读音**：<ruby>薄<rt>うす</rt></ruby>い（うすい）
+- **词性**：形容词
+- **释义**：薄的；淡的（味道、颜色）；稀薄的（空气、希望）
+
+- **例句**：
+
+    > <div class="example-box">
+    > このノートは<ruby>薄<rt>うす</rt></ruby>くて<ruby>軽<rt>かる</rt></ruby>いです。
+    > <br><small>这个笔记本又薄又轻。</small>
+    > </div>
+
+    > <div class="example-box">
+    > このスープは<ruby>味<rt>あじ</rt></ruby>が<ruby>少<rt>すこ</rt></ruby>し<ruby>薄<rt>うす</rt></ruby>いです。
+    > <br><small>这个汤的味道稍微有点淡。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>薄<rt>うす</rt></ruby>い<ruby>青色<rt>あおいろ</rt></ruby>のシャツを<ruby>着<rt>き</rt></ruby>ています。
+    > <br><small>穿着一件淡蓝色的衬衫。</small>
+    > </div>
 
 ---
 
