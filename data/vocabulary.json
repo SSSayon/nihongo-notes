@@ -1,5 +1,47 @@
 [
   {
+    "id": "nurui_1770118819",
+    "word": "温い",
+    "reading": "ぬるい",
+    "display_html": "<ruby>温<rt>ぬる</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "微温的，不冷不热的；（性格、态度等）不严厉的，松懈的",
+    "examples": [
+      {
+        "jp": "スープが温くなったので、温め直します。",
+        "html": "スープが<ruby>温<rt>ぬる</rt></ruby>くなったので、<ruby>温<rt>あたた</rt></ruby>め<ruby>直<rt>なお</rt></ruby>します。",
+        "cn": "汤变凉了（不热了），我再去热一下。"
+      },
+      {
+        "jp": "そんな温いやり方では成功しませんよ。",
+        "html": "そんな<ruby>温<rt>ぬる</rt></ruby>いやり<ruby>方<rt>かた</rt></ruby>では<ruby>成功<rt>せいこう</rt></ruby>しませんよ。",
+        "cn": "那种温吞的做法是不会成功的。"
+      }
+    ],
+    "created_at": 1770118819
+  },
+  {
+    "id": "furui_1770118819",
+    "word": "古い",
+    "reading": "ふるい",
+    "display_html": "<ruby>古<rt>ふる</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "旧的，古老的；（思想、做法等）陈旧的，过时的",
+    "examples": [
+      {
+        "jp": "この建物はとても古いです。",
+        "html": "この<ruby>建物<rt>たてもの</rt></ruby>はとても<ruby>古<rt>ふる</rt></ruby>いです。",
+        "cn": "这栋建筑非常古旧。"
+      },
+      {
+        "jp": "彼の考え方は少し古いです。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>古<rt>ふる</rt></ruby>いです。",
+        "cn": "他的想法有点过时。"
+      }
+    ],
+    "created_at": 1770118819
+  },
+  {
     "id": "koukoku_1770032316",
     "word": "広告",
     "reading": "こうこく",
@@ -480,53 +522,6 @@
     "created_at": 1768742622
   },
   {
-    "id": "tabehoudai_1768650813",
-    "word": "食べ放題",
-    "reading": "たべほうだい",
-    "display_html": "<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>",
-    "type": "名词",
-    "meaning": "自助餐；无限量供应",
-    "examples": [
-      {
-        "jp": "焼肉の食べ放題に行きました。",
-        "html": "<ruby>焼肉<rt>やきにく</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。",
-        "cn": "去吃了烤肉自助餐。"
-      },
-      {
-        "jp": "この店は三千円で食べ放題です。",
-        "html": "この<ruby>店<rt>みせ</rt></ruby>は<ruby>三千円<rt>さんぜんえん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>です。",
-        "cn": "这家店3000日元无限量畅吃。"
-      }
-    ],
-    "created_at": 1768650813
-  },
-  {
-    "id": "kekkou_1768650813",
-    "word": "結構",
-    "reading": "けっこう",
-    "display_html": "<ruby>結構<rt>けっこう</rt></ruby>",
-    "type": "形容动词;副词",
-    "meaning": "很好，足够；相当，挺；（委婉拒绝）不用了",
-    "examples": [
-      {
-        "jp": "いいえ、結構です。",
-        "html": "いいえ、<ruby>結構<rt>けっこう</rt></ruby>です。",
-        "cn": "不，不用了（谢谢）。"
-      },
-      {
-        "jp": "この料理は結構辛いです。",
-        "html": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>辛<rt>から</rt></ruby>いです。",
-        "cn": "这道菜相当辣。"
-      },
-      {
-        "jp": "それは結構な贈り物ですね。",
-        "html": "それは<ruby>結構<rt>けっこう</rt></ruby>な<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>ですね。",
-        "cn": "那真是份极好的礼物呢。"
-      }
-    ],
-    "created_at": 1768650813
-  },
-  {
     "id": "minato_1768564056",
     "word": "港",
     "reading": "みなと",
@@ -590,27 +585,6 @@
     "created_at": 1768398021
   },
   {
-    "id": "keshiki_1768309488",
-    "word": "景色",
-    "reading": "けしき",
-    "display_html": "<ruby>景色<rt>けしき</rt></ruby>",
-    "type": "名词",
-    "meaning": "风景；景色",
-    "examples": [
-      {
-        "jp": "山の上からの景色はとてもきれいです。",
-        "html": "<ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>からの<ruby>景色<rt>けしき</rt></ruby>はとてもきれいです。",
-        "cn": "山顶上的风景非常漂亮。"
-      },
-      {
-        "jp": "この窓から見える景色が好きです。",
-        "html": "この<ruby>窓<rt>まど</rt></ruby>から<ruby>見<rt>み</rt></ruby>える<ruby>景色<rt>けしき</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。",
-        "cn": "我喜欢从这扇窗户看到的景色。"
-      }
-    ],
-    "created_at": 1768309488
-  },
-  {
     "id": "gawa_1768226985",
     "word": "側",
     "reading": "がわ",
@@ -630,42 +604,5 @@
       }
     ],
     "created_at": 1768226985
-  },
-  {
-    "id": "tsumaranai_1767272590",
-    "word": "つまらない",
-    "reading": "つまらない",
-    "display_html": "つまらない",
-    "type": "形容词",
-    "meaning": "无聊的；没意思的；琐碎的；不值钱的",
-    "examples": [
-      {
-        "jp": "この映画は長くてつまらないです。",
-        "html": "この<ruby>映画<rt>えいが</rt></ruby>は<ruby>長<rt>なが</rt></ruby>くてつまらないです。",
-        "cn": "这部电影又长又无聊。"
-      },
-      {
-        "jp": "つまらないものですが、どうぞ受け取ってください。",
-        "html": "つまらないものですが、どうぞ<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>ってください。",
-        "cn": "一点小意思（不值钱的东西），请收下。"
-      }
-    ],
-    "created_at": 1767272590
-  },
-  {
-    "id": "kitanai_1766845615",
-    "word": "汚い",
-    "reading": "きたない",
-    "display_html": "<ruby>汚<rt>きたな</rt></ruby>い",
-    "type": "形容词",
-    "meaning": "脏的；不整洁的",
-    "examples": [
-      {
-        "jp": "靴が汚いので、洗わなければなりません。",
-        "html": "<ruby>靴<rt>くつ</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>いので、<ruby>洗<rt>あら</rt></ruby>わなければなりません。",
-        "cn": "鞋子脏了，必须得洗一下。"
-      }
-    ],
-    "created_at": 1766845615
   }
 ]

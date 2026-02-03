@@ -2,7 +2,47 @@
 
 记录名词、形容词等词汇。
 
-共 **31** 个词汇
+共 **28** 个词汇
+
+---
+
+## 温い
+
+- **读音**：<ruby>温<rt>ぬる</rt></ruby>い（ぬるい）
+- **词性**：形容词
+- **释义**：微温的，不冷不热的；（性格、态度等）不严厉的，松懈的
+
+- **例句**：
+
+    > <div class="example-box">
+    > スープが<ruby>温<rt>ぬる</rt></ruby>くなったので、<ruby>温<rt>あたた</rt></ruby>め<ruby>直<rt>なお</rt></ruby>します。
+    > <br><small>汤变凉了（不热了），我再去热一下。</small>
+    > </div>
+
+    > <div class="example-box">
+    > そんな<ruby>温<rt>ぬる</rt></ruby>いやり<ruby>方<rt>かた</rt></ruby>では<ruby>成功<rt>せいこう</rt></ruby>しませんよ。
+    > <br><small>那种温吞的做法是不会成功的。</small>
+    > </div>
+
+---
+
+## 古い
+
+- **读音**：<ruby>古<rt>ふる</rt></ruby>い（ふるい）
+- **词性**：形容词
+- **释义**：旧的，古老的；（思想、做法等）陈旧的，过时的
+
+- **例句**：
+
+    > <div class="example-box">
+    > この<ruby>建物<rt>たてもの</rt></ruby>はとても<ruby>古<rt>ふる</rt></ruby>いです。
+    > <br><small>这栋建筑非常古旧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>古<rt>ふる</rt></ruby>いです。
+    > <br><small>他的想法有点过时。</small>
+    > </div>
 
 ---
 
@@ -488,51 +528,6 @@
 
 ---
 
-## 食べ放題
-
-- **读音**：<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>（たべほうだい）
-- **词性**：名词
-- **释义**：自助餐；无限量供应
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>焼肉<rt>やきにく</rt></ruby>の<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きました。
-    > <br><small>去吃了烤肉自助餐。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>店<rt>みせ</rt></ruby>は<ruby>三千円<rt>さんぜんえん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べ<ruby>放<rt>ほう</rt></ruby><ruby>題<rt>だい</rt></ruby>です。
-    > <br><small>这家店3000日元无限量畅吃。</small>
-    > </div>
-
----
-
-## 結構
-
-- **读音**：<ruby>結構<rt>けっこう</rt></ruby>（けっこう）
-- **词性**：形容动词;副词
-- **释义**：很好，足够；相当，挺；（委婉拒绝）不用了
-
-- **例句**：
-
-    > <div class="example-box">
-    > いいえ、<ruby>結構<rt>けっこう</rt></ruby>です。
-    > <br><small>不，不用了（谢谢）。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>結構<rt>けっこう</rt></ruby><ruby>辛<rt>から</rt></ruby>いです。
-    > <br><small>这道菜相当辣。</small>
-    > </div>
-
-    > <div class="example-box">
-    > それは<ruby>結構<rt>けっこう</rt></ruby>な<ruby>贈<rt>おく</rt></ruby>り<ruby>物<rt>もの</rt></ruby>ですね。
-    > <br><small>那真是份极好的礼物呢。</small>
-    > </div>
-
----
-
 ## 港
 
 - **读音**：<ruby>港<rt>みなと</rt></ruby>（みなと）
@@ -593,26 +588,6 @@
 
 ---
 
-## 景色
-
-- **读音**：<ruby>景色<rt>けしき</rt></ruby>（けしき）
-- **词性**：名词
-- **释义**：风景；景色
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>山<rt>やま</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>からの<ruby>景色<rt>けしき</rt></ruby>はとてもきれいです。
-    > <br><small>山顶上的风景非常漂亮。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>窓<rt>まど</rt></ruby>から<ruby>見<rt>み</rt></ruby>える<ruby>景色<rt>けしき</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。
-    > <br><small>我喜欢从这扇窗户看到的景色。</small>
-    > </div>
-
----
-
 ## 側
 
 - **读音**：<ruby>側<rt>がわ</rt></ruby>（がわ）
@@ -629,41 +604,6 @@
     > <div class="example-box">
     > <ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。
     > <br><small>请给我靠窗的座位。</small>
-    > </div>
-
----
-
-## つまらない
-
-- **读音**：つまらない（つまらない）
-- **词性**：形容词
-- **释义**：无聊的；没意思的；琐碎的；不值钱的
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>映画<rt>えいが</rt></ruby>は<ruby>長<rt>なが</rt></ruby>くてつまらないです。
-    > <br><small>这部电影又长又无聊。</small>
-    > </div>
-
-    > <div class="example-box">
-    > つまらないものですが、どうぞ<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>ってください。
-    > <br><small>一点小意思（不值钱的东西），请收下。</small>
-    > </div>
-
----
-
-## 汚い
-
-- **读音**：<ruby>汚<rt>きたな</rt></ruby>い（きたない）
-- **词性**：形容词
-- **释义**：脏的；不整洁的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>靴<rt>くつ</rt></ruby>が<ruby>汚<rt>きたな</rt></ruby>いので、<ruby>洗<rt>あら</rt></ruby>わなければなりません。
-    > <br><small>鞋子脏了，必须得洗一下。</small>
     > </div>
 
 ---
