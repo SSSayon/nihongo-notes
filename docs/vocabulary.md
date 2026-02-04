@@ -2,7 +2,32 @@
 
 记录名词、形容词等词汇。
 
-共 **28** 个词汇
+共 **29** 个词汇
+
+---
+
+## 他
+
+- **读音**：<ruby>他<rt>ほか</rt></ruby>（ほか）
+- **词性**：名词
+- **释义**：其他；另外；除了……以外
+
+- **例句**：
+
+    > <div class="example-box">
+    > ほかに<ruby>誰<rt>だれ</rt></ruby>かいますか。
+    > <br><small>还有其他人吗？</small>
+    > </div>
+
+    > <div class="example-box">
+    > これのほかに、<ruby>何<rt>なに</rt></ruby>か<ruby>質問<rt>しつもん</rt></ruby>はありますか。
+    > <br><small>除了这个，还有什么问题吗？</small>
+    > </div>
+
+    > <div class="example-box">
+    > バスがないので、<ruby>歩<rt>ある</rt></ruby>くほかありません。
+    > <br><small>因为没有公车，只能走路了。</small>
+    > </div>
 
 ---
 
