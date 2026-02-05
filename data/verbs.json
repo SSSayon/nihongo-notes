@@ -1,5 +1,31 @@
 [
   {
+    "id": "okureru_1770291944",
+    "word": "遅れる",
+    "reading": "おくれる",
+    "display_html": "<ruby>遅<rt>おく</rt></ruby>れる",
+    "type": "一段动词",
+    "meaning": "迟到，耽误；落后，晚于；（钟表）走慢",
+    "examples": [
+      {
+        "jp": "電車が遅れて、会社に遅刻した。",
+        "html": "<ruby>電<rt>でん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れて、<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>に<ruby>遅<rt>ち</rt></ruby><ruby>刻<rt>こく</rt></ruby>した。",
+        "cn": "电车晚点，上班迟到了。"
+      },
+      {
+        "jp": "流行に遅れないように気をつけている。",
+        "html": "<ruby>流<rt>りゅう</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れないように<ruby>気<rt>き</rt></ruby>をつけている。",
+        "cn": "我在注意不让自己落后于流行趋势。"
+      },
+      {
+        "jp": "この時計は五分遅れている。",
+        "html": "この<ruby>時<rt>と</rt></ruby><ruby>計<rt>けい</rt></ruby>は<ruby>五<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れている。",
+        "cn": "这个钟慢了五分钟。"
+      }
+    ],
+    "created_at": 1770291944
+  },
+  {
     "id": "haku_1769943499",
     "word": "履く・穿く・佩く・着く",
     "reading": "はく",

@@ -2,7 +2,32 @@
 
 记录动词。
 
-共 **18** 个动词
+共 **19** 个动词
+
+---
+
+## 遅れる
+
+- **读音**：<ruby>遅<rt>おく</rt></ruby>れる（おくれる）
+- **类型**：一段动词
+- **释义**：迟到，耽误；落后，晚于；（钟表）走慢
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>電<rt>でん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れて、<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>に<ruby>遅<rt>ち</rt></ruby><ruby>刻<rt>こく</rt></ruby>した。
+    > <br><small>电车晚点，上班迟到了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>流<rt>りゅう</rt></ruby><ruby>行<rt>こう</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れないように<ruby>気<rt>き</rt></ruby>をつけている。
+    > <br><small>我在注意不让自己落后于流行趋势。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>時<rt>と</rt></ruby><ruby>計<rt>けい</rt></ruby>は<ruby>五<rt>ご</rt></ruby><ruby>分<rt>ふん</rt></ruby><ruby>遅<rt>おく</rt></ruby>れている。
+    > <br><small>这个钟慢了五分钟。</small>
+    > </div>
 
 ---
 
