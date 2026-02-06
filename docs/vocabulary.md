@@ -2,7 +2,137 @@
 
 记录名词、形容词等词汇。
 
-共 **29** 个词汇
+共 **27** 个词汇
+
+---
+
+## 喧嘩
+
+- **读音**：<ruby>喧嘩<rt>けんか</rt></ruby>（けんか）
+- **词性**：名词/サ变动词
+- **释义**：吵架；打架
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>弟<rt>おとうと</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>しました。
+    > <br><small>和弟弟吵架了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>喧嘩<rt>けんか</rt></ruby>はやめてください。
+    > <br><small>请不要打架。</small>
+    > </div>
+
+---
+
+## 今回
+
+- **读音**：<ruby>今回<rt>こんかい</rt></ruby>（こんかい）
+- **词性**：名词
+- **释义**：这次；这回
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>今回<rt>こんかい</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>払<rt>はら</rt></ruby>います。
+    > <br><small>这次由我来付钱。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>今回<rt>こんかい</rt></ruby>のテストは<ruby>簡単<rt>かんたん</rt></ruby>でした。
+    > <br><small>这次的考试很简单。</small>
+    > </div>
+
+---
+
+## 最悪
+
+- **读音**：<ruby>最悪<rt>さいあく</rt></ruby>（さいあく）
+- **词性**：名词/形容动词
+- **释义**：最坏；最恶劣；糟糕透了
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>最悪<rt>さいあく</rt></ruby>です。
+    > <br><small>今天的天气糟糕透了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>最悪<rt>さいあく</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えておこう。
+    > <br><small>先考虑一下最坏的情况吧。</small>
+    > </div>
+
+---
+
+## 遊園地
+
+- **读音**：<ruby>遊園地<rt>ゆうえんち</rt></ruby>（ゆうえんち）
+- **词性**：名词
+- **释义**：游乐园
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>遊園地<rt>ゆうえんち</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きます。
+    > <br><small>周末去游乐园玩。</small>
+    > </div>
+
+---
+
+## 列
+
+- **读音**：<ruby>列<rt>れつ</rt></ruby>（れつ）
+- **词性**：名词
+- **释义**：行列；队伍
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>列<rt>れつ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んで<ruby>待<rt>ま</rt></ruby>ってください。
+    > <br><small>请排队等候。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>い<ruby>列<rt>れつ</rt></ruby>ができています。
+    > <br><small>店门前排起了长队。</small>
+    > </div>
+
+---
+
+## お化け
+
+- **读音**：お<ruby>化<rt>ば</rt></ruby>け（おばけ）
+- **词性**：名词
+- **释义**：妖怪；鬼；幽灵
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>子供<rt>こども</rt></ruby>はお<ruby>化<rt>ば</rt></ruby>けを<ruby>怖<rt>こわ</rt></ruby>がります。
+    > <br><small>孩子害怕妖怪。</small>
+    > </div>
+
+---
+
+## 屋敷
+
+- **读音**：<ruby>屋敷<rt>やしき</rt></ruby>（やしき）
+- **词性**：名词
+- **释义**：宅第；公馆；宅院
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きなお<ruby>屋敷<rt>やしき</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。
+    > <br><small>他住在一座大宅邸里。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>遊園地<rt>ゆうえんち</rt></ruby>でお<ruby>化<rt>ば</rt></ruby>け<ruby>屋敷<rt>やしき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。
+    > <br><small>在游乐园进了鬼屋。</small>
+    > </div>
 
 ---
 
@@ -47,46 +177,6 @@
     > <div class="example-box">
     > そんな<ruby>温<rt>ぬる</rt></ruby>いやり<ruby>方<rt>かた</rt></ruby>では<ruby>成功<rt>せいこう</rt></ruby>しませんよ。
     > <br><small>那种温吞的做法是不会成功的。</small>
-    > </div>
-
----
-
-## 古い
-
-- **读音**：<ruby>古<rt>ふる</rt></ruby>い（ふるい）
-- **词性**：形容词
-- **释义**：旧的，古老的；（思想、做法等）陈旧的，过时的
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>建物<rt>たてもの</rt></ruby>はとても<ruby>古<rt>ふる</rt></ruby>いです。
-    > <br><small>这栋建筑非常古旧。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>古<rt>ふる</rt></ruby>いです。
-    > <br><small>他的想法有点过时。</small>
-    > </div>
-
----
-
-## 広告
-
-- **读音**：<ruby>広告<rt>こうこく</rt></ruby>（こうこく）
-- **词性**：名词
-- **释义**：广告；宣传
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>を<ruby>載<rt>の</rt></ruby>せる。
-    > <br><small>在报纸上刊登广告。</small>
-    > </div>
-
-    > <div class="example-box">
-    > テレビで<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>広告<rt>こうこく</rt></ruby>を<ruby>見<rt>み</rt></ruby>た。
-    > <br><small>在电视上看到了新产品的广告。</small>
     > </div>
 
 ---
@@ -328,56 +418,6 @@
 
 ---
 
-## 涼しい
-
-- **读音**：<ruby>涼<rt>すず</rt></ruby>しい（すずしい）
-- **词性**：形容词
-- **释义**：凉爽的；凉快的；（眼睛）清澈的
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>秋<rt>あき</rt></ruby>になって、<ruby>涼<rt>すず</rt></ruby>しくなりました。
-    > <br><small>到了秋天，变得凉爽了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>外<rt>そと</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。
-    > <br><small>外面正吹着凉爽的风。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしています。
-    > <br><small>她有一双清澈的眼睛。</small>
-    > </div>
-
----
-
-## 注文
-
-- **读音**：<ruby>注文<rt>ちゅうもん</rt></ruby>（ちゅうもん）
-- **词性**：名词
-- **释义**：订单；点菜；订购；要求
-
-- **例句**：
-
-    > <div class="example-box">
-    > コーヒーの<ruby>注文<rt>ちゅうもん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。
-    > <br><small>请帮我点咖啡。</small>
-    > </div>
-
-    > <div class="example-box">
-    > インターネットで<ruby>本<rt>ほん</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しました。
-    > <br><small>我在网上订购了书。</small>
-    > </div>
-
-    > <div class="example-box">
-    > お<ruby>客様<rt>きゃくさま</rt></ruby>からの<ruby>厳<rt>きび</rt></ruby>しい<ruby>注文<rt>ちゅうもん</rt></ruby>に<ruby>応<rt>こた</rt></ruby>える。
-    > <br><small>回应顾客的严格要求。</small>
-    > </div>
-
----
-
 ## 熱
 
 - **读音**：<ruby>熱<rt>ねつ</rt></ruby>（ねつ）
@@ -414,31 +454,6 @@
     > <div class="example-box">
     > <ruby>風邪<rt>かぜ</rt></ruby>が<ruby>流行<rt>はや</rt></ruby>っているので、<ruby>気<rt>き</rt></ruby>をつけてください。
     > <br><small>感冒正在流行，请多加小心。</small>
-    > </div>
-
----
-
-## 客
-
-- **读音**：<ruby>客<rt>きゃく</rt></ruby>（きゃく）
-- **词性**：名词
-- **释义**：客人; 顾客; 乘客
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>客<rt>きゃく</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。
-    > <br><small>今天预计会有很多客人来。</small>
-    > </div>
-
-    > <div class="example-box">
-    > この<ruby>店<rt>みせ</rt></ruby>はいつも<ruby>客<rt>きゃく</rt></ruby>でいっぱいです。
-    > <br><small>这家店总是顾客盈门。</small>
-    > </div>
-
-    > <div class="example-box">
-    > バスの<ruby>中<rt>なか</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>はあまりいませんでした。
-    > <br><small>巴士里乘客不多。</small>
     > </div>
 
 ---
@@ -488,67 +503,6 @@
     > <div class="example-box">
     > そのコンサートを<ruby>生放送<rt>なまほうそう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ました。
     > <br><small>我看了那场演唱会的现场直播。</small>
-    > </div>
-
----
-
-## 湖
-
-- **读音**：<ruby>湖<rt>みずうみ</rt></ruby>（みずうみ）
-- **词性**：名词
-- **释义**：湖泊
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。
-    > <br><small>这个湖泊非常深。</small>
-    > </div>
-
----
-
-## 周り
-
-- **读音**：<ruby>周<rt>まわ</rt></ruby>り（まわり）
-- **词性**：名词
-- **释义**：周围；四周
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>掃除<rt>そうじ</rt></ruby>しました。
-    > <br><small>打扫了房子周围。</small>
-    > </div>
-
-> 📝 **备注**：
-
-> **周り** 和 **辺り**（あたり）、**隣**（となり）的区别：
-> 
-> - 周り 指以某个物体或人为中心，紧贴其外围的一圈。表示**物理上的绕一圈**（池の周りを走る）、**人际关系中的“身边人”**（周りの人）、**大约的数值**（一回り大きい）。
-> 
-> - 辺り 指某个目标附近的模糊区域、地带。范围比 周り **更广、更模糊**，也可用于**时间、程度**的模糊表示（来週あたり）。
-> 
-> - 隣 指紧挨着的隔壁，中间没有其他同类事物。必须是**同类**事物，强调**左右或相邻**的关系。
-> 
-
----
-
-## 大変
-
-- **读音**：<ruby>大変<rt>たいへん</rt></ruby>（たいへん）
-- **词性**：形容動詞; 副詞
-- **释义**：糟糕的; 不得了的; 非常; 很
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>大変<rt>たいへん</rt></ruby>なことになりました。
-    > <br><small>发生了一件不得了的事情。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>昨日<rt>きのう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しかったです。
-    > <br><small>昨天工作非常忙。</small>
     > </div>
 
 ---
@@ -609,26 +563,6 @@
     > <div class="example-box">
     > <ruby>彼<rt>かれ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たいです。
     > <br><small>他最近对我比较冷淡。</small>
-    > </div>
-
----
-
-## 側
-
-- **读音**：<ruby>側<rt>がわ</rt></ruby>（がわ）
-- **词性**：名词
-- **释义**：侧；旁边；（立场等）一方
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>駅<rt>えき</rt></ruby>の<ruby>反対側<rt>はんたいがわ</rt></ruby>にスーパーがあります。
-    > <br><small>车站的另一侧有超市。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。
-    > <br><small>请给我靠窗的座位。</small>
     > </div>
 
 ---

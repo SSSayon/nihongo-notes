@@ -1,5 +1,142 @@
 [
   {
+    "id": "kenka_1770377753",
+    "word": "喧嘩",
+    "reading": "けんか",
+    "display_html": "<ruby>喧嘩<rt>けんか</rt></ruby>",
+    "type": "名词/サ变动词",
+    "meaning": "吵架；打架",
+    "examples": [
+      {
+        "jp": "弟と喧嘩しました。",
+        "html": "<ruby>弟<rt>おとうと</rt></ruby>と<ruby>喧嘩<rt>けんか</rt></ruby>しました。",
+        "cn": "和弟弟吵架了。"
+      },
+      {
+        "jp": "喧嘩はやめてください。",
+        "html": "<ruby>喧嘩<rt>けんか</rt></ruby>はやめてください。",
+        "cn": "请不要打架。"
+      }
+    ],
+    "created_at": 1770377753
+  },
+  {
+    "id": "konkai_1770377753",
+    "word": "今回",
+    "reading": "こんかい",
+    "display_html": "<ruby>今回<rt>こんかい</rt></ruby>",
+    "type": "名词",
+    "meaning": "这次；这回",
+    "examples": [
+      {
+        "jp": "今回は私が払います。",
+        "html": "<ruby>今回<rt>こんかい</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>が<ruby>払<rt>はら</rt></ruby>います。",
+        "cn": "这次由我来付钱。"
+      },
+      {
+        "jp": "今回のテストは簡単でした。",
+        "html": "<ruby>今回<rt>こんかい</rt></ruby>のテストは<ruby>簡単<rt>かんたん</rt></ruby>でした。",
+        "cn": "这次的考试很简单。"
+      }
+    ],
+    "created_at": 1770377753
+  },
+  {
+    "id": "saiaku_1770377753",
+    "word": "最悪",
+    "reading": "さいあく",
+    "display_html": "<ruby>最悪<rt>さいあく</rt></ruby>",
+    "type": "名词/形容动词",
+    "meaning": "最坏；最恶劣；糟糕透了",
+    "examples": [
+      {
+        "jp": "今日の天気は最悪です。",
+        "html": "<ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>最悪<rt>さいあく</rt></ruby>です。",
+        "cn": "今天的天气糟糕透了。"
+      },
+      {
+        "jp": "最悪の場合を考えておこう。",
+        "html": "<ruby>最悪<rt>さいあく</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えておこう。",
+        "cn": "先考虑一下最坏的情况吧。"
+      }
+    ],
+    "created_at": 1770377753
+  },
+  {
+    "id": "yuuenchi_1770377753",
+    "word": "遊園地",
+    "reading": "ゆうえんち",
+    "display_html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>",
+    "type": "名词",
+    "meaning": "游乐园",
+    "examples": [
+      {
+        "jp": "週末に遊園地へ遊びに行きます。",
+        "html": "<ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>遊園地<rt>ゆうえんち</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きます。",
+        "cn": "周末去游乐园玩。"
+      }
+    ],
+    "created_at": 1770377753
+  },
+  {
+    "id": "retsu_1770377753",
+    "word": "列",
+    "reading": "れつ",
+    "display_html": "<ruby>列<rt>れつ</rt></ruby>",
+    "type": "名词",
+    "meaning": "行列；队伍",
+    "examples": [
+      {
+        "jp": "列に並んで待ってください。",
+        "html": "<ruby>列<rt>れつ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>んで<ruby>待<rt>ま</rt></ruby>ってください。",
+        "cn": "请排队等候。"
+      },
+      {
+        "jp": "店の前に長い列ができています。",
+        "html": "<ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>長<rt>なが</rt></ruby>い<ruby>列<rt>れつ</rt></ruby>ができています。",
+        "cn": "店门前排起了长队。"
+      }
+    ],
+    "created_at": 1770377753
+  },
+  {
+    "id": "obake_1770377753",
+    "word": "お化け",
+    "reading": "おばけ",
+    "display_html": "お<ruby>化<rt>ば</rt></ruby>け",
+    "type": "名词",
+    "meaning": "妖怪；鬼；幽灵",
+    "examples": [
+      {
+        "jp": "子供はお化けを怖がります。",
+        "html": "<ruby>子供<rt>こども</rt></ruby>はお<ruby>化<rt>ば</rt></ruby>けを<ruby>怖<rt>こわ</rt></ruby>がります。",
+        "cn": "孩子害怕妖怪。"
+      }
+    ],
+    "created_at": 1770377753
+  },
+  {
+    "id": "yashiki_1770377753",
+    "word": "屋敷",
+    "reading": "やしき",
+    "display_html": "<ruby>屋敷<rt>やしき</rt></ruby>",
+    "type": "名词",
+    "meaning": "宅第；公馆；宅院",
+    "examples": [
+      {
+        "jp": "彼は大きなお屋敷に住んでいます。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きなお<ruby>屋敷<rt>やしき</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。",
+        "cn": "他住在一座大宅邸里。"
+      },
+      {
+        "jp": "遊園地でお化け屋敷に入りました。",
+        "html": "<ruby>遊園地<rt>ゆうえんち</rt></ruby>でお<ruby>化<rt>ば</rt></ruby>け<ruby>屋敷<rt>やしき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りました。",
+        "cn": "在游乐园进了鬼屋。"
+      }
+    ],
+    "created_at": 1770377753
+  },
+  {
     "id": "hoka_1770203226",
     "word": "他",
     "reading": "ほか",
@@ -45,48 +182,6 @@
       }
     ],
     "created_at": 1770118819
-  },
-  {
-    "id": "furui_1770118819",
-    "word": "古い",
-    "reading": "ふるい",
-    "display_html": "<ruby>古<rt>ふる</rt></ruby>い",
-    "type": "形容词",
-    "meaning": "旧的，古老的；（思想、做法等）陈旧的，过时的",
-    "examples": [
-      {
-        "jp": "この建物はとても古いです。",
-        "html": "この<ruby>建物<rt>たてもの</rt></ruby>はとても<ruby>古<rt>ふる</rt></ruby>いです。",
-        "cn": "这栋建筑非常古旧。"
-      },
-      {
-        "jp": "彼の考え方は少し古いです。",
-        "html": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>は<ruby>少<rt>すこ</rt></ruby>し<ruby>古<rt>ふる</rt></ruby>いです。",
-        "cn": "他的想法有点过时。"
-      }
-    ],
-    "created_at": 1770118819
-  },
-  {
-    "id": "koukoku_1770032316",
-    "word": "広告",
-    "reading": "こうこく",
-    "display_html": "<ruby>広告<rt>こうこく</rt></ruby>",
-    "type": "名词",
-    "meaning": "广告；宣传",
-    "examples": [
-      {
-        "jp": "新聞に広告を載せる。",
-        "html": "<ruby>新聞<rt>しんぶん</rt></ruby>に<ruby>広告<rt>こうこく</rt></ruby>を<ruby>載<rt>の</rt></ruby>せる。",
-        "cn": "在报纸上刊登广告。"
-      },
-      {
-        "jp": "テレビで新商品の広告を見た。",
-        "html": "テレビで<ruby>新商品<rt>しんしょうひん</rt></ruby>の<ruby>広告<rt>こうこく</rt></ruby>を<ruby>見<rt>み</rt></ruby>た。",
-        "cn": "在电视上看到了新产品的广告。"
-      }
-    ],
-    "created_at": 1770032316
   },
   {
     "id": "usui_1770032316",
@@ -331,58 +426,6 @@
     "created_at": 1769518084
   },
   {
-    "id": "suzushii_1769518084",
-    "word": "涼しい",
-    "reading": "すずしい",
-    "display_html": "<ruby>涼<rt>すず</rt></ruby>しい",
-    "type": "形容词",
-    "meaning": "凉爽的；凉快的；（眼睛）清澈的",
-    "examples": [
-      {
-        "jp": "秋になって、涼しくなりました。",
-        "html": "<ruby>秋<rt>あき</rt></ruby>になって、<ruby>涼<rt>すず</rt></ruby>しくなりました。",
-        "cn": "到了秋天，变得凉爽了。"
-      },
-      {
-        "jp": "外は涼しい風が吹いています。",
-        "html": "<ruby>外<rt>そと</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>いています。",
-        "cn": "外面正吹着凉爽的风。"
-      },
-      {
-        "jp": "彼女は涼しい目をしています。",
-        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しい<ruby>目<rt>め</rt></ruby>をしています。",
-        "cn": "她有一双清澈的眼睛。"
-      }
-    ],
-    "created_at": 1769518084
-  },
-  {
-    "id": "chuumon_1769438873",
-    "word": "注文",
-    "reading": "ちゅうもん",
-    "display_html": "<ruby>注文<rt>ちゅうもん</rt></ruby>",
-    "type": "名词",
-    "meaning": "订单；点菜；订购；要求",
-    "examples": [
-      {
-        "jp": "コーヒーの注文をお願いします。",
-        "html": "コーヒーの<ruby>注文<rt>ちゅうもん</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。",
-        "cn": "请帮我点咖啡。"
-      },
-      {
-        "jp": "インターネットで本を注文しました。",
-        "html": "インターネットで<ruby>本<rt>ほん</rt></ruby>を<ruby>注文<rt>ちゅうもん</rt></ruby>しました。",
-        "cn": "我在网上订购了书。"
-      },
-      {
-        "jp": "お客様からの厳しい注文に応える。",
-        "html": "お<ruby>客様<rt>きゃくさま</rt></ruby>からの<ruby>厳<rt>きび</rt></ruby>しい<ruby>注文<rt>ちゅうもん</rt></ruby>に<ruby>応<rt>こた</rt></ruby>える。",
-        "cn": "回应顾客的严格要求。"
-      }
-    ],
-    "created_at": 1769438873
-  },
-  {
     "id": "netsu_1769341417",
     "word": "熱",
     "reading": "ねつ",
@@ -423,32 +466,6 @@
       }
     ],
     "created_at": 1769341417
-  },
-  {
-    "id": "kyakku_1769178847",
-    "word": "客",
-    "reading": "きゃく",
-    "display_html": "<ruby>客<rt>きゃく</rt></ruby>",
-    "type": "名词",
-    "meaning": "客人; 顾客; 乘客",
-    "examples": [
-      {
-        "jp": "今日はたくさん客が来る予定です。",
-        "html": "<ruby>今日<rt>きょう</rt></ruby>はたくさん<ruby>客<rt>きゃく</rt></ruby>が<ruby>来<rt>く</rt></ruby>る<ruby>予定<rt>よてい</rt></ruby>です。",
-        "cn": "今天预计会有很多客人来。"
-      },
-      {
-        "jp": "この店はいつも客でいっぱいです。",
-        "html": "この<ruby>店<rt>みせ</rt></ruby>はいつも<ruby>客<rt>きゃく</rt></ruby>でいっぱいです。",
-        "cn": "这家店总是顾客盈门。"
-      },
-      {
-        "jp": "バスの中に客はあまりいませんでした。",
-        "html": "バスの<ruby>中<rt>なか</rt></ruby>に<ruby>客<rt>きゃく</rt></ruby>はあまりいませんでした。",
-        "cn": "巴士里乘客不多。"
-      }
-    ],
-    "created_at": 1769178847
   },
   {
     "id": "kanarazu_1769178847",
@@ -492,60 +509,6 @@
       }
     ],
     "created_at": 1769089247
-  },
-  {
-    "id": "mizuumi_1768920075",
-    "word": "湖",
-    "reading": "みずうみ",
-    "display_html": "<ruby>湖<rt>みずうみ</rt></ruby>",
-    "type": "名词",
-    "meaning": "湖泊",
-    "examples": [
-      {
-        "jp": "この湖はとても深いです。",
-        "html": "この<ruby>湖<rt>みずうみ</rt></ruby>はとても<ruby>深<rt>ふか</rt></ruby>いです。",
-        "cn": "这个湖泊非常深。"
-      }
-    ],
-    "created_at": 1768920075
-  },
-  {
-    "id": "mawari_1768920075",
-    "word": "周り",
-    "reading": "まわり",
-    "display_html": "<ruby>周<rt>まわ</rt></ruby>り",
-    "type": "名词",
-    "meaning": "周围；四周",
-    "examples": [
-      {
-        "jp": "家の周りを掃除しました。",
-        "html": "<ruby>家<rt>いえ</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りを<ruby>掃除<rt>そうじ</rt></ruby>しました。",
-        "cn": "打扫了房子周围。"
-      }
-    ],
-    "created_at": 1768920075,
-    "notes": "**周り** 和 **辺り**（あたり）、**隣**（となり）的区别：\n- 周り 指以某个物体或人为中心，紧贴其外围的一圈。表示**物理上的绕一圈**（池の周りを走る）、**人际关系中的“身边人”**（周りの人）、**大约的数值**（一回り大きい）。\n- 辺り 指某个目标附近的模糊区域、地带。范围比 周り **更广、更模糊**，也可用于**时间、程度**的模糊表示（来週あたり）。\n- 隣 指紧挨着的隔壁，中间没有其他同类事物。必须是**同类**事物，强调**左右或相邻**的关系。"
-  },
-  {
-    "id": "taihen_1768742622",
-    "word": "大変",
-    "reading": "たいへん",
-    "display_html": "<ruby>大変<rt>たいへん</rt></ruby>",
-    "type": "形容動詞; 副詞",
-    "meaning": "糟糕的; 不得了的; 非常; 很",
-    "examples": [
-      {
-        "jp": "大変なことになりました。",
-        "html": "<ruby>大変<rt>たいへん</rt></ruby>なことになりました。",
-        "cn": "发生了一件不得了的事情。"
-      },
-      {
-        "jp": "昨日は仕事が大変忙しかったです。",
-        "html": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>が<ruby>大変<rt>たいへん</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しかったです。",
-        "cn": "昨天工作非常忙。"
-      }
-    ],
-    "created_at": 1768742622
   },
   {
     "id": "minato_1768564056",
@@ -609,26 +572,5 @@
       }
     ],
     "created_at": 1768398021
-  },
-  {
-    "id": "gawa_1768226985",
-    "word": "側",
-    "reading": "がわ",
-    "display_html": "<ruby>側<rt>がわ</rt></ruby>",
-    "type": "名词",
-    "meaning": "侧；旁边；（立场等）一方",
-    "examples": [
-      {
-        "jp": "駅の反対側にスーパーがあります。",
-        "html": "<ruby>駅<rt>えき</rt></ruby>の<ruby>反対側<rt>はんたいがわ</rt></ruby>にスーパーがあります。",
-        "cn": "车站的另一侧有超市。"
-      },
-      {
-        "jp": "窓側の席をお願いします。",
-        "html": "<ruby>窓側<rt>まどがわ</rt></ruby>の<ruby>席<rt>せき</rt></ruby>をお<ruby>願<rt>ねが</rt></ruby>いします。",
-        "cn": "请给我靠窗的座位。"
-      }
-    ],
-    "created_at": 1768226985
   }
 ]
