@@ -1,5 +1,47 @@
 [
   {
+    "id": "matsu_1770378825",
+    "word": "待つ",
+    "reading": "まつ",
+    "display_html": "<ruby>待<rt>ま</rt></ruby>つ",
+    "type": "五段动词",
+    "meaning": "等待；期待",
+    "examples": [
+      {
+        "jp": "駅で友達を待っています。",
+        "html": "<ruby>駅<rt>えき</rt></ruby>で<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。",
+        "cn": "在车站等朋友。"
+      },
+      {
+        "jp": "返事を待っています。",
+        "html": "<ruby>返<rt>へん</rt></ruby><ruby>事<rt>じ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。",
+        "cn": "在等回信。"
+      }
+    ],
+    "created_at": 1770378825
+  },
+  {
+    "id": "komu_1770378825",
+    "word": "込む",
+    "reading": "こむ",
+    "display_html": "<ruby>込<rt>こ</rt></ruby>む",
+    "type": "五段动词",
+    "meaning": "拥挤；混杂",
+    "examples": [
+      {
+        "jp": "電車がとても込んでいます。",
+        "html": "<ruby>電<rt>でん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>がとても<ruby>込<rt>こ</rt></ruby>んでいます。",
+        "cn": "电车非常挤。"
+      },
+      {
+        "jp": "道が込んでいるので、遅れました。",
+        "html": "<ruby>道<rt>みち</rt></ruby>が<ruby>込<rt>こ</rt></ruby>んでいるので、<ruby>遅<rt>おく</rt></ruby>れました。",
+        "cn": "因为路很堵（拥挤），所以迟到了。"
+      }
+    ],
+    "created_at": 1770378825
+  },
+  {
     "id": "okureru_1770291944",
     "word": "遅れる",
     "reading": "おくれる",
@@ -78,32 +120,6 @@
         "jp": "来週、会議のために時間を空けておいてください。",
         "html": "<ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>のために<ruby>時間<rt>じかん</rt></ruby>を<ruby>空<rt>あ</rt></ruby>けておいてください。",
         "cn": "下周请为会议空出时间。"
-      }
-    ],
-    "created_at": 1769438781
-  },
-  {
-    "id": "shiru_1769438781",
-    "word": "知る",
-    "reading": "しる",
-    "display_html": "<ruby>知<rt>し</rt></ruby>る",
-    "type": "五段动词",
-    "meaning": "知道；了解；认识",
-    "examples": [
-      {
-        "jp": "そのニュースはもう知っていますか？",
-        "html": "そのニュースはもう<ruby>知<rt>し</rt></ruby>っていますか？",
-        "cn": "那个新闻你已经知道了吗？"
-      },
-      {
-        "jp": "私は彼の本当の気持ちを知りたいです。",
-        "html": "<ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>知<rt>し</rt></ruby>りたいです。",
-        "cn": "我想知道他真正的感受。"
-      },
-      {
-        "jp": "あなたは彼を知っていますか？",
-        "html": "あなたは<ruby>彼<rt>かれ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていますか？",
-        "cn": "你认识他吗？"
       }
     ],
     "created_at": 1769438781
@@ -345,100 +361,6 @@
     "created_at": 1767876253
   },
   {
-    "id": "hikaru_1767698410",
-    "word": "光る",
-    "reading": "ひかる",
-    "display_html": "<ruby>光<rt>ひか</rt></ruby>る",
-    "type": "五段动词",
-    "meaning": "发光，闪烁；闪耀；出众，显眼",
-    "examples": [
-      {
-        "jp": "夜空に星が光っています。",
-        "html": "<ruby>夜空<rt>よぞら</rt></ruby>に<ruby>星<rt>ほし</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っています。",
-        "cn": "星星在夜空中闪烁。"
-      },
-      {
-        "jp": "磨いたばかりの床が光っている。",
-        "html": "<ruby>磨<rt>みが</rt></ruby>いたばかりの<ruby>床<rt>ゆか</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っている。",
-        "cn": "刚擦过的地板闪闪发亮。"
-      },
-      {
-        "jp": "彼の演技は群を抜いて光っている。",
-        "html": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>は<ruby>群<rt>ぐん</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>いて<ruby>光<rt>ひか</rt></ruby>っている。",
-        "cn": "他的演技出类拔萃，非常夺目。"
-      }
-    ],
-    "created_at": 1767698410
-  },
-  {
-    "id": "suwaru_1767363282",
-    "word": "座る",
-    "reading": "すわる",
-    "display_html": "<ruby>座<rt>すわ</rt></ruby>る",
-    "type": "五段动词",
-    "meaning": "坐；就座",
-    "examples": [
-      {
-        "jp": "ここに座ってもいいですか？",
-        "html": "ここに<ruby>座<rt>すわ</rt></ruby>ってもいいですか？",
-        "cn": "我可以坐在这里吗？"
-      },
-      {
-        "jp": "椅子に座って待ってください。",
-        "html": "<ruby>椅<rt>い</rt></ruby><ruby>子<rt>し</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って<ruby>待<rt>ま</rt></ruby>ってください。",
-        "cn": "请坐在椅子上稍等。"
-      }
-    ],
-    "created_at": 1767363282
-  },
-  {
-    "id": "okoru_1767273287",
-    "word": "怒る",
-    "reading": "おこる",
-    "display_html": "<ruby>怒<rt>おこ</rt></ruby>る",
-    "type": "五段动词",
-    "meaning": "生气；训斥，责备",
-    "examples": [
-      {
-        "jp": "そんなに怒らないでください。",
-        "html": "そんなに<ruby>怒<rt>おこ</rt></ruby>らないでください。",
-        "cn": "请不要那么生气。"
-      },
-      {
-        "jp": "約束を破って、彼女を怒らせてしまった。",
-        "html": "<ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>って、<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>を<ruby>怒<rt>おこ</rt></ruby>らせてしまった。",
-        "cn": "因为违背了约定，惹女朋友生气了。"
-      },
-      {
-        "jp": "テストの点数が悪くて、父に怒られた。",
-        "html": "テストの<ruby>点<rt>てん</rt></ruby><ruby>数<rt>すう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、<ruby>父<rt>ちち</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>られた。",
-        "cn": "因为考试分数太低，被父亲训斥了。"
-      }
-    ],
-    "created_at": 1767273287
-  },
-  {
-    "id": "yameru_1767191397",
-    "word": "辞める",
-    "reading": "やめる",
-    "display_html": "<ruby>辞<rt>や</rt></ruby>める",
-    "type": "一段动词",
-    "meaning": "辞去；辞职",
-    "examples": [
-      {
-        "jp": "会社を辞めることにしました。",
-        "html": "<ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めることにしました。",
-        "cn": "我决定辞职了。"
-      },
-      {
-        "jp": "彼は先月、仕事を辞めました。",
-        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>先<rt>せん</rt></ruby><ruby>月<rt>げつ</rt></ruby>、<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めました。",
-        "cn": "他上个月辞掉了工作。"
-      }
-    ],
-    "created_at": 1767191397
-  },
-  {
     "id": "narabu_1767100155",
     "word": "並ぶ",
     "reading": "ならぶ",
@@ -458,22 +380,5 @@
       }
     ],
     "created_at": 1767100155
-  },
-  {
-    "id": "tsukareru_1766728657",
-    "word": "疲れる",
-    "reading": "つかれる",
-    "display_html": "<ruby>疲<rt>つか</rt></ruby>れる",
-    "type": "一段动词",
-    "meaning": "疲惫，疲劳",
-    "examples": [
-      {
-        "jp": "一日中歩いて疲れました。",
-        "html": "<ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れました。",
-        "cn": "走了一整天，累了。"
-      }
-    ],
-    "created_at": 1766728657,
-    "notes": ""
   }
 ]

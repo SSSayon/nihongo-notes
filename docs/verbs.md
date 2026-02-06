@@ -2,7 +2,47 @@
 
 记录动词。
 
-共 **19** 个动词
+共 **15** 个动词
+
+---
+
+## 待つ
+
+- **读音**：<ruby>待<rt>ま</rt></ruby>つ（まつ）
+- **类型**：五段动词
+- **释义**：等待；期待
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>駅<rt>えき</rt></ruby>で<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。
+    > <br><small>在车站等朋友。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>返<rt>へん</rt></ruby><ruby>事<rt>じ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。
+    > <br><small>在等回信。</small>
+    > </div>
+
+---
+
+## 込む
+
+- **读音**：<ruby>込<rt>こ</rt></ruby>む（こむ）
+- **类型**：五段动词
+- **释义**：拥挤；混杂
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>電<rt>でん</rt></ruby><ruby>車<rt>しゃ</rt></ruby>がとても<ruby>込<rt>こ</rt></ruby>んでいます。
+    > <br><small>电车非常挤。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>道<rt>みち</rt></ruby>が<ruby>込<rt>こ</rt></ruby>んでいるので、<ruby>遅<rt>おく</rt></ruby>れました。
+    > <br><small>因为路很堵（拥挤），所以迟到了。</small>
+    > </div>
 
 ---
 
@@ -82,31 +122,6 @@
     > <div class="example-box">
     > <ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>会議<rt>かいぎ</rt></ruby>のために<ruby>時間<rt>じかん</rt></ruby>を<ruby>空<rt>あ</rt></ruby>けておいてください。
     > <br><small>下周请为会议空出时间。</small>
-    > </div>
-
----
-
-## 知る
-
-- **读音**：<ruby>知<rt>し</rt></ruby>る（しる）
-- **类型**：五段动词
-- **释义**：知道；了解；认识
-
-- **例句**：
-
-    > <div class="example-box">
-    > そのニュースはもう<ruby>知<rt>し</rt></ruby>っていますか？
-    > <br><small>那个新闻你已经知道了吗？</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>私<rt>わたし</rt></ruby>は<ruby>彼<rt>かれ</rt></ruby>の<ruby>本当<rt>ほんとう</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>知<rt>し</rt></ruby>りたいです。
-    > <br><small>我想知道他真正的感受。</small>
-    > </div>
-
-    > <div class="example-box">
-    > あなたは<ruby>彼<rt>かれ</rt></ruby>を<ruby>知<rt>し</rt></ruby>っていますか？
-    > <br><small>你认识他吗？</small>
     > </div>
 
 ---
@@ -354,96 +369,6 @@
 
 ---
 
-## 光る
-
-- **读音**：<ruby>光<rt>ひか</rt></ruby>る（ひかる）
-- **类型**：五段动词
-- **释义**：发光，闪烁；闪耀；出众，显眼
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>夜空<rt>よぞら</rt></ruby>に<ruby>星<rt>ほし</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っています。
-    > <br><small>星星在夜空中闪烁。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>磨<rt>みが</rt></ruby>いたばかりの<ruby>床<rt>ゆか</rt></ruby>が<ruby>光<rt>ひか</rt></ruby>っている。
-    > <br><small>刚擦过的地板闪闪发亮。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>は<ruby>群<rt>ぐん</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>いて<ruby>光<rt>ひか</rt></ruby>っている。
-    > <br><small>他的演技出类拔萃，非常夺目。</small>
-    > </div>
-
----
-
-## 座る
-
-- **读音**：<ruby>座<rt>すわ</rt></ruby>る（すわる）
-- **类型**：五段动词
-- **释义**：坐；就座
-
-- **例句**：
-
-    > <div class="example-box">
-    > ここに<ruby>座<rt>すわ</rt></ruby>ってもいいですか？
-    > <br><small>我可以坐在这里吗？</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>椅<rt>い</rt></ruby><ruby>子<rt>し</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って<ruby>待<rt>ま</rt></ruby>ってください。
-    > <br><small>请坐在椅子上稍等。</small>
-    > </div>
-
----
-
-## 怒る
-
-- **读音**：<ruby>怒<rt>おこ</rt></ruby>る（おこる）
-- **类型**：五段动词
-- **释义**：生气；训斥，责备
-
-- **例句**：
-
-    > <div class="example-box">
-    > そんなに<ruby>怒<rt>おこ</rt></ruby>らないでください。
-    > <br><small>请不要那么生气。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>約<rt>やく</rt></ruby><ruby>束<rt>そく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>って、<ruby>彼<rt>かの</rt></ruby><ruby>女<rt>じょ</rt></ruby>を<ruby>怒<rt>おこ</rt></ruby>らせてしまった。
-    > <br><small>因为违背了约定，惹女朋友生气了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > テストの<ruby>点<rt>てん</rt></ruby><ruby>数<rt>すう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くて、<ruby>父<rt>ちち</rt></ruby>に<ruby>怒<rt>おこ</rt></ruby>られた。
-    > <br><small>因为考试分数太低，被父亲训斥了。</small>
-    > </div>
-
----
-
-## 辞める
-
-- **读音**：<ruby>辞<rt>や</rt></ruby>める（やめる）
-- **类型**：一段动词
-- **释义**：辞去；辞职
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>会<rt>かい</rt></ruby><ruby>社<rt>しゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めることにしました。
-    > <br><small>我决定辞职了。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>先<rt>せん</rt></ruby><ruby>月<rt>げつ</rt></ruby>、<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めました。
-    > <br><small>他上个月辞掉了工作。</small>
-    > </div>
-
----
-
 ## 並ぶ
 
 - **读音**：<ruby>並<rt>なら</rt></ruby>ぶ（ならぶ）
@@ -460,21 +385,6 @@
     > <div class="example-box">
     > <ruby>店<rt>みせ</rt></ruby>には<ruby>新<rt>あたら</rt></ruby>しい<ruby>商品<rt>しょうひん</rt></ruby>が<ruby>並<rt>なら</rt></ruby>んでいます。
     > <br><small>店里陈列着新商品。</small>
-    > </div>
-
----
-
-## 疲れる
-
-- **读音**：<ruby>疲<rt>つか</rt></ruby>れる（つかれる）
-- **类型**：一段动词
-- **释义**：疲惫，疲劳
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>一<rt>いち</rt></ruby><ruby>日<rt>にち</rt></ruby><ruby>中<rt>じゅう</rt></ruby><ruby>歩<rt>ある</rt></ruby>いて<ruby>疲<rt>つか</rt></ruby>れました。
-    > <br><small>走了一整天，累了。</small>
     > </div>
 
 ---
