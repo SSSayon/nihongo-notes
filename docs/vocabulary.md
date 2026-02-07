@@ -2,7 +2,87 @@
 
 记录名词、形容词等词汇。
 
-共 **27** 个词汇
+共 **31** 个词汇
+
+---
+
+## 演技
+
+- **读音**：<ruby>演技<rt>えんぎ</rt></ruby>（えんぎ）
+- **词性**：名词/自他动词
+- **释义**：演技；表演
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>はとても<ruby>自然<rt>しぜん</rt></ruby>です。
+    > <br><small>她的演技非常自然。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>俳優<rt>はいゆう</rt></ruby>が<ruby>迫真<rt>はくしん</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せた。
+    > <br><small>演员展现了逼真的演技。</small>
+    > </div>
+
+---
+
+## 床
+
+- **读音**：<ruby>床<rt>ゆか</rt></ruby>（ゆか）
+- **词性**：名词
+- **释义**：地板；地面
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>床<rt>ゆか</rt></ruby>をきれいに<ruby>拭<rt>ふ</rt></ruby>きました。
+    > <br><small>把地板擦得很干净。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>冷<rt>つめ</rt></ruby>たい<ruby>床<rt>ゆか</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>座<rt>すわ</rt></ruby>る。
+    > <br><small>直接坐在冰冷的地板上。</small>
+    > </div>
+
+---
+
+## 硬い
+
+- **读音**：<ruby>硬<rt>かた</rt></ruby>い（かたい）
+- **词性**：形容词
+- **释义**：硬的，坚硬的；（表情、文章等）生硬、死板
+
+- **例句**：
+
+    > <div class="example-box">
+    > この<ruby>肉<rt>にく</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>くて<ruby>噛<rt>か</rt></ruby>めない。
+    > <br><small>这肉太硬了，咬不动。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>緊張<rt>きんちょう</rt></ruby>して<ruby>表情<rt>ひょうじょう</rt></ruby>が<ruby>硬<rt>かた</rt></ruby>い。
+    > <br><small>因为紧张，表情很僵硬。</small>
+    > </div>
+
+---
+
+## だけ
+
+- **读音**：だけ（だけ）
+- **词性**：助词
+- **释义**：只，仅仅；尽量，尽可能
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>五分<rt>ごふん</rt></ruby>だけ<ruby>待<rt>ま</rt></ruby>ってください。
+    > <br><small>请只等五分钟。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>好<rt>す</rt></ruby>きなだけ<ruby>食<rt>た</rt></ruby>べていいですよ。
+    > <br><small>想吃多少就吃多少（吃个够）。</small>
+    > </div>
 
 ---
 

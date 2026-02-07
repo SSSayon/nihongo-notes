@@ -1,5 +1,89 @@
 [
   {
+    "id": "engi_1770461663",
+    "word": "演技",
+    "reading": "えんぎ",
+    "display_html": "<ruby>演技<rt>えんぎ</rt></ruby>",
+    "type": "名词/自他动词",
+    "meaning": "演技；表演",
+    "examples": [
+      {
+        "jp": "彼女の演技はとても自然です。",
+        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>はとても<ruby>自然<rt>しぜん</rt></ruby>です。",
+        "cn": "她的演技非常自然。"
+      },
+      {
+        "jp": "俳優が迫真の演技を見せた。",
+        "html": "<ruby>俳優<rt>はいゆう</rt></ruby>が<ruby>迫真<rt>はくしん</rt></ruby>の<ruby>演技<rt>えんぎ</rt></ruby>を<ruby>見<rt>み</rt></ruby>せた。",
+        "cn": "演员展现了逼真的演技。"
+      }
+    ],
+    "created_at": 1770461663
+  },
+  {
+    "id": "yuka_1770461663",
+    "word": "床",
+    "reading": "ゆか",
+    "display_html": "<ruby>床<rt>ゆか</rt></ruby>",
+    "type": "名词",
+    "meaning": "地板；地面",
+    "examples": [
+      {
+        "jp": "床をきれいに拭きました。",
+        "html": "<ruby>床<rt>ゆか</rt></ruby>をきれいに<ruby>拭<rt>ふ</rt></ruby>きました。",
+        "cn": "把地板擦得很干净。"
+      },
+      {
+        "jp": "冷たい床に直接座る。",
+        "html": "<ruby>冷<rt>つめ</rt></ruby>たい<ruby>床<rt>ゆか</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>座<rt>すわ</rt></ruby>る。",
+        "cn": "直接坐在冰冷的地板上。"
+      }
+    ],
+    "created_at": 1770461663
+  },
+  {
+    "id": "katai_1770461663",
+    "word": "硬い",
+    "reading": "かたい",
+    "display_html": "<ruby>硬<rt>かた</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "硬的，坚硬的；（表情、文章等）生硬、死板",
+    "examples": [
+      {
+        "jp": "この肉は硬くて噛めない。",
+        "html": "この<ruby>肉<rt>にく</rt></ruby>は<ruby>硬<rt>かた</rt></ruby>くて<ruby>噛<rt>か</rt></ruby>めない。",
+        "cn": "这肉太硬了，咬不动。"
+      },
+      {
+        "jp": "緊張して表情が硬い。",
+        "html": "<ruby>緊張<rt>きんちょう</rt></ruby>して<ruby>表情<rt>ひょうじょう</rt></ruby>が<ruby>硬<rt>かた</rt></ruby>い。",
+        "cn": "因为紧张，表情很僵硬。"
+      }
+    ],
+    "created_at": 1770461663
+  },
+  {
+    "id": "dake_1770461663",
+    "word": "だけ",
+    "reading": "だけ",
+    "display_html": "だけ",
+    "type": "助词",
+    "meaning": "只，仅仅；尽量，尽可能",
+    "examples": [
+      {
+        "jp": "五分だけ待ってください。",
+        "html": "<ruby>五分<rt>ごふん</rt></ruby>だけ<ruby>待<rt>ま</rt></ruby>ってください。",
+        "cn": "请只等五分钟。"
+      },
+      {
+        "jp": "好きなだけ食べていいですよ。",
+        "html": "<ruby>好<rt>す</rt></ruby>きなだけ<ruby>食<rt>た</rt></ruby>べていいですよ。",
+        "cn": "想吃多少就吃多少（吃个够）。"
+      }
+    ],
+    "created_at": 1770461663
+  },
+  {
     "id": "kenka_1770377753",
     "word": "喧嘩",
     "reading": "けんか",
