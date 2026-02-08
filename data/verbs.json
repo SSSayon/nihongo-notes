@@ -1,5 +1,26 @@
 [
   {
+    "id": "wakareru_1770551666",
+    "word": "別れる",
+    "reading": "わかれる",
+    "display_html": "<ruby>別<rt>わか</rt></ruby>れる",
+    "type": "一段动词",
+    "meaning": "分开；离别；分手",
+    "examples": [
+      {
+        "jp": "彼は来月、家族と別れて単身赴任する。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>別<rt>わか</rt></ruby>れて<ruby>単身赴任<rt>たんしんふにん</rt></ruby>する。",
+        "cn": "他下个月要和家人分开，独自一人去赴任。"
+      },
+      {
+        "jp": "彼女と別れるのは辛い。",
+        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>と<ruby>別<rt>わか</rt></ruby>れるのは<ruby>辛<rt>つら</rt></ruby>い。",
+        "cn": "和她分手很痛苦。"
+      }
+    ],
+    "created_at": 1770551666
+  },
+  {
     "id": "matsu_1770378825",
     "word": "待つ",
     "reading": "まつ",

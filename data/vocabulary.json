@@ -1,5 +1,31 @@
 [
   {
+    "id": "zannen_1770551881",
+    "word": "残念",
+    "reading": "ざんねん",
+    "display_html": "<ruby>残念<rt>ざんねん</rt></ruby>",
+    "type": "形容动词",
+    "meaning": "遗憾；可惜；懊悔",
+    "examples": [
+      {
+        "jp": "行けなくて残念です。",
+        "html": "<ruby>行<rt>い</rt></ruby>けなくて<ruby>残念<rt>ざんねん</rt></ruby>です。",
+        "cn": "很遗憾不能去。"
+      },
+      {
+        "jp": "試合に負けて、とても残念だ。",
+        "html": "<ruby>試合<rt>しあい</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けて、とても<ruby>残念<rt>ざんねん</rt></ruby>だ。",
+        "cn": "比赛输了，感到非常遗憾。"
+      },
+      {
+        "jp": "それは残念な結果になりました。",
+        "html": "それは<ruby>残念<rt>ざんねん</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>になりました。",
+        "cn": "那是（一个）令人遗憾的结果。"
+      }
+    ],
+    "created_at": 1770551881
+  },
+  {
     "id": "engi_1770461663",
     "word": "演技",
     "reading": "えんぎ",
@@ -510,48 +536,6 @@
     "created_at": 1769518084
   },
   {
-    "id": "netsu_1769341417",
-    "word": "熱",
-    "reading": "ねつ",
-    "display_html": "<ruby>熱<rt>ねつ</rt></ruby>",
-    "type": "名词",
-    "meaning": "发烧；热度；热情",
-    "examples": [
-      {
-        "jp": "熱があるので、今日は早く寝ます。",
-        "html": "<ruby>熱<rt>ねつ</rt></ruby>があるので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。",
-        "cn": "因为发烧了，今天早点睡觉。"
-      },
-      {
-        "jp": "スープの熱が冷めないうちに飲んでください。",
-        "html": "スープの<ruby>熱<rt>ねつ</rt></ruby>が<ruby>冷<rt>さ</rt></ruby>めないうちに<ruby>飲<rt>の</rt></ruby>んでください。",
-        "cn": "请趁汤还没凉的时候喝掉。"
-      }
-    ],
-    "created_at": 1769341417
-  },
-  {
-    "id": "kaze_1769341417",
-    "word": "風邪",
-    "reading": "かぜ",
-    "display_html": "<ruby>風邪<rt>かぜ</rt></ruby>",
-    "type": "名词",
-    "meaning": "感冒",
-    "examples": [
-      {
-        "jp": "風邪をひいて、喉が痛いです。",
-        "html": "<ruby>風邪<rt>かぜ</rt></ruby>をひいて、<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。",
-        "cn": "得了感冒，喉咙很痛。"
-      },
-      {
-        "jp": "風邪が流行っているので、気をつけてください。",
-        "html": "<ruby>風邪<rt>かぜ</rt></ruby>が<ruby>流行<rt>はや</rt></ruby>っているので、<ruby>気<rt>き</rt></ruby>をつけてください。",
-        "cn": "感冒正在流行，请多加小心。"
-      }
-    ],
-    "created_at": 1769341417
-  },
-  {
     "id": "kanarazu_1769178847",
     "word": "必ず",
     "reading": "かならず",
@@ -593,48 +577,6 @@
       }
     ],
     "created_at": 1769089247
-  },
-  {
-    "id": "minato_1768564056",
-    "word": "港",
-    "reading": "みなと",
-    "display_html": "<ruby>港<rt>みなと</rt></ruby>",
-    "type": "名词",
-    "meaning": "港口；港湾",
-    "examples": [
-      {
-        "jp": "船が港に到着しました。",
-        "html": "<ruby>船<rt>ふね</rt></ruby>が<ruby>港<rt>みなと</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。",
-        "cn": "船到达了港口。"
-      },
-      {
-        "jp": "横浜は有名な港町です。",
-        "html": "<ruby>横浜<rt>よこはま</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>港町<rt>みなとまち</rt></ruby>です。",
-        "cn": "横滨是著名的港口城市。"
-      }
-    ],
-    "created_at": 1768564056
-  },
-  {
-    "id": "fune_1768564056",
-    "word": "船",
-    "reading": "ふね",
-    "display_html": "<ruby>船<rt>ふね</rt></ruby>",
-    "type": "名词",
-    "meaning": "船；舰艇",
-    "examples": [
-      {
-        "jp": "船で島へ渡ります。",
-        "html": "<ruby>船<rt>ふね</rt></ruby>で<ruby>島<rt>しま</rt></ruby>へ<ruby>渡<rt>わた</rt></ruby>ります。",
-        "cn": "乘船过岛。"
-      },
-      {
-        "jp": "大きな船が海を渡っています。",
-        "html": "<ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>っています。",
-        "cn": "大船正在横渡大海。"
-      }
-    ],
-    "created_at": 1768564056
   },
   {
     "id": "tsumetai_1768398021",

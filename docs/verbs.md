@@ -2,7 +2,27 @@
 
 记录动词。
 
-共 **15** 个动词
+共 **16** 个动词
+
+---
+
+## 別れる
+
+- **读音**：<ruby>別<rt>わか</rt></ruby>れる（わかれる）
+- **类型**：一段动词
+- **释义**：分开；离别；分手
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>別<rt>わか</rt></ruby>れて<ruby>単身赴任<rt>たんしんふにん</rt></ruby>する。
+    > <br><small>他下个月要和家人分开，独自一人去赴任。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>と<ruby>別<rt>わか</rt></ruby>れるのは<ruby>辛<rt>つら</rt></ruby>い。
+    > <br><small>和她分手很痛苦。</small>
+    > </div>
 
 ---
 

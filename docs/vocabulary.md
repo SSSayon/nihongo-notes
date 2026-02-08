@@ -2,7 +2,32 @@
 
 记录名词、形容词等词汇。
 
-共 **31** 个词汇
+共 **28** 个词汇
+
+---
+
+## 残念
+
+- **读音**：<ruby>残念<rt>ざんねん</rt></ruby>（ざんねん）
+- **词性**：形容动词
+- **释义**：遗憾；可惜；懊悔
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>行<rt>い</rt></ruby>けなくて<ruby>残念<rt>ざんねん</rt></ruby>です。
+    > <br><small>很遗憾不能去。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>試合<rt>しあい</rt></ruby>に<ruby>負<rt>ま</rt></ruby>けて、とても<ruby>残念<rt>ざんねん</rt></ruby>だ。
+    > <br><small>比赛输了，感到非常遗憾。</small>
+    > </div>
+
+    > <div class="example-box">
+    > それは<ruby>残念<rt>ざんねん</rt></ruby>な<ruby>結果<rt>けっか</rt></ruby>になりました。
+    > <br><small>那是（一个）令人遗憾的结果。</small>
+    > </div>
 
 ---
 
@@ -498,46 +523,6 @@
 
 ---
 
-## 熱
-
-- **读音**：<ruby>熱<rt>ねつ</rt></ruby>（ねつ）
-- **词性**：名词
-- **释义**：发烧；热度；热情
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>熱<rt>ねつ</rt></ruby>があるので、<ruby>今日<rt>きょう</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>寝<rt>ね</rt></ruby>ます。
-    > <br><small>因为发烧了，今天早点睡觉。</small>
-    > </div>
-
-    > <div class="example-box">
-    > スープの<ruby>熱<rt>ねつ</rt></ruby>が<ruby>冷<rt>さ</rt></ruby>めないうちに<ruby>飲<rt>の</rt></ruby>んでください。
-    > <br><small>请趁汤还没凉的时候喝掉。</small>
-    > </div>
-
----
-
-## 風邪
-
-- **读音**：<ruby>風邪<rt>かぜ</rt></ruby>（かぜ）
-- **词性**：名词
-- **释义**：感冒
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>風邪<rt>かぜ</rt></ruby>をひいて、<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。
-    > <br><small>得了感冒，喉咙很痛。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>風邪<rt>かぜ</rt></ruby>が<ruby>流行<rt>はや</rt></ruby>っているので、<ruby>気<rt>き</rt></ruby>をつけてください。
-    > <br><small>感冒正在流行，请多加小心。</small>
-    > </div>
-
----
-
 ## 必ず
 
 - **读音**：<ruby>必<rt>かなら</rt></ruby>ず（かならず）
@@ -583,46 +568,6 @@
     > <div class="example-box">
     > そのコンサートを<ruby>生放送<rt>なまほうそう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ました。
     > <br><small>我看了那场演唱会的现场直播。</small>
-    > </div>
-
----
-
-## 港
-
-- **读音**：<ruby>港<rt>みなと</rt></ruby>（みなと）
-- **词性**：名词
-- **释义**：港口；港湾
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>船<rt>ふね</rt></ruby>が<ruby>港<rt>みなと</rt></ruby>に<ruby>到着<rt>とうちゃく</rt></ruby>しました。
-    > <br><small>船到达了港口。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>横浜<rt>よこはま</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>港町<rt>みなとまち</rt></ruby>です。
-    > <br><small>横滨是著名的港口城市。</small>
-    > </div>
-
----
-
-## 船
-
-- **读音**：<ruby>船<rt>ふね</rt></ruby>（ふね）
-- **词性**：名词
-- **释义**：船；舰艇
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>船<rt>ふね</rt></ruby>で<ruby>島<rt>しま</rt></ruby>へ<ruby>渡<rt>わた</rt></ruby>ります。
-    > <br><small>乘船过岛。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>大<rt>おお</rt></ruby>きな<ruby>船<rt>ふね</rt></ruby>が<ruby>海<rt>うみ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>っています。
-    > <br><small>大船正在横渡大海。</small>
     > </div>
 
 ---
