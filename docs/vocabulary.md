@@ -2,7 +2,67 @@
 
 记录名词、形容词等词汇。
 
-共 **28** 个词汇
+共 **27** 个词汇
+
+---
+
+## 一昨日
+
+- **读音**：<ruby>一昨日<rt>おととい</rt></ruby>（おととい）
+- **词性**：名词/副词
+- **释义**：前天
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>一昨日<rt>おととい</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りました。
+    > <br><small>前天下雨了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > その<ruby>荷物<rt>にもつ</rt></ruby>は<ruby>一昨日<rt>おととい</rt></ruby><ruby>届<rt>とど</rt></ruby>きました。
+    > <br><small>那个包裹是前天寄到的。</small>
+    > </div>
+
+---
+
+## 結婚
+
+- **读音**：<ruby>結婚<rt>けっこん</rt></ruby>（けっこん）
+- **词性**：名词/サ变动词
+- **释义**：结婚
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>兄<rt>あに</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby><ruby>結婚<rt>けっこん</rt></ruby>しました。
+    > <br><small>哥哥去年结婚了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>二人<rt>ふたり</rt></ruby>は<ruby>結婚<rt>けっこん</rt></ruby>して<ruby>幸<rt>しあわ</rt></ruby>せに<ruby>暮<rt>く</rt></ruby>らしています。
+    > <br><small>两个人结婚后过着幸福的生活。</small>
+    > </div>
+
+---
+
+## 会場
+
+- **读音**：<ruby>会場<rt>かいじょう</rt></ruby>（かいじょう）
+- **词性**：名词
+- **释义**：会场；集会场所
+
+- **例句**：
+
+    > <div class="example-box">
+    > コンサートの<ruby>会場<rt>かいじょう</rt></ruby>はどこですか。
+    > <br><small>演唱会的会场在哪里？</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>試験会場<rt>しけんかいじょう</rt></ruby>では<ruby>静<rt>しず</rt></ruby>かにしてください。
+    > <br><small>在考试会场请保持安静。</small>
+    > </div>
 
 ---
 
@@ -478,51 +538,6 @@
 
 ---
 
-## 玄関
-
-- **读音**：<ruby>玄関<rt>げんかん</rt></ruby>（げんかん）
-- **词性**：名詞
-- **释义**：玄关；门厅；入口
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>玄関<rt>げんかん</rt></ruby>で<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>いでください。
-    > <br><small>请在玄关脱鞋。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>玄関<rt>げんかん</rt></ruby>のチャイムが<ruby>鳴<rt>な</rt></ruby>っています。
-    > <br><small>玄关的门铃响了。</small>
-    > </div>
-
----
-
-## 苦い
-
-- **读音**：<ruby>苦<rt>にが</rt></ruby>い（にがい）
-- **词性**：形容词
-- **释义**：苦的；（表情）痛苦的、不悦的；（经验）痛苦的
-
-- **例句**：
-
-    > <div class="example-box">
-    > この<ruby>薬<rt>くすり</rt></ruby>はとても<ruby>苦<rt>にが</rt></ruby>いです。
-    > <br><small>这个药非常苦。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>苦<rt>にが</rt></ruby>い<ruby>経験<rt>けいけん</rt></ruby>をしました。
-    > <br><small>他有过痛苦的经历。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>失敗<rt>しっぱい</rt></ruby>して<ruby>苦<rt>にが</rt></ruby>い<ruby>顔<rt>かお</rt></ruby>をしています。
-    > <br><small>因为失败而露出了不悦的表情。</small>
-    > </div>
-
----
-
 ## 必ず
 
 - **读音**：<ruby>必<rt>かなら</rt></ruby>ず（かならず）
@@ -549,45 +564,5 @@
 > 
 > - 絶対 肯定否定都能用，没有根据，含感情的判断
 > 
-
----
-
-## 生
-
-- **读音**：<ruby>生<rt>なま</rt></ruby>（なま）
-- **词性**：名词
-- **释义**：生的；未加工的；现场直播
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>生<rt>なま</rt></ruby>の<ruby>野菜<rt>やさい</rt></ruby>をサラダにして<ruby>食<rt>た</rt></ruby>べます。
-    > <br><small>把生蔬菜做成沙拉吃。</small>
-    > </div>
-
-    > <div class="example-box">
-    > そのコンサートを<ruby>生放送<rt>なまほうそう</rt></ruby>で<ruby>見<rt>み</rt></ruby>ました。
-    > <br><small>我看了那场演唱会的现场直播。</small>
-    > </div>
-
----
-
-## 冷たい
-
-- **读音**：<ruby>冷<rt>つめ</rt></ruby>たい（つめたい）
-- **词性**：形容词
-- **释义**：凉的，冰凉的（触觉上的冷）；冷淡的，冷漠的（态度或性格）
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たい<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>があります。
-    > <br><small>冰箱里有冰凉的饮料。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>に<ruby>冷<rt>つめ</rt></ruby>たいです。
-    > <br><small>他最近对我比较冷淡。</small>
-    > </div>
 
 ---

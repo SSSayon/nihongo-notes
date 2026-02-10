@@ -2,7 +2,32 @@
 
 记录动词。
 
-共 **16** 个动词
+共 **17** 个动词
+
+---
+
+## 泣く
+
+- **读音**：<ruby>泣<rt>な</rt></ruby>く（なく）
+- **类型**：五段动词
+- **释义**：哭，哭泣，流泪
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>悲<rt>かな</rt></ruby>しくて<ruby>泣<rt>な</rt></ruby>きました。
+    > <br><small>因为伤心而哭了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>泣<rt>な</rt></ruby>いている。
+    > <br><small>婴儿正在大声哭泣。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>感動<rt>かんどう</rt></ruby>して<ruby>泣<rt>な</rt></ruby>いてしまった。
+    > <br><small>看了电影，感动得流泪了。</small>
+    > </div>
 
 ---
 

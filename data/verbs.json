@@ -1,5 +1,31 @@
 [
   {
+    "id": "naku_1770726676",
+    "word": "泣く",
+    "reading": "なく",
+    "display_html": "<ruby>泣<rt>な</rt></ruby>く",
+    "type": "五段动词",
+    "meaning": "哭，哭泣，流泪",
+    "examples": [
+      {
+        "jp": "悲しくて泣きました。",
+        "html": "<ruby>悲<rt>かな</rt></ruby>しくて<ruby>泣<rt>な</rt></ruby>きました。",
+        "cn": "因为伤心而哭了。"
+      },
+      {
+        "jp": "赤ちゃんが大声で泣いている。",
+        "html": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>大声<rt>おおごえ</rt></ruby>で<ruby>泣<rt>な</rt></ruby>いている。",
+        "cn": "婴儿正在大声哭泣。"
+      },
+      {
+        "jp": "映画を見て、感動して泣いてしまった。",
+        "html": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>感動<rt>かんどう</rt></ruby>して<ruby>泣<rt>な</rt></ruby>いてしまった。",
+        "cn": "看了电影，感动得流泪了。"
+      }
+    ],
+    "created_at": 1770726676
+  },
+  {
     "id": "wakareru_1770551666",
     "word": "別れる",
     "reading": "わかれる",
