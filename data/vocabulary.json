@@ -1,5 +1,62 @@
 [
   {
+    "id": "aisatsu_1770812740",
+    "word": "挨拶",
+    "reading": "あいさつ",
+    "display_html": "<ruby>挨拶<rt>あいさつ</rt></ruby>",
+    "type": "名词",
+    "meaning": "寒暄; 打招呼; 致辞",
+    "examples": [
+      {
+        "jp": "朝、先生に挨拶しました。",
+        "html": "<ruby>朝<rt>あさ</rt></ruby>、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>挨拶<rt>あいさつ</rt></ruby>しました。",
+        "cn": "早上向老师打招呼了。"
+      },
+      {
+        "jp": "会議の冒頭で社長が挨拶した。",
+        "html": "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>冒頭<rt>ぼうとう</rt></ruby>で<ruby>社長<rt>しゃちょう</rt></ruby>が<ruby>挨拶<rt>あいさつ</rt></ruby>した。",
+        "cn": "会议开始时社长致辞了。"
+      },
+      {
+        "jp": "彼はいつも笑顔で挨拶してくれる。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>挨拶<rt>あいさつ</rt></ruby>してくれる。",
+        "cn": "他总是笑着和我打招呼。"
+      }
+    ],
+    "created_at": 1770812740
+  },
+  {
+    "id": "hikui_1770812740",
+    "word": "低い",
+    "reading": "ひくい",
+    "display_html": "<ruby>低<rt>ひく</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "低的 (高度、位置); 矮的 (身高); 低沉的 (声音); 低下的 (水平、士气)",
+    "examples": [
+      {
+        "jp": "このテーブルは少し低いですね。",
+        "html": "このテーブルは<ruby>少<rt>すこ</rt></ruby>し<ruby>低<rt>ひく</rt></ruby>いですね。",
+        "cn": "这张桌子有点低呢。"
+      },
+      {
+        "jp": "彼は背が低いが、とても活発だ。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>いが、とても<ruby>活発<rt>かっぱつ</rt></ruby>だ。",
+        "cn": "他个子矮，但非常活跃。"
+      },
+      {
+        "jp": "彼の声はとても低くて落ち着く。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>はとても<ruby>低<rt>ひく</rt></ruby>くて<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>く。",
+        "cn": "他的声音很低沉，让人感到平静。"
+      },
+      {
+        "jp": "今月の売上は目標より低かった。",
+        "html": "<ruby>今月<rt>こんげつ</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby>は<ruby>目標<rt>もくひょう</rt></ruby>より<ruby>低<rt>ひく</rt></ruby>かった。",
+        "cn": "本月的销售额低于目标。"
+      }
+    ],
+    "created_at": 1770812740
+  },
+  {
     "id": "ototoi_1770726772",
     "word": "一昨日",
     "reading": "おととい",
@@ -39,7 +96,8 @@
         "cn": "两个人结婚后过着幸福的生活。"
       }
     ],
-    "created_at": 1770726772
+    "created_at": 1770726772,
+    "notes": "- 婚礼：**結婚式**（けっこんしき）\n- 新郎：**新郎**（しんろう）\n- 新娘：**新婦**（しんぷ）"
   },
   {
     "id": "kaijo_1770726772",

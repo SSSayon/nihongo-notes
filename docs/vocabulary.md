@@ -2,7 +2,62 @@
 
 记录名词、形容词等词汇。
 
-共 **27** 个词汇
+共 **29** 个词汇
+
+---
+
+## 挨拶
+
+- **读音**：<ruby>挨拶<rt>あいさつ</rt></ruby>（あいさつ）
+- **词性**：名词
+- **释义**：寒暄; 打招呼; 致辞
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>朝<rt>あさ</rt></ruby>、<ruby>先生<rt>せんせい</rt></ruby>に<ruby>挨拶<rt>あいさつ</rt></ruby>しました。
+    > <br><small>早上向老师打招呼了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>冒頭<rt>ぼうとう</rt></ruby>で<ruby>社長<rt>しゃちょう</rt></ruby>が<ruby>挨拶<rt>あいさつ</rt></ruby>した。
+    > <br><small>会议开始时社长致辞了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>はいつも<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>挨拶<rt>あいさつ</rt></ruby>してくれる。
+    > <br><small>他总是笑着和我打招呼。</small>
+    > </div>
+
+---
+
+## 低い
+
+- **读音**：<ruby>低<rt>ひく</rt></ruby>い（ひくい）
+- **词性**：形容词
+- **释义**：低的 (高度、位置); 矮的 (身高); 低沉的 (声音); 低下的 (水平、士气)
+
+- **例句**：
+
+    > <div class="example-box">
+    > このテーブルは<ruby>少<rt>すこ</rt></ruby>し<ruby>低<rt>ひく</rt></ruby>いですね。
+    > <br><small>这张桌子有点低呢。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>背<rt>せ</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>いが、とても<ruby>活発<rt>かっぱつ</rt></ruby>だ。
+    > <br><small>他个子矮，但非常活跃。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>はとても<ruby>低<rt>ひく</rt></ruby>くて<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>く。
+    > <br><small>他的声音很低沉，让人感到平静。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>今月<rt>こんげつ</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby>は<ruby>目標<rt>もくひょう</rt></ruby>より<ruby>低<rt>ひく</rt></ruby>かった。
+    > <br><small>本月的销售额低于目标。</small>
+    > </div>
 
 ---
 
@@ -43,6 +98,15 @@
     > <ruby>二人<rt>ふたり</rt></ruby>は<ruby>結婚<rt>けっこん</rt></ruby>して<ruby>幸<rt>しあわ</rt></ruby>せに<ruby>暮<rt>く</rt></ruby>らしています。
     > <br><small>两个人结婚后过着幸福的生活。</small>
     > </div>
+
+> 📝 **备注**：
+
+> - 婚礼：**結婚式**（けっこんしき）
+> 
+> - 新郎：**新郎**（しんろう）
+> 
+> - 新娘：**新婦**（しんぷ）
+> 
 
 ---
 
