@@ -1,5 +1,68 @@
 [
   {
+    "id": "kashu_1770905973",
+    "word": "歌手",
+    "reading": "かしゅ",
+    "display_html": "<ruby>歌手<rt>かしゅ</rt></ruby>",
+    "type": "名词",
+    "meaning": "歌手",
+    "examples": [
+      {
+        "jp": "彼女は有名な歌手です。",
+        "html": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>歌手<rt>かしゅ</rt></ruby>です。",
+        "cn": "她是一位著名的歌手。"
+      },
+      {
+        "jp": "将来、歌手になりたいです。",
+        "html": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>歌手<rt>かしゅ</rt></ruby>になりたいです。",
+        "cn": "我将来想成为一名歌手。"
+      }
+    ],
+    "created_at": 1770905973
+  },
+  {
+    "id": "kandou_1770905973",
+    "word": "感動",
+    "reading": "かんどう",
+    "display_html": "<ruby>感動<rt>かんどう</rt></ruby>",
+    "type": "名词/サ变动词",
+    "meaning": "感动；触动",
+    "examples": [
+      {
+        "jp": "その映画を見て、とても感動しました。",
+        "html": "その<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、とても<ruby>感動<rt>かんどう</rt></ruby>しました。",
+        "cn": "看了那部电影，我非常感动。"
+      },
+      {
+        "jp": "彼の熱意に感動した。",
+        "html": "<ruby>彼<rt>かれ</rt></ruby>の<ruby>熱意<rt>ねつい</rt></ruby>に<ruby>感動<rt>かんどう</rt></ruby>した。",
+        "cn": "被他的热情所打动。"
+      }
+    ],
+    "created_at": 1770905973
+  },
+  {
+    "id": "hidoi_1770905973",
+    "word": "酷い",
+    "reading": "ひどい",
+    "display_html": "<ruby>酷<rt>ひど</rt></ruby>い",
+    "type": "形容词",
+    "meaning": "严重的；过分的；差劲的",
+    "examples": [
+      {
+        "jp": "ひどい風邪をひいて、学校を休みました。",
+        "html": "ひどい<ruby>風邪<rt>かぜ</rt></ruby>をひいて、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みました。",
+        "cn": "得了重感冒，向学校请假了。"
+      },
+      {
+        "jp": "約束を破るなんて、ひどいです。",
+        "html": "<ruby>約束<rt>やくそく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>るなんて、ひどいです。",
+        "cn": "竟然爽约，真是太过分了。"
+      }
+    ],
+    "created_at": 1770905973
+  },
+  {
     "id": "aisatsu_1770812740",
     "word": "挨拶",
     "reading": "あいさつ",

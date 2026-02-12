@@ -2,7 +2,67 @@
 
 记录名词、形容词等词汇。
 
-共 **29** 个词汇
+共 **32** 个词汇
+
+---
+
+## 歌手
+
+- **读音**：<ruby>歌手<rt>かしゅ</rt></ruby>（かしゅ）
+- **词性**：名词
+- **释义**：歌手
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>歌手<rt>かしゅ</rt></ruby>です。
+    > <br><small>她是一位著名的歌手。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>将来<rt>しょうらい</rt></ruby>、<ruby>歌手<rt>かしゅ</rt></ruby>になりたいです。
+    > <br><small>我将来想成为一名歌手。</small>
+    > </div>
+
+---
+
+## 感動
+
+- **读音**：<ruby>感動<rt>かんどう</rt></ruby>（かんどう）
+- **词性**：名词/サ变动词
+- **释义**：感动；触动
+
+- **例句**：
+
+    > <div class="example-box">
+    > その<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、とても<ruby>感動<rt>かんどう</rt></ruby>しました。
+    > <br><small>看了那部电影，我非常感动。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>の<ruby>熱意<rt>ねつい</rt></ruby>に<ruby>感動<rt>かんどう</rt></ruby>した。
+    > <br><small>被他的热情所打动。</small>
+    > </div>
+
+---
+
+## 酷い
+
+- **读音**：<ruby>酷<rt>ひど</rt></ruby>い（ひどい）
+- **词性**：形容词
+- **释义**：严重的；过分的；差劲的
+
+- **例句**：
+
+    > <div class="example-box">
+    > ひどい<ruby>風邪<rt>かぜ</rt></ruby>をひいて、<ruby>学校<rt>がっこう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>みました。
+    > <br><small>得了重感冒，向学校请假了。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>約束<rt>やくそく</rt></ruby>を<ruby>破<rt>やぶ</rt></ruby>るなんて、ひどいです。
+    > <br><small>竟然爽约，真是太过分了。</small>
+    > </div>
 
 ---
 
