@@ -2,7 +2,7 @@
 
 记录名词、形容词等词汇。
 
-共 **32** 个词汇
+共 **31** 个词汇
 
 ---
 
@@ -511,26 +511,6 @@
     > <div class="example-box">
     > この<ruby>公園<rt>こうえん</rt></ruby>には<ruby>緑<rt>みどり</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>最適<rt>さいてき</rt></ruby>です。
     > <br><small>这个公园绿化很好，非常适合散步。</small>
-    > </div>
-
----
-
-## 花瓶
-
-- **读音**：<ruby>花瓶<rt>かびん</rt></ruby>（かびん）
-- **词性**：名词
-- **释义**：花瓶
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>花瓶<rt>かびん</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る。
-    > <br><small>在花瓶里插花。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>不注意<rt>ふちゅうい</rt></ruby>で<ruby>花瓶<rt>かびん</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまった。
-    > <br><small>不小心把花瓶打碎了。</small>
     > </div>
 
 ---

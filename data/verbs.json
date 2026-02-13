@@ -47,27 +47,6 @@
     "created_at": 1770551666
   },
   {
-    "id": "matsu_1770378825",
-    "word": "待つ",
-    "reading": "まつ",
-    "display_html": "<ruby>待<rt>ま</rt></ruby>つ",
-    "type": "五段动词",
-    "meaning": "等待；期待",
-    "examples": [
-      {
-        "jp": "駅で友達を待っています。",
-        "html": "<ruby>駅<rt>えき</rt></ruby>で<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。",
-        "cn": "在车站等朋友。"
-      },
-      {
-        "jp": "返事を待っています。",
-        "html": "<ruby>返<rt>へん</rt></ruby><ruby>事<rt>じ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。",
-        "cn": "在等回信。"
-      }
-    ],
-    "created_at": 1770378825
-  },
-  {
     "id": "komu_1770378825",
     "word": "込む",
     "reading": "こむ",

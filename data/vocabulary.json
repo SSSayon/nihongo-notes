@@ -525,27 +525,6 @@
     "created_at": 1769943887
   },
   {
-    "id": "kabin_1769862887",
-    "word": "花瓶",
-    "reading": "かびん",
-    "display_html": "<ruby>花瓶<rt>かびん</rt></ruby>",
-    "type": "名词",
-    "meaning": "花瓶",
-    "examples": [
-      {
-        "jp": "花瓶に花を飾る。",
-        "html": "<ruby>花瓶<rt>かびん</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>る。",
-        "cn": "在花瓶里插花。"
-      },
-      {
-        "jp": "不注意で花瓶を割ってしまった。",
-        "html": "<ruby>不注意<rt>ふちゅうい</rt></ruby>で<ruby>花瓶<rt>かびん</rt></ruby>を<ruby>割<rt>わ</rt></ruby>ってしまった。",
-        "cn": "不小心把花瓶打碎了。"
-      }
-    ],
-    "created_at": 1769862887
-  },
-  {
     "id": "tana_1769772768",
     "word": "棚",
     "reading": "たな",

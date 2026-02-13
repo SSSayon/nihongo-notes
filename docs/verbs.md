@@ -2,7 +2,7 @@
 
 记录动词。
 
-共 **17** 个动词
+共 **16** 个动词
 
 ---
 
@@ -47,26 +47,6 @@
     > <div class="example-box">
     > <ruby>彼女<rt>かのじょ</rt></ruby>と<ruby>別<rt>わか</rt></ruby>れるのは<ruby>辛<rt>つら</rt></ruby>い。
     > <br><small>和她分手很痛苦。</small>
-    > </div>
-
----
-
-## 待つ
-
-- **读音**：<ruby>待<rt>ま</rt></ruby>つ（まつ）
-- **类型**：五段动词
-- **释义**：等待；期待
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>駅<rt>えき</rt></ruby>で<ruby>友<rt>とも</rt></ruby><ruby>達<rt>だち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。
-    > <br><small>在车站等朋友。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>返<rt>へん</rt></ruby><ruby>事<rt>じ</rt></ruby>を<ruby>待<rt>ま</rt></ruby>っています。
-    > <br><small>在等回信。</small>
     > </div>
 
 ---
