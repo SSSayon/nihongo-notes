@@ -2,7 +2,87 @@
 
 记录名词、形容词等词汇。
 
-共 **31** 个词汇
+共 **35** 个词汇
+
+---
+
+## きっと
+
+- **读音**：きっと（きっと）
+- **词性**：副词
+- **释义**：一定；必定
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>明日<rt>あした</rt></ruby>はきっと<ruby>晴<rt>は</rt></ruby>れるでしょう。
+    > <br><small>明天一定会放晴吧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>努力<rt>どりょく</rt></ruby>すれば、きっと<ruby>成功<rt>せいこう</rt></ruby>します。
+    > <br><small>只要努力，就一定会成功。</small>
+    > </div>
+
+---
+
+## 親戚
+
+- **读音**：<ruby>親戚<rt>しんせき</rt></ruby>（しんせき）
+- **词性**：名词
+- **释义**：亲戚；亲属
+
+- **例句**：
+
+    > <div class="example-box">
+    > お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>親戚<rt>しんせき</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まります。
+    > <br><small>亲戚们在正月里聚在一起。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼<rt>かれ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>遠<rt>とお</rt></ruby>い<ruby>親戚<rt>しんせき</rt></ruby>です。
+    > <br><small>他是我的远房亲戚。</small>
+    > </div>
+
+---
+
+## 雰囲気
+
+- **读音**：<ruby>雰囲気<rt>ふんいき</rt></ruby>（ふんいき）
+- **词性**：名词
+- **释义**：气氛；氛围
+
+- **例句**：
+
+    > <div class="example-box">
+    > このレストランは<ruby>雰囲気<rt>ふんいき</rt></ruby>がとてもいいです。
+    > <br><small>这家餐厅的气氛非常好。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>会議<rt>かいぎ</rt></ruby>の<ruby>雰囲気<rt>ふんいき</rt></ruby>が<ruby>重苦<rt>おもくる</rt></ruby>しいです。
+    > <br><small>会议的气氛很沉闷。</small>
+    > </div>
+
+---
+
+## 屋上
+
+- **读音**：<ruby>屋上<rt>おくじょう</rt></ruby>（おくじょう）
+- **词性**：名词
+- **释义**：屋顶；楼顶
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>屋上<rt>おくじょう</rt></ruby>で<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>します。
+    > <br><small>在屋顶晾衣服。</small>
+    > </div>
+
+    > <div class="example-box">
+    > ビルの<ruby>屋上<rt>おくじょう</rt></ruby>から<ruby>夜景<rt>やけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。
+    > <br><small>从大楼屋顶看夜景。</small>
+    > </div>
 
 ---
 
