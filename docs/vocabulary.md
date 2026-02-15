@@ -6,6 +6,71 @@
 
 ---
 
+## 苦手
+
+- **读音**：<ruby>苦手<rt>にがて</rt></ruby>（にがて）
+- **词性**：形容動詞
+- **释义**：不擅长；不善于；不合口味；不喜欢
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>私<rt>わたし</rt></ruby>は<ruby>数学<rt>すうがく</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>です。
+    > <br><small>我不擅长数学。</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>納豆<rt>なっとう</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>だ。
+    > <br><small>她不喜欢纳豆。</small>
+    > </div>
+
+---
+
+## 場所
+
+- **读音**：<ruby>場所<rt>ばしょ</rt></ruby>（ばしょ）
+- **词性**：名詞
+- **释义**：地方；场所；位置
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>決<rt>き</rt></ruby>めましょう。
+    > <br><small>我们来决定见面地点吧。</small>
+    > </div>
+
+    > <div class="example-box">
+    > この<ruby>場所<rt>ばしょ</rt></ruby>はいつも<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。
+    > <br><small>这个地方总是人很多。</small>
+    > </div>
+
+---
+
+## 最高
+
+- **读音**：<ruby>最高<rt>さいこう</rt></ruby>（さいこう）
+- **词性**：名詞; 形容動詞
+- **释义**：最好；最高；最棒
+
+- **例句**：
+
+    > <div class="example-box">
+    > <ruby>今日<rt>きょう</rt></ruby>の<ruby>天気<rt>てんき</rt></ruby>は<ruby>最高<rt>さいこう</rt></ruby>だね。
+    > <br><small>今天的天气真好啊。</small>
+    > </div>
+
+    > <div class="example-box">
+    > このラーメン、<ruby>最高<rt>さいこう</rt></ruby>に<ruby>美味<rt>おい</rt></ruby>しい！
+    > <br><small>这个拉面，好吃极了！</small>
+    > </div>
+
+    > <div class="example-box">
+    > <ruby>過去<rt>かこ</rt></ruby><ruby>最高<rt>さいこう</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby>を<ruby>記録<rt>きろく</rt></ruby>しました。
+    > <br><small>创下了史上最高的销售额。</small>
+    > </div>
+
+---
+
 ## きっと
 
 - **读音**：きっと（きっと）
@@ -435,21 +500,6 @@
 
 ---
 
-## 遊園地
-
-- **读音**：<ruby>遊園地<rt>ゆうえんち</rt></ruby>（ゆうえんち）
-- **词性**：名词
-- **释义**：游乐园
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>遊園地<rt>ゆうえんち</rt></ruby>へ<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きます。
-    > <br><small>周末去游乐园玩。</small>
-    > </div>
-
----
-
 ## 列
 
 - **读音**：<ruby>列<rt>れつ</rt></ruby>（れつ）
@@ -595,26 +645,6 @@
 
 ---
 
-## 棚
-
-- **读音**：<ruby>棚<rt>たな</rt></ruby>（たな）
-- **词性**：名词
-- **释义**：架子；搁板
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>本<rt>ほん</rt></ruby>を<ruby>棚<rt>たな</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>してください。
-    > <br><small>请把书放回架子上。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>棚<rt>たな</rt></ruby>にきれいな<ruby>飾<rt>かざ</rt></ruby>りが<ruby>並<rt>なら</rt></ruby>んでいる。
-    > <br><small>架子上摆放着漂亮的装饰品。</small>
-    > </div>
-
----
-
 ## 少ない
 
 - **读音**：<ruby>少<rt>すくな</rt></ruby>い（すくない）
@@ -698,26 +728,6 @@
     > <div class="example-box">
     > この<ruby>部屋<rt>へや</rt></ruby>は<ruby>家具<rt>かぐ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。
     > <br><small>这个房间家具很少。</small>
-    > </div>
-
----
-
-## 壁
-
-- **读音**：<ruby>壁<rt>かべ</rt></ruby>（かべ）
-- **词性**：名词
-- **释义**：墙壁；障碍
-
-- **例句**：
-
-    > <div class="example-box">
-    > <ruby>壁<rt>かべ</rt></ruby>にカレンダーを<ruby>掛<rt>か</rt></ruby>けました。
-    > <br><small>在墙上挂了日历。</small>
-    > </div>
-
-    > <div class="example-box">
-    > <ruby>言葉<rt>ことば</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じることがあります。
-    > <br><small>有时会感到语言的障碍。</small>
     > </div>
 
 ---
